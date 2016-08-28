@@ -4,7 +4,7 @@
 require('babel-register')({
   //see https://babeljs.io/docs/usage/options/#options for more config options
   babelrc: false,
-  "presets": ["es2015-node5", "stage-2"],
+  "presets": ["es2015-node6", "stage-2"],
   "plugins": ["add-module-exports"],
 })
 require('babel-polyfill')
