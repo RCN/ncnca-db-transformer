@@ -34,9 +34,10 @@
     "nodemon": "^1.10.2"
   },
   "dependencies": {
-    "bluebird": "^3.4.0",
+    "bluebird": "^3.4.6",
     "cheerio": "^0.20.0",
     "colors": "^1.0.3",
+    "diff": "^3.0.0",
     "lodash": "^4.15.0",
     "moment": "^2.14.1",
     "mysql": "github:mysqljs/mysql",
