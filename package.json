@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "NODE_PATH=./lib node index.js",
-    "dev": "NODE_PATH=./lib nodemon index.js --ext js",
+    "dev": "NODE_PATH=./lib nodemon index.js --ext js --ignore data/",
     "eslint": "eslint lib/ --ext .js || true",
     "eslint:fix": "eslint lib/ --ext .js --fix || true",
     "reinstall": "rimraf node_modules && npm i"
