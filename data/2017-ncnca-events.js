@@ -1,8 +1,6 @@
 [
   {
     "_id": 24038,
-    "_year": 2017,
-    "_origName": "CCCX Cyclocross Series Final",
     "id": "evt-24038",
     "name": "CCCX Cyclocross Series Final",
     "status": "",

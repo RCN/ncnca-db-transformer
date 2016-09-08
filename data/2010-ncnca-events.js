@@ -1,8 +1,6 @@
 [
   {
     "_id": 2591,
-    "_year": 2010,
-    "_origName": "Folsom Cyclocross",
     "id": "evt-2591",
     "name": "Folsom Cyclocross",
     "status": "",
@@ -28,8 +26,6 @@
   },
   {
     "_id": 2592,
-    "_year": 2010,
-    "_origName": "Surf City Cyclocross Series #3",
     "id": "evt-2592",
     "name": "Surf City Cyclocross Series #3",
     "status": "",
@@ -55,8 +51,6 @@
   },
   {
     "_id": 2593,
-    "_year": 2010,
-    "_origName": "Homegrown Series Race #4",
     "id": "evt-2593",
     "name": "Homegrown Series Race #4",
     "status": "",
@@ -82,8 +76,6 @@
   },
   {
     "_id": 2601,
-    "_year": 2010,
-    "_origName": "Monkey Cross #4",
     "id": "evt-2601",
     "name": "Monkey Cross #4",
     "status": "",
@@ -103,7 +95,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -115,8 +106,6 @@
   },
   {
     "_id": 2603,
-    "_year": 2010,
-    "_origName": "Sacramento Cyclocross #6",
     "id": "evt-2603",
     "name": "Sacramento Cyclocross #6",
     "status": "",
@@ -136,7 +125,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -148,8 +136,6 @@
   },
   {
     "_id": 2610,
-    "_year": 2010,
-    "_origName": "Central Coast Cyclocross Series #7",
     "id": "evt-2610",
     "name": "Central Coast Cyclocross Series #7",
     "status": "",
@@ -169,7 +155,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -181,8 +166,6 @@
   },
   {
     "_id": 2612,
-    "_year": 2010,
-    "_origName": "Sagebrush Cyclocross Series #6",
     "id": "evt-2612",
     "name": "Sagebrush Cyclocross Series #6",
     "status": "",

@@ -1,8 +1,6 @@
 [
   {
     "_id": 3309,
-    "_year": 2013,
-    "_origName": "Sea Otter Classic (April 20-21)",
     "id": "evt-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
@@ -28,8 +26,6 @@
   },
   {
     "_id": 3309,
-    "_year": 2013,
-    "_origName": "Sea Otter Classic (April 20-21)",
     "id": "evt-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
@@ -55,8 +51,6 @@
   },
   {
     "_id": 3309,
-    "_year": 2013,
-    "_origName": "Sea Otter Classic (April 20-21)",
     "id": "evt-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
@@ -82,8 +76,6 @@
   },
   {
     "_id": 3309,
-    "_year": 2013,
-    "_origName": "Sea Otter Classic (April 20-21)",
     "id": "evt-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
@@ -109,8 +101,6 @@
   },
   {
     "_id": 4651,
-    "_year": 2013,
-    "_origName": "CCCX- Central Coast Cyclocross Series Final",
     "id": "evt-4651",
     "name": "CCCX — Central Coast Cyclocross Series Final",
     "status": "",
@@ -130,7 +120,6 @@
     "resultsUrl": "http://www.cccxcycling.com/2012CROSSSERIESHOMEPAGE.html",
     "promoters": [
       {
-        "_id": 379,
         "id": "prm-379",
         "name": "Keith DeFiebre"
       }
@@ -142,8 +131,6 @@
   },
   {
     "_id": 4760,
-    "_year": 2013,
-    "_origName": "NorCal vs. SoCal Cyclocross Championships",
     "id": "evt-4760",
     "name": "NorCal vs. SoCal Cyclocross Championships",
     "status": "",
@@ -169,8 +156,6 @@
   },
   {
     "_id": 4772,
-    "_year": 2013,
-    "_origName": "San Bruno Mountain Hill Climb",
     "id": "evt-4772",
     "name": "San Bruno Mountain Hill Climb",
     "status": "",
@@ -190,7 +175,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-105",
     "promoters": [
       {
-        "_id": 2630,
         "id": "prm-2630",
         "name": "Peninsula Velo Cycling Club"
       }
@@ -202,8 +186,6 @@
   },
   {
     "_id": 4774,
-    "_year": 2013,
-    "_origName": "Early Bird Criterium Training Series #1",
     "id": "evt-4774",
     "name": "Early Bird Criterium Training Series #1",
     "status": "",
@@ -223,12 +205,10 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -240,8 +220,6 @@
   },
   {
     "_id": 4775,
-    "_year": 2013,
-    "_origName": "Early Bird Criterium Training Series #2",
     "id": "evt-4775",
     "name": "Early Bird Criterium Training Series #2",
     "status": "",
@@ -261,12 +239,10 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -278,8 +254,6 @@
   },
   {
     "_id": 4776,
-    "_year": 2013,
-    "_origName": "Early Bird Criterium Training Series #3",
     "id": "evt-4776",
     "name": "Early Bird Criterium Training Series #3",
     "status": "",
@@ -299,12 +273,10 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -316,8 +288,6 @@
   },
   {
     "_id": 4777,
-    "_year": 2013,
-    "_origName": "Early Bird Criterium Training Series #4",
     "id": "evt-4777",
     "name": "Early Bird Criterium Training Series #4",
     "status": "",
@@ -337,12 +307,10 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -354,8 +322,6 @@
   },
   {
     "_id": 4778,
-    "_year": 2013,
-    "_origName": "Early Bird Criterium Training Series #5",
     "id": "evt-4778",
     "name": "Early Bird Criterium Training Series #5",
     "status": "",
@@ -375,12 +341,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-142",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -392,8 +356,6 @@
   },
   {
     "_id": 4780,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Training Series #2",
     "id": "evt-4780",
     "name": "Clovis Criterium Training Series #2",
     "status": "",
@@ -419,8 +381,6 @@
   },
   {
     "_id": 4781,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Training Series #3",
     "id": "evt-4781",
     "name": "Clovis Criterium Training Series #3",
     "status": "",
@@ -446,8 +406,6 @@
   },
   {
     "_id": 4782,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Training Series #1",
     "id": "evt-4782",
     "name": "Clovis Criterium Training Series #1",
     "status": "",
@@ -473,8 +431,6 @@
   },
   {
     "_id": 4784,
-    "_year": 2013,
-    "_origName": "Early Bird Road Race",
     "id": "evt-4784",
     "name": "Early Bird Road Race",
     "status": "",
@@ -494,12 +450,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-210",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       },
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       }
@@ -511,8 +465,6 @@
   },
   {
     "_id": 4785,
-    "_year": 2013,
-    "_origName": "Cal Aggie Criterium",
     "id": "evt-4785",
     "name": "Cal Aggie Criterium",
     "status": "",
@@ -532,7 +484,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-453",
     "promoters": [
       {
-        "_id": 380,
         "id": "prm-380",
         "name": "Cal Aggie Cycling"
       }
@@ -544,8 +495,6 @@
   },
   {
     "_id": 4798,
-    "_year": 2013,
-    "_origName": "Knights Ferry Road Race",
     "id": "evt-4798",
     "name": "Knights Ferry Road Race",
     "status": "",
@@ -565,7 +514,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-227",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -577,8 +525,6 @@
   },
   {
     "_id": 4799,
-    "_year": 2013,
-    "_origName": "Bicycle Plus Winter Criterium",
     "id": "evt-4799",
     "name": "Bicycle Plus Winter Criterium",
     "status": "",
@@ -604,8 +550,6 @@
   },
   {
     "_id": 4800,
-    "_year": 2013,
-    "_origName": "Cherry Pie Criterium",
     "id": "evt-4800",
     "name": "Cherry Pie Criterium",
     "status": "",
@@ -631,8 +575,6 @@
   },
   {
     "_id": 4800,
-    "_year": 2013,
-    "_origName": "Cherry Pie Criterium",
     "id": "evt-4800",
     "name": "Cherry Pie Criterium",
     "status": "",
@@ -658,8 +600,6 @@
   },
   {
     "_id": 4801,
-    "_year": 2013,
-    "_origName": "Cantua Creek Road Race",
     "id": "evt-4801",
     "name": "Cantua Creek Road Race",
     "status": "",
@@ -679,12 +619,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-288",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -696,8 +634,6 @@
   },
   {
     "_id": 4802,
-    "_year": 2013,
-    "_origName": "Pine Flat Road Race",
     "id": "evt-4802",
     "name": "Pine Flat Road Race",
     "status": "",
@@ -717,12 +653,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-289",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -734,8 +668,6 @@
   },
   {
     "_id": 4803,
-    "_year": 2013,
-    "_origName": "Coppertown Circuit Race",
     "id": "evt-4803",
     "name": "Coppertown Circuit Race",
     "status": "",
@@ -755,7 +687,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-225",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -767,8 +698,6 @@
   },
   {
     "_id": 4804,
-    "_year": 2013,
-    "_origName": "Dinuba Criterium",
     "id": "evt-4804",
     "name": "Dinuba Criterium",
     "status": "",
@@ -788,12 +717,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-290",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -805,8 +732,6 @@
   },
   {
     "_id": 4805,
-    "_year": 2013,
-    "_origName": "Snelling Road Race",
     "id": "evt-4805",
     "name": "Snelling Road Race",
     "status": "",
@@ -826,7 +751,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-416",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -838,8 +762,6 @@
   },
   {
     "_id": 4806,
-    "_year": 2013,
-    "_origName": "Original Merced Criterium",
     "id": "evt-4806",
     "name": "Original Merced Criterium",
     "status": "",
@@ -859,7 +781,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-417",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -871,8 +792,6 @@
   },
   {
     "_id": 4807,
-    "_year": 2013,
-    "_origName": "Merco Cycling Classic Stage Race, MID Road Race",
     "id": "evt-4807",
     "name": "Merco Cycling Classic Stage Race, MID Road Race",
     "status": "",
@@ -892,7 +811,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -904,8 +822,6 @@
   },
   {
     "_id": 4807,
-    "_year": 2013,
-    "_origName": "Merco Cycling Classic Stage Race, MID Road Race",
     "id": "evt-4807",
     "name": "Merco Cycling Classic Stage Race, MID Road Race",
     "status": "",
@@ -925,7 +841,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -937,8 +852,6 @@
   },
   {
     "_id": 4808,
-    "_year": 2013,
-    "_origName": "Merco Classic: Merced Boosters Individual Time Trial",
     "id": "evt-4808",
     "name": "Merco Classic: Merced Boosters Individual Time Trial",
     "status": "",
@@ -958,7 +871,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -970,8 +882,6 @@
   },
   {
     "_id": 4808,
-    "_year": 2013,
-    "_origName": "Merco Classic: Merced Boosters Individual Time Trial",
     "id": "evt-4808",
     "name": "Merco Classic: Merced Boosters Individual Time Trial",
     "status": "",
@@ -991,7 +901,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1003,8 +912,6 @@
   },
   {
     "_id": 4809,
-    "_year": 2013,
-    "_origName": "Merco Classic: McDonald's Downtown Grand Prix",
     "id": "evt-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
@@ -1024,7 +931,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1036,8 +942,6 @@
   },
   {
     "_id": 4809,
-    "_year": 2013,
-    "_origName": "Merco Classic: McDonald's Downtown Grand Prix",
     "id": "evt-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
@@ -1057,7 +961,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1069,8 +972,6 @@
   },
   {
     "_id": 4809,
-    "_year": 2013,
-    "_origName": "Merco Classic: McDonald's Downtown Grand Prix",
     "id": "evt-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
@@ -1090,7 +991,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1102,8 +1002,6 @@
   },
   {
     "_id": 4809,
-    "_year": 2013,
-    "_origName": "Merco Classic: McDonald's Downtown Grand Prix",
     "id": "evt-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
@@ -1123,7 +1021,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1135,8 +1032,6 @@
   },
   {
     "_id": 4810,
-    "_year": 2013,
-    "_origName": "Merco Classic: Almond Blossom Road Race",
     "id": "evt-4810",
     "name": "Merco Classic: Almond Blossom Road Race",
     "status": "",
@@ -1156,7 +1051,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1168,8 +1062,6 @@
   },
   {
     "_id": 4810,
-    "_year": 2013,
-    "_origName": "Merco Classic: Almond Blossom Road Race",
     "id": "evt-4810",
     "name": "Merco Classic: Almond Blossom Road Race",
     "status": "",
@@ -1189,7 +1081,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-193",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1201,8 +1092,6 @@
   },
   {
     "_id": 4812,
-    "_year": 2013,
-    "_origName": "Petaluma Cypress Criterium - Cancelled",
     "id": "evt-4812",
     "name": "Petaluma Cypress Criterium",
     "status": "Canceled",
@@ -1222,7 +1111,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3304,
         "id": "prm-3304",
         "name": "Rene Goncalves"
       }
@@ -1234,8 +1122,6 @@
   },
   {
     "_id": 4813,
-    "_year": 2013,
-    "_origName": "Madera Stage Race (March 8-10)",
     "id": "evt-4813",
     "name": "Madera Stage Race (March 8-10)",
     "status": "",
@@ -1255,7 +1141,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-826",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1267,8 +1152,6 @@
   },
   {
     "_id": 4815,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #1 p/b The Winemaker's Pourhouse of Livermore",
     "id": "evt-4815",
     "name": "Red Kite Criterium Series #1 p/b The Winemaker's Pourhouse of Livermore",
     "status": "",
@@ -1288,7 +1171,6 @@
     "resultsUrl": "https://www.usacycling.org/results/index.php?event=red+kite",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1300,8 +1182,6 @@
   },
   {
     "_id": 4816,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #2 p/b The Winemaker's Pourhouse of Livermore",
     "id": "evt-4816",
     "name": "Red Kite Criterium Series #2 p/b The Winemaker's Pourhouse of Livermore",
     "status": "",
@@ -1321,7 +1201,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-564",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1333,8 +1212,6 @@
   },
   {
     "_id": 4817,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #3",
     "id": "evt-4817",
     "name": "Red Kite Criterium Series #3",
     "status": "",
@@ -1354,7 +1231,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-566",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1366,8 +1242,6 @@
   },
   {
     "_id": 4818,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #4",
     "id": "evt-4818",
     "name": "Red Kite Criterium Series #4",
     "status": "",
@@ -1387,7 +1261,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-567",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1399,8 +1272,6 @@
   },
   {
     "_id": 4819,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #5",
     "id": "evt-4819",
     "name": "Red Kite Criterium Series #5",
     "status": "",
@@ -1420,7 +1291,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-569",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1432,8 +1302,6 @@
   },
   {
     "_id": 4820,
-    "_year": 2013,
-    "_origName": "Red Kite Criterium Series #6",
     "id": "evt-4820",
     "name": "Red Kite Criterium Series #6",
     "status": "",
@@ -1453,7 +1321,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-570",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -1465,8 +1332,6 @@
   },
   {
     "_id": 4822,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Series #1",
     "id": "evt-4822",
     "name": "Clovis Criterium Series #1",
     "status": "",
@@ -1492,8 +1357,6 @@
   },
   {
     "_id": 4823,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Series #2",
     "id": "evt-4823",
     "name": "Clovis Criterium Series #2",
     "status": "",
@@ -1519,8 +1382,6 @@
   },
   {
     "_id": 4824,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Series #3",
     "id": "evt-4824",
     "name": "Clovis Criterium Series #3",
     "status": "",
@@ -1540,7 +1401,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 5157,
         "id": "prm-5157",
         "name": "Back of Nowhere Enterprises"
       }
@@ -1552,8 +1412,6 @@
   },
   {
     "_id": 4825,
-    "_year": 2013,
-    "_origName": "Clovis Criterium Series #4",
     "id": "evt-4825",
     "name": "Clovis Criterium Series #4",
     "status": "",
@@ -1573,7 +1431,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 5157,
         "id": "prm-5157",
         "name": "Back of Nowhere Enterprises"
       }
@@ -1585,8 +1442,6 @@
   },
   {
     "_id": 4826,
-    "_year": 2013,
-    "_origName": "Land Park Criterium",
     "id": "evt-4826",
     "name": "Land Park Criterium",
     "status": "",
@@ -1606,7 +1461,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-591",
     "promoters": [
       {
-        "_id": 2638,
         "id": "prm-2638",
         "name": "Sacramento Golden Wheelmen"
       }
@@ -1618,8 +1472,6 @@
   },
   {
     "_id": 4827,
-    "_year": 2013,
-    "_origName": "Bariani Road Race",
     "id": "evt-4827",
     "name": "Bariani Road Race",
     "status": "",
@@ -1639,7 +1491,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-594",
     "promoters": [
       {
-        "_id": 2638,
         "id": "prm-2638",
         "name": "Sacramento Golden Wheelmen"
       }
@@ -1651,8 +1502,6 @@
   },
   {
     "_id": 4828,
-    "_year": 2013,
-    "_origName": "Ward's Ferry Road Race",
     "id": "evt-4828",
     "name": "Ward's Ferry Road Race",
     "status": "",
@@ -1672,7 +1521,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1125",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1684,8 +1532,6 @@
   },
   {
     "_id": 4829,
-    "_year": 2013,
-    "_origName": "Regalado Road Race (Warnerville)",
     "id": "evt-4829",
     "name": "Regalado Road Race (Warnerville)",
     "status": "",
@@ -1705,7 +1551,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1124",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1717,8 +1562,6 @@
   },
   {
     "_id": 4831,
-    "_year": 2013,
-    "_origName": "Copperopolis Road Race",
     "id": "evt-4831",
     "name": "Copperopolis Road Race",
     "status": "",
@@ -1738,7 +1581,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1123",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1750,8 +1592,6 @@
   },
   {
     "_id": 4832,
-    "_year": 2013,
-    "_origName": "Topsport Stage Race",
     "id": "evt-4832",
     "name": "Topsport Stage Race",
     "status": "",
@@ -1771,7 +1611,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-228",
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -1783,8 +1622,6 @@
   },
   {
     "_id": 4833,
-    "_year": 2013,
-    "_origName": "Lost Hills Road Race",
     "id": "evt-4833",
     "name": "Lost Hills Road Race",
     "status": "",
@@ -1804,7 +1641,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1551",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1816,8 +1652,6 @@
   },
   {
     "_id": 4834,
-    "_year": 2013,
-    "_origName": "Hanford Criterium",
     "id": "evt-4834",
     "name": "Hanford Criterium",
     "status": "",
@@ -1837,7 +1671,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1553",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1849,8 +1682,6 @@
   },
   {
     "_id": 4835,
-    "_year": 2013,
-    "_origName": "Auburn Old Town Crit- CANCELLED",
     "id": "evt-4835",
     "name": "Auburn Old Town Crit",
     "status": "Canceled",
@@ -1870,7 +1701,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3369,
         "id": "prm-3369",
         "name": "Jim Northey"
       }
@@ -1882,8 +1712,6 @@
   },
   {
     "_id": 4837,
-    "_year": 2013,
-    "_origName": "Chico Stage Race",
     "id": "evt-4837",
     "name": "Chico Stage Race",
     "status": "",
@@ -1903,7 +1731,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-744",
     "promoters": [
       {
-        "_id": 2673,
         "id": "prm-2673",
         "name": "Chico Corsa Cycling Club"
       }
@@ -1915,8 +1742,6 @@
   },
   {
     "_id": 4838,
-    "_year": 2013,
-    "_origName": "Santa Cruz Classic Criterium XLIV",
     "id": "evt-4838",
     "name": "Santa Cruz Classic Criterium XLIV",
     "status": "",
@@ -1936,7 +1761,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -1948,8 +1772,6 @@
   },
   {
     "_id": 4839,
-    "_year": 2013,
-    "_origName": "Turlock Lake Road Race",
     "id": "evt-4839",
     "name": "Turlock Lake Road Race",
     "status": "",
@@ -1975,8 +1797,6 @@
   },
   {
     "_id": 4840,
-    "_year": 2013,
-    "_origName": "Apple Pie Criterium- CANCELLED",
     "id": "evt-4840",
     "name": "Apple Pie Criterium",
     "status": "Canceled",
@@ -1996,7 +1816,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3304,
         "id": "prm-3304",
         "name": "Rene Goncalves"
       }
@@ -2008,8 +1827,6 @@
   },
   {
     "_id": 4841,
-    "_year": 2013,
-    "_origName": "Wente Vineyards Road Race",
     "id": "evt-4841",
     "name": "Wente Vineyards Road Race",
     "status": "",
@@ -2035,8 +1852,6 @@
   },
   {
     "_id": 4842,
-    "_year": 2013,
-    "_origName": "Wente Vineyards Criterium",
     "id": "evt-4842",
     "name": "Wente Vineyards Criterium",
     "status": "",
@@ -2062,8 +1877,6 @@
   },
   {
     "_id": 4843,
-    "_year": 2013,
-    "_origName": "Tempus Fugit Individual Time Trial (Spring) p/b Endless Cycles of Castro Valley",
     "id": "evt-4843",
     "name": "Tempus Fugit Individual Time Trial (Spring) p/b Endless Cycles of Castro Valley",
     "status": "",
@@ -2083,7 +1896,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-576",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -2095,8 +1907,6 @@
   },
   {
     "_id": 4845,
-    "_year": 2013,
-    "_origName": "Town Center Criterium",
     "id": "evt-4845",
     "name": "Town Center Criterium",
     "status": "",
@@ -2116,7 +1926,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-63",
     "promoters": [
       {
-        "_id": 3311,
         "id": "prm-3311",
         "name": "Folsom Bike"
       }
@@ -2128,8 +1937,6 @@
   },
   {
     "_id": 4846,
-    "_year": 2013,
-    "_origName": "Off the Front Criterium",
     "id": "evt-4846",
     "name": "Off the Front Criterium",
     "status": "",
@@ -2149,7 +1956,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1317",
     "promoters": [
       {
-        "_id": 5124,
         "id": "prm-5124",
         "name": "Off the Front"
       }
@@ -2161,8 +1967,6 @@
   },
   {
     "_id": 4847,
-    "_year": 2013,
-    "_origName": "Mike's Bikes 40th Cat's Hill Classic",
     "id": "evt-4847",
     "name": "Mike's Bikes 40th Cat's Hill Classic",
     "status": "",
@@ -2182,7 +1986,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1275",
     "promoters": [
       {
-        "_id": 2643,
         "id": "prm-2643",
         "name": "Los Gatos Bicycle Racing Club"
       }
@@ -2194,8 +1997,6 @@
   },
   {
     "_id": 4848,
-    "_year": 2013,
-    "_origName": "Golden State Race Series - Day 1: Criterium",
     "id": "evt-4848",
     "name": "Golden State Race Series — Day 1: Criterium",
     "status": "",
@@ -2215,7 +2016,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1083",
     "promoters": [
       {
-        "_id": 2645,
         "id": "prm-2645",
         "name": "Rio Strada Racing"
       }
@@ -2227,8 +2027,6 @@
   },
   {
     "_id": 4849,
-    "_year": 2013,
-    "_origName": "Golden State Race Series - Day 2: Circuit Race",
     "id": "evt-4849",
     "name": "Golden State Race Series — Day 2: Circuit Race",
     "status": "",
@@ -2248,7 +2046,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1083",
     "promoters": [
       {
-        "_id": 2645,
         "id": "prm-2645",
         "name": "Rio Strada Racing"
       }
@@ -2260,8 +2057,6 @@
   },
   {
     "_id": 4850,
-    "_year": 2013,
-    "_origName": "Panoche Valley Road Race",
     "id": "evt-4850",
     "name": "Panoche Valley Road Race",
     "status": "",
@@ -2281,7 +2076,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1670",
     "promoters": [
       {
-        "_id": 3324,
         "id": "prm-3324",
         "name": "Greg Bloom"
       }
@@ -2293,8 +2087,6 @@
   },
   {
     "_id": 4851,
-    "_year": 2013,
-    "_origName": "Salinas Valley Criterium",
     "id": "evt-4851",
     "name": "Salinas Valley Criterium",
     "status": "",
@@ -2314,7 +2106,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1229",
     "promoters": [
       {
-        "_id": 2636,
         "id": "prm-2636",
         "name": "Pedali Alpini"
       }
@@ -2326,8 +2117,6 @@
   },
   {
     "_id": 4852,
-    "_year": 2013,
-    "_origName": "Folsom Historic District Criterium -- CANCELLED",
     "id": "evt-4852",
     "name": "Folsom Historic District Criterium",
     "status": "Canceled",
@@ -2353,8 +2142,6 @@
   },
   {
     "_id": 4853,
-    "_year": 2013,
-    "_origName": "Big Creek Criterium -- DATE BEING MOVED FROM MAY 11 (NEW DATE TBA)",
     "id": "evt-4853",
     "name": "Big Creek Criterium — DATE BEING MOVED FROM MAY 11 (NEW DATE TBA)",
     "status": "",
@@ -2374,7 +2161,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -2386,8 +2172,6 @@
   },
   {
     "_id": 4854,
-    "_year": 2013,
-    "_origName": "Berkeley Hills Road Race",
     "id": "evt-4854",
     "name": "Berkeley Hills Road Race",
     "status": "",
@@ -2407,7 +2191,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1392",
     "promoters": [
       {
-        "_id": 2639,
         "id": "prm-2639",
         "name": "Berkeley Bicycle Club"
       }
@@ -2419,8 +2202,6 @@
   },
   {
     "_id": 4855,
-    "_year": 2013,
-    "_origName": "Mariposa County Women's Stage Race (May 17-19)",
     "id": "evt-4855",
     "name": "Mariposa County Women's Stage Race (May 17-19)",
     "status": "",
@@ -2440,12 +2221,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1555",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       },
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       }
@@ -2457,8 +2236,6 @@
   },
   {
     "_id": 4856,
-    "_year": 2013,
-    "_origName": "Modesto Harvest Moon Criterium",
     "id": "evt-4856",
     "name": "Modesto Harvest Moon Criterium",
     "status": "",
@@ -2478,7 +2255,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1421",
     "promoters": [
       {
-        "_id": 2831,
         "id": "prm-2831",
         "name": "Ciccarelli Enterprises"
       }
@@ -2490,8 +2266,6 @@
   },
   {
     "_id": 4857,
-    "_year": 2013,
-    "_origName": "Petaluma Criterium- CANCELLED",
     "id": "evt-4857",
     "name": "Petaluma Criterium",
     "status": "Canceled",
@@ -2511,7 +2285,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3304,
         "id": "prm-3304",
         "name": "Rene Goncalves"
       }
@@ -2523,8 +2296,6 @@
   },
   {
     "_id": 4858,
-    "_year": 2013,
-    "_origName": "Modesto Road Race",
     "id": "evt-4858",
     "name": "Modesto Road Race",
     "status": "",
@@ -2544,7 +2315,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1423",
     "promoters": [
       {
-        "_id": 2831,
         "id": "prm-2831",
         "name": "Ciccarelli Enterprises"
       }
@@ -2556,8 +2326,6 @@
   },
   {
     "_id": 4859,
-    "_year": 2013,
-    "_origName": "Folsom Classic Criterium",
     "id": "evt-4859",
     "name": "Folsom Classic Criterium",
     "status": "",
@@ -2577,7 +2345,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2161",
     "promoters": [
       {
-        "_id": 5211,
         "id": "prm-5211",
         "name": "Tim Zsoka"
       }
@@ -2589,8 +2356,6 @@
   },
   {
     "_id": 4860,
-    "_year": 2013,
-    "_origName": "Calaveras Road (Sunol) TT",
     "id": "evt-4860",
     "name": "Calaveras Road (Sunol) TT",
     "status": "",
@@ -2610,7 +2375,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-389",
     "promoters": [
       {
-        "_id": 2657,
         "id": "prm-2657",
         "name": "Team Fremont / FFBC p/b Chipotle"
       }
@@ -2622,8 +2386,6 @@
   },
   {
     "_id": 4861,
-    "_year": 2013,
-    "_origName": "Mount Hamilton Road Race- Elite & Masters Road Race NCNCA Championship Event",
     "id": "evt-4861",
     "name": "Mount Hamilton Road Race — Elite & Masters Road Race NCNCA Championship Event",
     "status": "",
@@ -2643,7 +2405,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1760",
     "promoters": [
       {
-        "_id": 2647,
         "id": "prm-2647",
         "name": "San Jose Bicycle Club"
       }
@@ -2655,8 +2416,6 @@
   },
   {
     "_id": 4862,
-    "_year": 2013,
-    "_origName": "Memorial Day Criterium",
     "id": "evt-4862",
     "name": "Memorial Day Criterium",
     "status": "",
@@ -2676,7 +2435,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1473",
     "promoters": [
       {
-        "_id": 2647,
         "id": "prm-2647",
         "name": "San Jose Bicycle Club"
       }
@@ -2688,8 +2446,6 @@
   },
   {
     "_id": 4863,
-    "_year": 2013,
-    "_origName": "Dunlap Time Trial- Team Time Trial & Junior Time Trial NCNCA Championship Event",
     "id": "evt-4863",
     "name": "Dunlap Time Trial — Team Time Trial & Junior Time Trial NCNCA Championship Event",
     "status": "",
@@ -2709,7 +2465,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1029",
     "promoters": [
       {
-        "_id": 2650,
         "id": "prm-2650",
         "name": "Davis Bike Club"
       }
@@ -2721,8 +2476,6 @@
   },
   {
     "_id": 4864,
-    "_year": 2013,
-    "_origName": "ICCC Dash for Cash",
     "id": "evt-4864",
     "name": "ICCC Dash for Cash",
     "status": "",
@@ -2742,7 +2495,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1691",
     "promoters": [
       {
-        "_id": 3334,
         "id": "prm-3334",
         "name": "ICCC"
       }
@@ -2754,8 +2506,6 @@
   },
   {
     "_id": 4865,
-    "_year": 2013,
-    "_origName": "Pescadero Coastal Classic",
     "id": "evt-4865",
     "name": "Pescadero Coastal Classic",
     "status": "",
@@ -2775,7 +2525,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2655,
         "id": "prm-2655",
         "name": "Alto Velo"
       }
@@ -2787,8 +2536,6 @@
   },
   {
     "_id": 4866,
-    "_year": 2013,
-    "_origName": "Niles Downtown Criterium- CANCELLED",
     "id": "evt-4866",
     "name": "Niles Downtown Criterium",
     "status": "Canceled",
@@ -2814,8 +2561,6 @@
   },
   {
     "_id": 4869,
-    "_year": 2013,
-    "_origName": "Selma Criterium",
     "id": "evt-4869",
     "name": "Selma Criterium",
     "status": "",
@@ -2835,7 +2580,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2001",
     "promoters": [
       {
-        "_id": 5149,
         "id": "prm-5149",
         "name": "Steve Grusis"
       }
@@ -2847,8 +2591,6 @@
   },
   {
     "_id": 4870,
-    "_year": 2013,
-    "_origName": "Victory Velo Racing Auburn Omnium - Circuit Race (Day One)",
     "id": "evt-4870",
     "name": "Victory Velo Racing Auburn Omnium — Circuit Race (Day One)",
     "status": "",
@@ -2868,7 +2610,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1770",
     "promoters": [
       {
-        "_id": 383,
         "id": "prm-383",
         "name": "Victory Velo Bike Shop"
       }
@@ -2880,8 +2621,6 @@
   },
   {
     "_id": 4872,
-    "_year": 2013,
-    "_origName": "Victory Velo Racing Auburn Omnium - Criterium (Day Two)",
     "id": "evt-4872",
     "name": "Victory Velo Racing Auburn Omnium — Criterium (Day Two)",
     "status": "",
@@ -2901,7 +2640,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1770",
     "promoters": [
       {
-        "_id": 383,
         "id": "prm-383",
         "name": "Victory Velo Bike Shop"
       }
@@ -2913,8 +2651,6 @@
   },
   {
     "_id": 4874,
-    "_year": 2013,
-    "_origName": "Tri-Valley Criterium Classic p/b Pacific Service Credit Union",
     "id": "evt-4874",
     "name": "Tri-Valley Criterium Classic p/b Pacific Service Credit Union",
     "status": "",
@@ -2934,7 +2670,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-572",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -2946,8 +2681,6 @@
   },
   {
     "_id": 4875,
-    "_year": 2013,
-    "_origName": "Nevada City Classic",
     "id": "evt-4875",
     "name": "Nevada City Classic",
     "status": "",
@@ -2973,8 +2706,6 @@
   },
   {
     "_id": 4876,
-    "_year": 2013,
-    "_origName": "Mt. Diablo Hill Climb TT",
     "id": "evt-4876",
     "name": "Mt. Diablo Hill Climb TT",
     "status": "",
@@ -2994,7 +2725,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2447",
     "promoters": [
       {
-        "_id": 2676,
         "id": "prm-2676",
         "name": "Wells Fargo Racing Team / Contra Costa Cycling Club"
       }
@@ -3006,8 +2736,6 @@
   },
   {
     "_id": 4877,
-    "_year": 2013,
-    "_origName": "Burlingame Criterium",
     "id": "evt-4877",
     "name": "Burlingame Criterium",
     "status": "",
@@ -3027,7 +2755,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1056",
     "promoters": [
       {
-        "_id": 2630,
         "id": "prm-2630",
         "name": "Peninsula Velo Cycling Club"
       }
@@ -3039,8 +2766,6 @@
   },
   {
     "_id": 4878,
-    "_year": 2013,
-    "_origName": "Lodi Cyclefest Criterium",
     "id": "evt-4878",
     "name": "Lodi Cyclefest Criterium",
     "status": "",
@@ -3060,7 +2785,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1776",
     "promoters": [
       {
-        "_id": 2658,
         "id": "prm-2658",
         "name": "Delta Velo / Michael David Winery Cycling Team"
       }
@@ -3072,8 +2796,6 @@
   },
   {
     "_id": 4879,
-    "_year": 2013,
-    "_origName": "Fourth of July Criterium",
     "id": "evt-4879",
     "name": "Fourth of July Criterium",
     "status": "",
@@ -3093,7 +2815,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2253",
     "promoters": [
       {
-        "_id": 2650,
         "id": "prm-2650",
         "name": "Davis Bike Club"
       }
@@ -3105,8 +2826,6 @@
   },
   {
     "_id": 4880,
-    "_year": 2013,
-    "_origName": "Leesville Gap Road Race",
     "id": "evt-4880",
     "name": "Leesville Gap Road Race",
     "status": "",
@@ -3126,7 +2845,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2592",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3138,8 +2856,6 @@
   },
   {
     "_id": 4881,
-    "_year": 2013,
-    "_origName": "Watsonville Criterium",
     "id": "evt-4881",
     "name": "Watsonville Criterium",
     "status": "",
@@ -3159,7 +2875,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2597",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3171,8 +2886,6 @@
   },
   {
     "_id": 4882,
-    "_year": 2013,
-    "_origName": "Foothill College Circuit Race: \"The Learning Curve\"",
     "id": "evt-4882",
     "name": "Foothill College Circuit Race: \"The Learning Curve\"",
     "status": "",
@@ -3192,7 +2905,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2432",
     "promoters": [
       {
-        "_id": 2643,
         "id": "prm-2643",
         "name": "Los Gatos Bicycle Racing Club"
       }
@@ -3204,8 +2916,6 @@
   },
   {
     "_id": 4883,
-    "_year": 2013,
-    "_origName": "Colavita Grand Prix",
     "id": "evt-4883",
     "name": "Colavita Grand Prix",
     "status": "",
@@ -3225,7 +2935,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2491",
     "promoters": [
       {
-        "_id": 2641,
         "id": "prm-2641",
         "name": "Colavita-Norcal Racing/Open Road Sports, Inc."
       }
@@ -3237,8 +2946,6 @@
   },
   {
     "_id": 4884,
-    "_year": 2013,
-    "_origName": "Red Kite Crossfire Hurricane Hill Climb Challenge",
     "id": "evt-4884",
     "name": "Red Kite Crossfire Hurricane Hill Climb Challenge",
     "status": "",
@@ -3258,7 +2965,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-578",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -3270,8 +2976,6 @@
   },
   {
     "_id": 4886,
-    "_year": 2013,
-    "_origName": "Berkeley Bicycle Club Criterium",
     "id": "evt-4886",
     "name": "Berkeley Bicycle Club Criterium",
     "status": "",
@@ -3291,7 +2995,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2648",
     "promoters": [
       {
-        "_id": 2639,
         "id": "prm-2639",
         "name": "Berkeley Bicycle Club"
       }
@@ -3303,8 +3006,6 @@
   },
   {
     "_id": 4887,
-    "_year": 2013,
-    "_origName": "San Rafael Twilight Criterium",
     "id": "evt-4887",
     "name": "San Rafael Twilight Criterium",
     "status": "",
@@ -3324,7 +3025,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2450",
     "promoters": [
       {
-        "_id": 385,
         "id": "prm-385",
         "name": "Project Sport"
       }
@@ -3336,8 +3036,6 @@
   },
   {
     "_id": 4888,
-    "_year": 2013,
-    "_origName": "Tour de Nez - Criterium: All Categories",
     "id": "evt-4888",
     "name": "Tour de Nez — Criterium: All Categories",
     "status": "",
@@ -3357,7 +3055,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2800",
     "promoters": [
       {
-        "_id": 5214,
         "id": "prm-5214",
         "name": "Bubba Melcher"
       }
@@ -3369,8 +3066,6 @@
   },
   {
     "_id": 4889,
-    "_year": 2013,
-    "_origName": "Tour de Nez - TT: Handcycle Only",
     "id": "evt-4889",
     "name": "Tour de Nez — TT: Handcycle Only",
     "status": "",
@@ -3390,7 +3085,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2800",
     "promoters": [
       {
-        "_id": 5214,
         "id": "prm-5214",
         "name": "Bubba Melcher"
       }
@@ -3402,8 +3096,6 @@
   },
   {
     "_id": 4890,
-    "_year": 2013,
-    "_origName": "Menlo Park Grand Prix- Women's Elite & Women's Masters Criterium NCNCA Championship Event",
     "id": "evt-4890",
     "name": "Menlo Park Grand Prix — Women's Elite & Women's Masters Criterium NCNCA Championship Event",
     "status": "",
@@ -3423,7 +3115,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1977",
     "promoters": [
       {
-        "_id": 2635,
         "id": "prm-2635",
         "name": "Velo Girls"
       }
@@ -3435,8 +3126,6 @@
   },
   {
     "_id": 4891,
-    "_year": 2013,
-    "_origName": "8th Warnerville Time Trial",
     "id": "evt-4891",
     "name": "8th Warnerville Time Trial",
     "status": "",
@@ -3456,7 +3145,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3003",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3468,8 +3156,6 @@
   },
   {
     "_id": 4892,
-    "_year": 2013,
-    "_origName": "CANCELLED - Strawberry Crown Criterium",
     "id": "evt-4892",
     "name": "Strawberry Crown Criterium",
     "status": "Canceled",
@@ -3489,7 +3175,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3377,
         "id": "prm-3377",
         "name": "California Giant Cycling Team"
       }
@@ -3501,8 +3186,6 @@
   },
   {
     "_id": 4894,
-    "_year": 2013,
-    "_origName": "Patterson Pass Road Race",
     "id": "evt-4894",
     "name": "Patterson Pass Road Race",
     "status": "",
@@ -3522,7 +3205,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2768",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3534,8 +3216,6 @@
   },
   {
     "_id": 4895,
-    "_year": 2013,
-    "_origName": "Dunnigan Hills Road Race- Junior Road Race NCNCA Championship Event",
     "id": "evt-4895",
     "name": "Dunnigan Hills Road Race — Junior Road Race NCNCA Championship Event",
     "status": "",
@@ -3555,12 +3235,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3004",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3572,8 +3250,6 @@
   },
   {
     "_id": 4896,
-    "_year": 2013,
-    "_origName": "Little City Stage Race (July 20-21)",
     "id": "evt-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
@@ -3593,7 +3269,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2238",
     "promoters": [
       {
-        "_id": 5214,
         "id": "prm-5214",
         "name": "Bubba Melcher"
       }
@@ -3605,8 +3280,6 @@
   },
   {
     "_id": 4896,
-    "_year": 2013,
-    "_origName": "Little City Stage Race (July 20-21)",
     "id": "evt-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
@@ -3626,7 +3299,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2238",
     "promoters": [
       {
-        "_id": 5214,
         "id": "prm-5214",
         "name": "Bubba Melcher"
       }
@@ -3638,8 +3310,6 @@
   },
   {
     "_id": 4896,
-    "_year": 2013,
-    "_origName": "Little City Stage Race (July 20-21)",
     "id": "evt-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
@@ -3659,7 +3329,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2238",
     "promoters": [
       {
-        "_id": 5214,
         "id": "prm-5214",
         "name": "Bubba Melcher"
       }
@@ -3671,8 +3340,6 @@
   },
   {
     "_id": 4897,
-    "_year": 2013,
-    "_origName": "Suisun Harbor Criterium",
     "id": "evt-4897",
     "name": "Suisun Harbor Criterium",
     "status": "",
@@ -3692,7 +3359,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3007",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3704,8 +3370,6 @@
   },
   {
     "_id": 4898,
-    "_year": 2013,
-    "_origName": "San Ardo Road Race",
     "id": "evt-4898",
     "name": "San Ardo Road Race",
     "status": "",
@@ -3725,7 +3389,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3008",
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3737,8 +3400,6 @@
   },
   {
     "_id": 4899,
-    "_year": 2013,
-    "_origName": "CANCELLED -- Coppertown Circuit Race #2",
     "id": "evt-4899",
     "name": "Coppertown Circuit Race #2",
     "status": "Canceled",
@@ -3758,7 +3419,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2640,
         "id": "prm-2640",
         "name": "Topsport"
       }
@@ -3770,8 +3430,6 @@
   },
   {
     "_id": 4900,
-    "_year": 2013,
-    "_origName": "2Wheel-Early Bird Women’s and Men's Crit.",
     "id": "evt-4900",
     "name": "2Wheel-Early Bird Women’s and Men's Crit.",
     "status": "",
@@ -3791,7 +3449,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2773",
     "promoters": [
       {
-        "_id": 2665,
         "id": "prm-2665",
         "name": "2 Wheel Racing"
       }
@@ -3803,8 +3460,6 @@
   },
   {
     "_id": 4901,
-    "_year": 2013,
-    "_origName": "University Road Race- CANCELLED ",
     "id": "evt-4901",
     "name": "University Road Race",
     "status": "Canceled",
@@ -3824,7 +3479,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3836,8 +3490,6 @@
   },
   {
     "_id": 4902,
-    "_year": 2013,
-    "_origName": "Winters Road Race",
     "id": "evt-4902",
     "name": "Winters Road Race",
     "status": "",
@@ -3857,17 +3509,14 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3038",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 2668,
         "id": "prm-2668",
         "name": "Monticello Cycling Club"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3879,8 +3528,6 @@
   },
   {
     "_id": 4903,
-    "_year": 2013,
-    "_origName": "Vacaville Gran Prix",
     "id": "evt-4903",
     "name": "Vacaville Gran Prix",
     "status": "",
@@ -3900,22 +3547,18 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3037",
     "promoters": [
       {
-        "_id": 5342,
         "id": "prm-5342",
         "name": "Downtown Vacaville Business District"
       },
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 2668,
         "id": "prm-2668",
         "name": "Monticello Cycling Club"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3927,8 +3570,6 @@
   },
   {
     "_id": 4904,
-    "_year": 2013,
-    "_origName": "Tempus Fugit ITT (Summer)",
     "id": "evt-4904",
     "name": "Tempus Fugit ITT (Summer)",
     "status": "",
@@ -3948,7 +3589,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-577",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -3960,8 +3600,6 @@
   },
   {
     "_id": 4905,
-    "_year": 2013,
-    "_origName": "Challenge Challenge Road Race",
     "id": "evt-4905",
     "name": "Challenge Challenge Road Race",
     "status": "",
@@ -3981,12 +3619,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3039",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -3998,8 +3634,6 @@
   },
   {
     "_id": 4906,
-    "_year": 2013,
-    "_origName": "Esparto Time Trial",
     "id": "evt-4906",
     "name": "Esparto Time Trial",
     "status": "",
@@ -4019,12 +3653,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3040",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -4036,8 +3668,6 @@
   },
   {
     "_id": 4907,
-    "_year": 2013,
-    "_origName": "Metromint Giro di San Francisco- Men's Elite Criterium NCNCA Championship Event",
     "id": "evt-4907",
     "name": "Metromint Giro di San Francisco — Men's Elite Criterium NCNCA Championship Event",
     "status": "",
@@ -4057,17 +3687,14 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1487",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 5341,
         "id": "prm-5341",
         "name": "Team Metromint"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -4079,8 +3706,6 @@
   },
   {
     "_id": 4911,
-    "_year": 2013,
-    "_origName": "Fremont Peak Hill Climb- NCNCA Hill Climb Championship Event",
     "id": "evt-4911",
     "name": "Fremont Peak Hill Climb — NCNCA Hill Climb Championship Event",
     "status": "",
@@ -4100,7 +3725,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3130",
     "promoters": [
       {
-        "_id": 3324,
         "id": "prm-3324",
         "name": "Greg Bloom"
       }
@@ -4112,8 +3736,6 @@
   },
   {
     "_id": 4912,
-    "_year": 2013,
-    "_origName": "51st Mt. Tamalpais Hill Climb p/b Joseph Mendes Real Estate & Loan Services",
     "id": "evt-4912",
     "name": "51st Mt. Tamalpais Hill Climb p/b Joseph Mendes Real Estate & Loan Services",
     "status": "",
@@ -4133,7 +3755,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2667,
         "id": "prm-2667",
         "name": "Golden Gate Velo"
       }
@@ -4145,8 +3766,6 @@
   },
   {
     "_id": 4913,
-    "_year": 2013,
-    "_origName": "CANCELLED -- The Cushman & Wakefield Criterium of Concord Fueled by CYTOMAX and Muscle Milk",
     "id": "evt-4913",
     "name": "The Cushman & Wakefield Criterium of Concord Fueled by CYTOMAX and Muscle Milk",
     "status": "Canceled",
@@ -4172,8 +3791,6 @@
   },
   {
     "_id": 4914,
-    "_year": 2013,
-    "_origName": "9th Annual Oakland Grand Prix",
     "id": "evt-4914",
     "name": "9th Annual Oakland Grand Prix",
     "status": "",
@@ -4193,12 +3810,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3043",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -4210,8 +3825,6 @@
   },
   {
     "_id": 4915,
-    "_year": 2013,
-    "_origName": "Henleyville Road Race",
     "id": "evt-4915",
     "name": "Henleyville Road Race",
     "status": "",
@@ -4231,12 +3844,10 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3044",
     "promoters": [
       {
-        "_id": 2631,
         "id": "prm-2631",
         "name": "Golden Chain Cyclists"
       },
       {
-        "_id": 3226,
         "id": "prm-3226",
         "name": "Velo Promo"
       }
@@ -4248,8 +3859,6 @@
   },
   {
     "_id": 4939,
-    "_year": 2013,
-    "_origName": "Peak Season Cyclocross- Harbor High School",
     "id": "evt-4939",
     "name": "Peak Season Cyclocross — Harbor High School",
     "status": "",
@@ -4275,8 +3884,6 @@
   },
   {
     "_id": 5007,
-    "_year": 2013,
-    "_origName": "Death Valley Stage Race - Spring",
     "id": "evt-5007",
     "name": "Death Valley Stage Race — Spring",
     "status": "",
@@ -4296,7 +3903,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2746,
         "id": "prm-2746",
         "name": "AntiGravity Cycling"
       }
@@ -4308,8 +3914,6 @@
   },
   {
     "_id": 5008,
-    "_year": 2013,
-    "_origName": "Death Valley Stage Race - Fall",
     "id": "evt-5008",
     "name": "Death Valley Stage Race — Fall",
     "status": "",
@@ -4329,7 +3933,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2746,
         "id": "prm-2746",
         "name": "AntiGravity Cycling"
       }
@@ -4341,8 +3944,6 @@
   },
   {
     "_id": 5009,
-    "_year": 2013,
-    "_origName": "Mount Whitney Stage Race",
     "id": "evt-5009",
     "name": "Mount Whitney Stage Race",
     "status": "",
@@ -4362,7 +3963,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2746,
         "id": "prm-2746",
         "name": "AntiGravity Cycling"
       }
@@ -4374,8 +3974,6 @@
   },
   {
     "_id": 5010,
-    "_year": 2013,
-    "_origName": "Kearney Park Criterium",
     "id": "evt-5010",
     "name": "Kearney Park Criterium",
     "status": "",
@@ -4395,7 +3993,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-805",
     "promoters": [
       {
-        "_id": 3454,
         "id": "prm-3454",
         "name": "Fresno State Racing"
       }
@@ -4407,8 +4004,6 @@
   },
   {
     "_id": 5011,
-    "_year": 2013,
-    "_origName": "Hensley Lake Road Race",
     "id": "evt-5011",
     "name": "Hensley Lake Road Race",
     "status": "",
@@ -4428,7 +4023,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-813",
     "promoters": [
       {
-        "_id": 3454,
         "id": "prm-3454",
         "name": "Fresno State Racing"
       }
@@ -4440,8 +4034,6 @@
   },
   {
     "_id": 5016,
-    "_year": 2013,
-    "_origName": "Berkeley Streets Criterium",
     "id": "evt-5016",
     "name": "Berkeley Streets Criterium",
     "status": "",
@@ -4461,7 +4053,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-853",
     "promoters": [
       {
-        "_id": 3125,
         "id": "prm-3125",
         "name": "UC Berkeley Cycling Team"
       }
@@ -4473,8 +4064,6 @@
   },
   {
     "_id": 5028,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5028",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4494,7 +4083,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4506,8 +4094,6 @@
   },
   {
     "_id": 5029,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5029",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4527,7 +4113,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4539,8 +4124,6 @@
   },
   {
     "_id": 5030,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5030",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4560,7 +4143,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4572,8 +4154,6 @@
   },
   {
     "_id": 5031,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5031",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4593,7 +4173,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4605,8 +4184,6 @@
   },
   {
     "_id": 5032,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5032",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4626,7 +4203,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4638,8 +4214,6 @@
   },
   {
     "_id": 5033,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5033",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4659,7 +4233,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4671,8 +4244,6 @@
   },
   {
     "_id": 5034,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5034",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4692,7 +4263,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4704,8 +4274,6 @@
   },
   {
     "_id": 5035,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5035",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4725,7 +4293,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4737,8 +4304,6 @@
   },
   {
     "_id": 5036,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5036",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4758,7 +4323,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4770,8 +4334,6 @@
   },
   {
     "_id": 5037,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5037",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4791,7 +4353,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4803,8 +4364,6 @@
   },
   {
     "_id": 5038,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5038",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4824,7 +4383,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4836,8 +4394,6 @@
   },
   {
     "_id": 5039,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5039",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4857,7 +4413,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4869,8 +4424,6 @@
   },
   {
     "_id": 5040,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5040",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4890,7 +4443,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4902,8 +4454,6 @@
   },
   {
     "_id": 5041,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5041",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4923,7 +4473,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4935,8 +4484,6 @@
   },
   {
     "_id": 5042,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Friday Night Racing Series",
     "id": "evt-5042",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
@@ -4956,7 +4503,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -4968,8 +4514,6 @@
   },
   {
     "_id": 5043,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5043",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -4989,7 +4533,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5001,8 +4544,6 @@
   },
   {
     "_id": 5044,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5044",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5022,7 +4563,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5034,8 +4574,6 @@
   },
   {
     "_id": 5045,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5045",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5055,7 +4593,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5067,8 +4604,6 @@
   },
   {
     "_id": 5046,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5046",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5088,7 +4623,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5100,8 +4634,6 @@
   },
   {
     "_id": 5047,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5047",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5121,7 +4653,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5133,8 +4664,6 @@
   },
   {
     "_id": 5048,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5048",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5154,7 +4683,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5166,8 +4694,6 @@
   },
   {
     "_id": 5049,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5049",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5187,7 +4713,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5199,8 +4724,6 @@
   },
   {
     "_id": 5050,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5050",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5220,7 +4743,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5232,8 +4754,6 @@
   },
   {
     "_id": 5051,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5051",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5253,7 +4773,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5265,8 +4784,6 @@
   },
   {
     "_id": 5052,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5052",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5286,7 +4803,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5298,8 +4814,6 @@
   },
   {
     "_id": 5053,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5053",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5319,7 +4833,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5331,8 +4844,6 @@
   },
   {
     "_id": 5054,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5054",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5352,7 +4863,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5364,8 +4874,6 @@
   },
   {
     "_id": 5055,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5055",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5385,7 +4893,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5397,8 +4904,6 @@
   },
   {
     "_id": 5056,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5056",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5418,7 +4923,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5430,8 +4934,6 @@
   },
   {
     "_id": 5057,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5057",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5451,7 +4953,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5463,8 +4964,6 @@
   },
   {
     "_id": 5058,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5058",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5484,7 +4983,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5496,8 +4994,6 @@
   },
   {
     "_id": 5059,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5059",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5517,7 +5013,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5529,8 +5024,6 @@
   },
   {
     "_id": 5060,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5060",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5550,7 +5043,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5562,8 +5054,6 @@
   },
   {
     "_id": 5061,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5061",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5583,7 +5073,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5595,8 +5084,6 @@
   },
   {
     "_id": 5062,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5062",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5616,7 +5103,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5628,8 +5114,6 @@
   },
   {
     "_id": 5063,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5063",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5649,7 +5133,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5661,8 +5144,6 @@
   },
   {
     "_id": 5064,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5064",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5682,7 +5163,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5694,8 +5174,6 @@
   },
   {
     "_id": 5065,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5065",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5715,7 +5193,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5727,8 +5204,6 @@
   },
   {
     "_id": 5066,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Wednesday Night Racing Series",
     "id": "evt-5066",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
@@ -5748,7 +5223,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -5760,8 +5234,6 @@
   },
   {
     "_id": 5070,
-    "_year": 2013,
-    "_origName": "Salinas Valley Criterium (UCSC Slug Fest)",
     "id": "evt-5070",
     "name": "Salinas Valley Criterium (UCSC Slug Fest)",
     "status": "",
@@ -5787,8 +5259,6 @@
   },
   {
     "_id": 5071,
-    "_year": 2013,
-    "_origName": "Gran Prix Fast Freddy Markham",
     "id": "evt-5071",
     "name": "Gran Prix Fast Freddy Markham",
     "status": "",
@@ -5808,7 +5278,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2636,
         "id": "prm-2636",
         "name": "Pedali Alpini"
       }
@@ -5820,8 +5289,6 @@
   },
   {
     "_id": 5093,
-    "_year": 2013,
-    "_origName": "Ed Steffani Memorial San Jose Gran Prix",
     "id": "evt-5093",
     "name": "Ed Steffani Memorial San Jose Gran Prix",
     "status": "",
@@ -5841,7 +5308,6 @@
     "resultsUrl": "http://www.ridethetrack.com/results/",
     "promoters": [
       {
-        "_id": 2636,
         "id": "prm-2636",
         "name": "Pedali Alpini"
       }
@@ -5853,8 +5319,6 @@
   },
   {
     "_id": 5096,
-    "_year": 2013,
-    "_origName": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "id": "evt-5096",
     "name": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "status": "",
@@ -5874,7 +5338,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2668,
         "id": "prm-2668",
         "name": "Monticello Cycling Club"
       }
@@ -5886,8 +5349,6 @@
   },
   {
     "_id": 5096,
-    "_year": 2013,
-    "_origName": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "id": "evt-5096",
     "name": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "status": "",
@@ -5907,7 +5368,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2668,
         "id": "prm-2668",
         "name": "Monticello Cycling Club"
       }
@@ -5919,8 +5379,6 @@
   },
   {
     "_id": 5101,
-    "_year": 2013,
-    "_origName": "Sattley Time Trail– Elite and Masters NCNCA Individual Time Trial Championship Event",
     "id": "evt-5101",
     "name": "Sattley Time Trail– Elite and Masters NCNCA Individual Time Trial Championship Event",
     "status": "",
@@ -5940,7 +5398,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1656",
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -5952,8 +5409,6 @@
   },
   {
     "_id": 5102,
-    "_year": 2013,
-    "_origName": "Red Kite- Masters Men Criterium NCNCA Championship Event",
     "id": "evt-5102",
     "name": "Red Kite — Masters Men Criterium NCNCA Championship Event",
     "status": "",
@@ -5973,7 +5428,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3188",
     "promoters": [
       {
-        "_id": 4873,
         "id": "prm-4873",
         "name": "Red Kite Racing"
       }
@@ -5985,8 +5439,6 @@
   },
   {
     "_id": 5104,
-    "_year": 2013,
-    "_origName": "Humboldt State Univ.- Road Race",
     "id": "evt-5104",
     "name": "Humboldt State Univ. — Road Race",
     "status": "",
@@ -6006,7 +5458,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1375",
     "promoters": [
       {
-        "_id": 3531,
         "id": "prm-3531",
         "name": "Humboldt State University"
       }
@@ -6018,8 +5469,6 @@
   },
   {
     "_id": 5105,
-    "_year": 2013,
-    "_origName": "Humboldt State Univ. - Criterium",
     "id": "evt-5105",
     "name": "Humboldt State Univ. — Criterium",
     "status": "",
@@ -6039,7 +5488,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1375",
     "promoters": [
       {
-        "_id": 3531,
         "id": "prm-3531",
         "name": "Humboldt State University"
       }
@@ -6051,8 +5499,6 @@
   },
   {
     "_id": 5106,
-    "_year": 2013,
-    "_origName": "Humboldt State Univ. - Time Trial",
     "id": "evt-5106",
     "name": "Humboldt State Univ. — Time Trial",
     "status": "",
@@ -6072,7 +5518,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1375",
     "promoters": [
       {
-        "_id": 3531,
         "id": "prm-3531",
         "name": "Humboldt State University"
       }
@@ -6084,8 +5529,6 @@
   },
   {
     "_id": 5107,
-    "_year": 2013,
-    "_origName": "Hellyer Velodrome Challenge (June 28 & 29)",
     "id": "evt-5107",
     "name": "Hellyer Velodrome Challenge (June 28 & 29)",
     "status": "",
@@ -6105,7 +5548,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-177",
     "promoters": [
       {
-        "_id": 2666,
         "id": "prm-2666",
         "name": "USA Cycling"
       }
@@ -6117,8 +5559,6 @@
   },
   {
     "_id": 5115,
-    "_year": 2013,
-    "_origName": "Ride2Recovery Honor Ride",
     "id": "evt-5115",
     "name": "Ride2Recovery Honor Ride",
     "status": "",
@@ -6138,7 +5578,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1602",
     "promoters": [
       {
-        "_id": 5116,
         "id": "prm-5116",
         "name": "Ride2Recovery"
       }
@@ -6150,8 +5589,6 @@
   },
   {
     "_id": 5120,
-    "_year": 2013,
-    "_origName": "Nevada City Dirt Classic (XC) Series #1",
     "id": "evt-5120",
     "name": "Nevada City Dirt Classic (XC) Series #1",
     "status": "",
@@ -6171,7 +5608,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3061,
         "id": "prm-3061",
         "name": "Youth Bicyclists of Nevada County (YBONC)"
       }
@@ -6183,8 +5619,6 @@
   },
   {
     "_id": 5126,
-    "_year": 2013,
-    "_origName": "Salinas Downtown Criterium",
     "id": "evt-5126",
     "name": "Salinas Downtown Criterium",
     "status": "",
@@ -6204,7 +5638,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1937",
     "promoters": [
       {
-        "_id": 5213,
         "id": "prm-5213",
         "name": "Monterey Bay Racing Team"
       }
@@ -6216,8 +5649,6 @@
   },
   {
     "_id": 5161,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5161",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6243,8 +5674,6 @@
   },
   {
     "_id": 5163,
-    "_year": 2013,
-    "_origName": "Boggs Enduro",
     "id": "evt-5163",
     "name": "Boggs Enduro",
     "status": "",
@@ -6270,8 +5699,6 @@
   },
   {
     "_id": 5165,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5165",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6297,8 +5724,6 @@
   },
   {
     "_id": 5166,
-    "_year": 2013,
-    "_origName": "Summit Shorty",
     "id": "evt-5166",
     "name": "Summit Shorty",
     "status": "",
@@ -6324,8 +5749,6 @@
   },
   {
     "_id": 5167,
-    "_year": 2013,
-    "_origName": "Summit Shorty",
     "id": "evt-5167",
     "name": "Summit Shorty",
     "status": "",
@@ -6351,8 +5774,6 @@
   },
   {
     "_id": 5168,
-    "_year": 2013,
-    "_origName": "Race Behind Bars (XC)",
     "id": "evt-5168",
     "name": "Race Behind Bars (XC)",
     "status": "",
@@ -6378,8 +5799,6 @@
   },
   {
     "_id": 5169,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5169",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6405,8 +5824,6 @@
   },
   {
     "_id": 5170,
-    "_year": 2013,
-    "_origName": "Summit Shorty",
     "id": "evt-5170",
     "name": "Summit Shorty",
     "status": "",
@@ -6432,8 +5849,6 @@
   },
   {
     "_id": 5171,
-    "_year": 2013,
-    "_origName": "Hammerstein 8 & 24 Hour Endurance Race",
     "id": "evt-5171",
     "name": "Hammerstein 8 & 24 Hour Endurance Race",
     "status": "",
@@ -6459,8 +5874,6 @@
   },
   {
     "_id": 5172,
-    "_year": 2013,
-    "_origName": "Summit Shorty",
     "id": "evt-5172",
     "name": "Summit Shorty",
     "status": "",
@@ -6486,8 +5899,6 @@
   },
   {
     "_id": 5173,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5173",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6513,8 +5924,6 @@
   },
   {
     "_id": 5174,
-    "_year": 2013,
-    "_origName": "Summit Shorty",
     "id": "evt-5174",
     "name": "Summit Shorty",
     "status": "",
@@ -6540,8 +5949,6 @@
   },
   {
     "_id": 5175,
-    "_year": 2013,
-    "_origName": "SoNoMas (XC)",
     "id": "evt-5175",
     "name": "SoNoMas (XC)",
     "status": "",
@@ -6567,8 +5974,6 @@
   },
   {
     "_id": 5176,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5176",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6594,8 +5999,6 @@
   },
   {
     "_id": 5177,
-    "_year": 2013,
-    "_origName": "Tamarancho Dirt Classic",
     "id": "evt-5177",
     "name": "Tamarancho Dirt Classic",
     "status": "",
@@ -6621,8 +6024,6 @@
   },
   {
     "_id": 5178,
-    "_year": 2013,
-    "_origName": "Raid on Sherwood Peak",
     "id": "evt-5178",
     "name": "Raid on Sherwood Peak",
     "status": "",
@@ -6648,8 +6049,6 @@
   },
   {
     "_id": 5179,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series (XC)",
     "id": "evt-5179",
     "name": "Prairie City Race Series (XC)",
     "status": "",
@@ -6675,8 +6074,6 @@
   },
   {
     "_id": 5220,
-    "_year": 2013,
-    "_origName": "China Peak Sierra 100k",
     "id": "evt-5220",
     "name": "China Peak Sierra 100k",
     "status": "",
@@ -6696,7 +6093,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2225",
     "promoters": [
       {
-        "_id": 5219,
         "id": "prm-5219",
         "name": "China Peak Mountain Resort"
       }
@@ -6708,8 +6104,6 @@
   },
   {
     "_id": 5221,
-    "_year": 2013,
-    "_origName": "KALI Spring Enduro",
     "id": "evt-5221",
     "name": "KALI Spring Enduro",
     "status": "",
@@ -6735,8 +6129,6 @@
   },
   {
     "_id": 5222,
-    "_year": 2013,
-    "_origName": "Lake Sonoma Series #1",
     "id": "evt-5222",
     "name": "Lake Sonoma Series #1",
     "status": "",
@@ -6756,7 +6148,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -6768,8 +6159,6 @@
   },
   {
     "_id": 5223,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series",
     "id": "evt-5223",
     "name": "Prairie City Race Series",
     "status": "",
@@ -6795,8 +6184,6 @@
   },
   {
     "_id": 5224,
-    "_year": 2013,
-    "_origName": "Prairie City Race Series",
     "id": "evt-5224",
     "name": "Prairie City Race Series",
     "status": "",
@@ -6822,8 +6209,6 @@
   },
   {
     "_id": 5226,
-    "_year": 2013,
-    "_origName": "Coolest 8 & 24 hour Race Against Cancer",
     "id": "evt-5226",
     "name": "Coolest 8 & 24 hour Race Against Cancer",
     "status": "",
@@ -6849,8 +6234,6 @@
   },
   {
     "_id": 5228,
-    "_year": 2013,
-    "_origName": "Nevada City Dirt Classic XC Series",
     "id": "evt-5228",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
@@ -6876,8 +6259,6 @@
   },
   {
     "_id": 5229,
-    "_year": 2013,
-    "_origName": "Nevada City Dirt Classic XC Series",
     "id": "evt-5229",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
@@ -6903,8 +6284,6 @@
   },
   {
     "_id": 5230,
-    "_year": 2013,
-    "_origName": "Lake Sonoma Series No. 2",
     "id": "evt-5230",
     "name": "Lake Sonoma Series No. 2",
     "status": "",
@@ -6924,7 +6303,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -6936,8 +6314,6 @@
   },
   {
     "_id": 5232,
-    "_year": 2013,
-    "_origName": "CCCX MTB XC SERIES",
     "id": "evt-5232",
     "name": "CCCX MTB XC SERIES",
     "status": "",
@@ -6957,7 +6333,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -6969,8 +6344,6 @@
   },
   {
     "_id": 5233,
-    "_year": 2013,
-    "_origName": "Lake Sonoma Series No. 3",
     "id": "evt-5233",
     "name": "Lake Sonoma Series No. 3",
     "status": "",
@@ -6990,7 +6363,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -7002,8 +6374,6 @@
   },
   {
     "_id": 5234,
-    "_year": 2013,
-    "_origName": "Nevada City Dirt Classic XC Series",
     "id": "evt-5234",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
@@ -7029,8 +6399,6 @@
   },
   {
     "_id": 5235,
-    "_year": 2013,
-    "_origName": "Downieville Classic",
     "id": "evt-5235",
     "name": "Downieville Classic",
     "status": "",
@@ -7056,8 +6424,6 @@
   },
   {
     "_id": 5236,
-    "_year": 2013,
-    "_origName": "CCCX MTB XC SERIES",
     "id": "evt-5236",
     "name": "CCCX MTB XC SERIES",
     "status": "",
@@ -7077,7 +6443,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -7089,8 +6454,6 @@
   },
   {
     "_id": 5237,
-    "_year": 2013,
-    "_origName": "6/12 Hours of Humboldt",
     "id": "evt-5237",
     "name": "6/12 Hours of Humboldt",
     "status": "",
@@ -7116,8 +6479,6 @@
   },
   {
     "_id": 5238,
-    "_year": 2013,
-    "_origName": "Annadel XC ",
     "id": "evt-5238",
     "name": "Annadel XC",
     "status": "",
@@ -7143,8 +6504,6 @@
   },
   {
     "_id": 5240,
-    "_year": 2013,
-    "_origName": "Murphy Mack's Mendocino MTB Madness",
     "id": "evt-5240",
     "name": "Murphy Mack's Mendocino MTB Madness",
     "status": "",
@@ -7170,8 +6529,6 @@
   },
   {
     "_id": 5241,
-    "_year": 2013,
-    "_origName": "CCCX MTB XC SERIES",
     "id": "evt-5241",
     "name": "CCCX MTB XC SERIES",
     "status": "",
@@ -7191,7 +6548,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -7203,8 +6559,6 @@
   },
   {
     "_id": 5242,
-    "_year": 2013,
-    "_origName": "Tahoe Sierra 100 & 59",
     "id": "evt-5242",
     "name": "Tahoe Sierra 100 & 59",
     "status": "",
@@ -7230,8 +6584,6 @@
   },
   {
     "_id": 5243,
-    "_year": 2013,
-    "_origName": "24 hours of Whiskeytown / Whiskeytown 9-5",
     "id": "evt-5243",
     "name": "24 hours of Whiskeytown / Whiskeytown 9-5",
     "status": "",
@@ -7257,8 +6609,6 @@
   },
   {
     "_id": 5244,
-    "_year": 2013,
-    "_origName": "TBF MTB 50 Miler",
     "id": "evt-5244",
     "name": "TBF MTB 50 Miler",
     "status": "",
@@ -7284,8 +6634,6 @@
   },
   {
     "_id": 5245,
-    "_year": 2013,
-    "_origName": "TBF MTB 50 Miler",
     "id": "evt-5245",
     "name": "TBF MTB 50 Miler",
     "status": "",
@@ -7311,8 +6659,6 @@
   },
   {
     "_id": 5246,
-    "_year": 2013,
-    "_origName": "Burbank Memorial Omnium",
     "id": "evt-5246",
     "name": "Burbank Memorial Omnium",
     "status": "",
@@ -7332,7 +6678,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1231",
     "promoters": [
       {
-        "_id": 2636,
         "id": "prm-2636",
         "name": "Pedali Alpini"
       }
@@ -7344,8 +6689,6 @@
   },
   {
     "_id": 5247,
-    "_year": 2013,
-    "_origName": "Wenzel Coaching - Bay Area Beginning MTB Clinic #2",
     "id": "evt-5247",
     "name": "Wenzel Coaching — Bay Area Beginning MTB Clinic #2",
     "status": "",
@@ -7365,7 +6708,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3007,
         "id": "prm-3007",
         "name": "Wenzel Coaching"
       }
@@ -7377,8 +6719,6 @@
   },
   {
     "_id": 5249,
-    "_year": 2013,
-    "_origName": "NCNCA Junior State Track Championship",
     "id": "evt-5249",
     "name": "NCNCA Junior State Track Championship",
     "status": "",
@@ -7398,7 +6738,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-2477",
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -7410,8 +6749,6 @@
   },
   {
     "_id": 5254,
-    "_year": 2013,
-    "_origName": "CCCX MTB SERIES- at FT. ORD",
     "id": "evt-5254",
     "name": "CCCX MTB SERIES — at FT. ORD",
     "status": "",
@@ -7431,7 +6768,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -7443,8 +6779,6 @@
   },
   {
     "_id": 5295,
-    "_year": 2013,
-    "_origName": "Central Coast Road Seires- Seaside  Bay View Circuit Race",
     "id": "evt-5295",
     "name": "Central Coast Road Seires — Seaside Bay View Circuit Race",
     "status": "",
@@ -7464,7 +6798,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1207",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -7476,8 +6809,6 @@
   },
   {
     "_id": 5296,
-    "_year": 2013,
-    "_origName": "CANCELLED- Central Coast Road Seires- Seaside  Bay View Circuit Race",
     "id": "evt-5296",
     "name": "Central Coast Road Seires — Seaside Bay View Circuit Race",
     "status": "Canceled",
@@ -7497,7 +6828,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1207",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -7509,8 +6839,6 @@
   },
   {
     "_id": 5297,
-    "_year": 2013,
-    "_origName": "Everest Challenge ",
     "id": "evt-5297",
     "name": "Everest Challenge",
     "status": "",
@@ -7530,7 +6858,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-127",
     "promoters": [
       {
-        "_id": 2746,
         "id": "prm-2746",
         "name": "AntiGravity Cycling"
       }
@@ -7542,8 +6869,6 @@
   },
   {
     "_id": 5300,
-    "_year": 2013,
-    "_origName": "Right Start Beinnger's Racing Clinic",
     "id": "evt-5300",
     "name": "Right Start Beinnger's Racing Clinic",
     "status": "",
@@ -7563,7 +6888,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3007,
         "id": "prm-3007",
         "name": "Wenzel Coaching"
       }
@@ -7575,8 +6899,6 @@
   },
   {
     "_id": 5306,
-    "_year": 2013,
-    "_origName": "Howell Mountain Challenge (XC)",
     "id": "evt-5306",
     "name": "Howell Mountain Challenge (XC)",
     "status": "",
@@ -7602,8 +6924,6 @@
   },
   {
     "_id": 5307,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #11",
     "id": "evt-5307",
     "name": "Tuesday Night Twilight #11",
     "status": "",
@@ -7623,7 +6943,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7635,8 +6954,6 @@
   },
   {
     "_id": 5309,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #12",
     "id": "evt-5309",
     "name": "Tuesday Night Twilight #12",
     "status": "",
@@ -7656,7 +6973,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7668,8 +6984,6 @@
   },
   {
     "_id": 5310,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #13",
     "id": "evt-5310",
     "name": "Tuesday Night Twilight #13",
     "status": "",
@@ -7689,7 +7003,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7701,8 +7014,6 @@
   },
   {
     "_id": 5311,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #14",
     "id": "evt-5311",
     "name": "Tuesday Night Twilight #14",
     "status": "",
@@ -7722,7 +7033,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7734,8 +7044,6 @@
   },
   {
     "_id": 5312,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #15",
     "id": "evt-5312",
     "name": "Tuesday Night Twilight #15",
     "status": "",
@@ -7755,7 +7063,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7767,8 +7074,6 @@
   },
   {
     "_id": 5313,
-    "_year": 2013,
-    "_origName": "Tuesday Night Twilight #16",
     "id": "evt-5313",
     "name": "Tuesday Night Twilight #16",
     "status": "",
@@ -7788,7 +7093,6 @@
     "resultsUrl": "http://www.tuesdaynighttwilights.com/results",
     "promoters": [
       {
-        "_id": 2794,
         "id": "prm-2794",
         "name": "Veronika Lenzi"
       }
@@ -7800,8 +7104,6 @@
   },
   {
     "_id": 5329,
-    "_year": 2013,
-    "_origName": "NCNCA Masters State Track District Championships p/b Team Specialized Racing",
     "id": "evt-5329",
     "name": "NCNCA Masters State Track District Championships p/b Team Specialized Racing",
     "status": "",
@@ -7821,7 +7123,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-178",
     "promoters": [
       {
-        "_id": 3359,
         "id": "prm-3359",
         "name": "Team Specialized"
       }
@@ -7833,8 +7134,6 @@
   },
   {
     "_id": 5350,
-    "_year": 2013,
-    "_origName": "McLaren Short Track Challenge - XC (SF MTB Festival)",
     "id": "evt-5350",
     "name": "McLaren Short Track Challenge — XC (SF MTB Festival)",
     "status": "",
@@ -7854,7 +7153,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 5349,
         "id": "prm-5349",
         "name": "SF Urban Riders"
       }
@@ -7866,8 +7164,6 @@
   },
   {
     "_id": 5352,
-    "_year": 2013,
-    "_origName": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "id": "evt-5352",
     "name": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "status": "",
@@ -7887,7 +7183,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -7899,8 +7194,6 @@
   },
   {
     "_id": 5352,
-    "_year": 2013,
-    "_origName": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "id": "evt-5352",
     "name": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "status": "",
@@ -7920,7 +7213,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -7932,8 +7224,6 @@
   },
   {
     "_id": 5353,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "id": "evt-5353",
     "name": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "status": "",
@@ -7953,7 +7243,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -7965,8 +7254,6 @@
   },
   {
     "_id": 5353,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "id": "evt-5353",
     "name": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "status": "",
@@ -7986,7 +7273,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -7998,8 +7284,6 @@
   },
   {
     "_id": 5354,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "id": "evt-5354",
     "name": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "status": "",
@@ -8019,7 +7303,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -8031,8 +7314,6 @@
   },
   {
     "_id": 5354,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "id": "evt-5354",
     "name": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "status": "",
@@ -8052,7 +7333,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-1557",
     "promoters": [
       {
-        "_id": 5351,
         "id": "prm-5351",
         "name": "City of Folsom"
       }
@@ -8064,8 +7344,6 @@
   },
   {
     "_id": 5361,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration Cyclocross",
     "id": "evt-5361",
     "name": "Folsom Cyclebration Cyclocross",
     "status": "",
@@ -8091,8 +7369,6 @@
   },
   {
     "_id": 5362,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #1",
     "id": "evt-5362",
     "name": "Central Coast Cyclocross Series #1",
     "status": "",
@@ -8112,7 +7388,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -8124,8 +7399,6 @@
   },
   {
     "_id": 5363,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #2",
     "id": "evt-5363",
     "name": "Central Coast Cyclocross Series #2",
     "status": "",
@@ -8145,7 +7418,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -8157,8 +7429,6 @@
   },
   {
     "_id": 5364,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #3",
     "id": "evt-5364",
     "name": "Central Coast Cyclocross Series #3",
     "status": "",
@@ -8178,7 +7448,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -8190,8 +7459,6 @@
   },
   {
     "_id": 5365,
-    "_year": 2013,
-    "_origName": "Sacramento Cyclocross Series",
     "id": "evt-5365",
     "name": "Sacramento Cyclocross Series",
     "status": "",
@@ -8211,7 +7478,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -8223,8 +7489,6 @@
   },
   {
     "_id": 5366,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #4",
     "id": "evt-5366",
     "name": "Central Coast Cyclocross Series #4",
     "status": "",
@@ -8244,7 +7508,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -8256,8 +7519,6 @@
   },
   {
     "_id": 5367,
-    "_year": 2013,
-    "_origName": "Bay Area Super Prestige ",
     "id": "evt-5367",
     "name": "Bay Area Super Prestige",
     "status": "",
@@ -8277,7 +7538,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2633,
         "id": "prm-2633",
         "name": "Pilarcitos Cyclesports"
       }
@@ -8289,8 +7549,6 @@
   },
   {
     "_id": 5368,
-    "_year": 2013,
-    "_origName": "San Jose Cougar Cyclocross ",
     "id": "evt-5368",
     "name": "San Jose Cougar Cyclocross",
     "status": "",
@@ -8316,8 +7574,6 @@
   },
   {
     "_id": 5369,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #5",
     "id": "evt-5369",
     "name": "Central Coast Cyclocross Series #5",
     "status": "",
@@ -8337,7 +7593,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -8349,8 +7604,6 @@
   },
   {
     "_id": 5370,
-    "_year": 2013,
-    "_origName": "Sacramento Cyclocross Series",
     "id": "evt-5370",
     "name": "Sacramento Cyclocross Series",
     "status": "",
@@ -8370,7 +7623,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -8382,8 +7634,6 @@
   },
   {
     "_id": 5371,
-    "_year": 2013,
-    "_origName": "Lion of Fairfax",
     "id": "evt-5371",
     "name": "Lion of Fairfax",
     "status": "",
@@ -8409,8 +7659,6 @@
   },
   {
     "_id": 5372,
-    "_year": 2013,
-    "_origName": "Surf City Cyclocross Series",
     "id": "evt-5372",
     "name": "Surf City Cyclocross Series",
     "status": "",
@@ -8430,7 +7678,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2614,
         "id": "prm-2614",
         "name": "Surf City Cyclo-X"
       }
@@ -8442,8 +7689,6 @@
   },
   {
     "_id": 5374,
-    "_year": 2013,
-    "_origName": "Bay Area Super Prestige",
     "id": "evt-5374",
     "name": "Bay Area Super Prestige",
     "status": "",
@@ -8463,7 +7708,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2633,
         "id": "prm-2633",
         "name": "Pilarcitos Cyclesports"
       }
@@ -8475,8 +7719,6 @@
   },
   {
     "_id": 5376,
-    "_year": 2013,
-    "_origName": "Homegrown Cyclocross Series",
     "id": "evt-5376",
     "name": "Homegrown Cyclocross Series",
     "status": "",
@@ -8502,8 +7744,6 @@
   },
   {
     "_id": 5377,
-    "_year": 2013,
-    "_origName": "Surf City Cyclocross Series",
     "id": "evt-5377",
     "name": "Surf City Cyclocross Series",
     "status": "",
@@ -8523,7 +7763,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2614,
         "id": "prm-2614",
         "name": "Surf City Cyclo-X"
       }
@@ -8535,8 +7774,6 @@
   },
   {
     "_id": 5378,
-    "_year": 2013,
-    "_origName": "Bay Area Super Prestige",
     "id": "evt-5378",
     "name": "Bay Area Super Prestige",
     "status": "",
@@ -8556,7 +7793,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2633,
         "id": "prm-2633",
         "name": "Pilarcitos Cyclesports"
       }
@@ -8568,8 +7804,6 @@
   },
   {
     "_id": 5379,
-    "_year": 2013,
-    "_origName": "Sacramento Cyclocross Series",
     "id": "evt-5379",
     "name": "Sacramento Cyclocross Series",
     "status": "",
@@ -8589,7 +7823,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -8601,8 +7834,6 @@
   },
   {
     "_id": 5381,
-    "_year": 2013,
-    "_origName": "Stafford Lake Wildcat Cyclocross",
     "id": "evt-5381",
     "name": "Stafford Lake Wildcat Cyclocross",
     "status": "",
@@ -8628,8 +7859,6 @@
   },
   {
     "_id": 5382,
-    "_year": 2013,
-    "_origName": "Bay Area Super Prestige",
     "id": "evt-5382",
     "name": "Bay Area Super Prestige",
     "status": "",
@@ -8649,7 +7878,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2633,
         "id": "prm-2633",
         "name": "Pilarcitos Cyclesports"
       }
@@ -8661,8 +7889,6 @@
   },
   {
     "_id": 5383,
-    "_year": 2013,
-    "_origName": "Homegrown Cyclocross Series",
     "id": "evt-5383",
     "name": "Homegrown Cyclocross Series",
     "status": "",
@@ -8688,8 +7914,6 @@
   },
   {
     "_id": 5384,
-    "_year": 2013,
-    "_origName": "Kitten of Vallejo Cyclocross",
     "id": "evt-5384",
     "name": "Kitten of Vallejo Cyclocross",
     "status": "",
@@ -8715,8 +7939,6 @@
   },
   {
     "_id": 5385,
-    "_year": 2013,
-    "_origName": "Sacramento Cyclocross Series",
     "id": "evt-5385",
     "name": "Sacramento Cyclocross Series",
     "status": "",
@@ -8736,7 +7958,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -8748,8 +7969,6 @@
   },
   {
     "_id": 5386,
-    "_year": 2013,
-    "_origName": "Surf City Cyclocross Series",
     "id": "evt-5386",
     "name": "Surf City Cyclocross Series",
     "status": "",
@@ -8769,7 +7988,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2614,
         "id": "prm-2614",
         "name": "Surf City Cyclo-X"
       }
@@ -8781,8 +7999,6 @@
   },
   {
     "_id": 5387,
-    "_year": 2013,
-    "_origName": "Surf City Cyclocross Series",
     "id": "evt-5387",
     "name": "Surf City Cyclocross Series",
     "status": "",
@@ -8802,7 +8018,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2614,
         "id": "prm-2614",
         "name": "Surf City Cyclo-X"
       }
@@ -8814,8 +8029,6 @@
   },
   {
     "_id": 5388,
-    "_year": 2013,
-    "_origName": "Homegrown Cyclocross Series | Fresno",
     "id": "evt-5388",
     "name": "Homegrown Cyclocross Series | Fresno",
     "status": "",
@@ -8841,8 +8054,6 @@
   },
   {
     "_id": 5389,
-    "_year": 2013,
-    "_origName": "Sacramento Cyclocross Series",
     "id": "evt-5389",
     "name": "Sacramento Cyclocross Series",
     "status": "",
@@ -8862,7 +8073,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2602,
         "id": "prm-2602",
         "name": "Sacramento Cyclocross"
       }
@@ -8874,8 +8084,6 @@
   },
   {
     "_id": 5390,
-    "_year": 2013,
-    "_origName": "Homegrown Cyclocross Series",
     "id": "evt-5390",
     "name": "Homegrown Cyclocross Series",
     "status": "",
@@ -8901,8 +8109,6 @@
   },
   {
     "_id": 5391,
-    "_year": 2013,
-    "_origName": "Bay Area Super Prestige",
     "id": "evt-5391",
     "name": "Bay Area Super Prestige",
     "status": "",
@@ -8922,7 +8128,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2633,
         "id": "prm-2633",
         "name": "Pilarcitos Cyclesports"
       }
@@ -8934,8 +8139,6 @@
   },
   {
     "_id": 5392,
-    "_year": 2013,
-    "_origName": "NCCX #5 - San Jose Supcat",
     "id": "evt-5392",
     "name": "NCCX #5 — San Jose Supcat",
     "status": "",
@@ -8961,8 +8164,6 @@
   },
   {
     "_id": 5392,
-    "_year": 2013,
-    "_origName": "NCCX #5 - San Jose Supcat",
     "id": "evt-5392",
     "name": "NCCX #5 — San Jose Supcat",
     "status": "",
@@ -8988,8 +8189,6 @@
   },
   {
     "_id": 5394,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #6",
     "id": "evt-5394",
     "name": "Central Coast Cyclocross Series #6",
     "status": "",
@@ -9009,7 +8208,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -9021,8 +8219,6 @@
   },
   {
     "_id": 5395,
-    "_year": 2013,
-    "_origName": "Central Coast Cyclocross Series #7 - NCNCA/USA Cycling District Cyclocross Championships",
     "id": "evt-5395",
     "name": "Central Coast Cyclocross Series #7 — NCNCA/USA Cycling District Cyclocross Championships",
     "status": "",
@@ -9042,7 +8238,6 @@
     "resultsUrl": "http://www.cccxcycling.com",
     "promoters": [
       {
-        "_id": 2609,
         "id": "prm-2609",
         "name": "CCCX (Central Coast Cyclocross)"
       }
@@ -9054,8 +8249,6 @@
   },
   {
     "_id": 5396,
-    "_year": 2013,
-    "_origName": "North/South Cyclocross Challenge - Bakersfield",
     "id": "evt-5396",
     "name": "North/South Cyclocross Challenge — Bakersfield",
     "status": "",
@@ -9081,8 +8274,6 @@
   },
   {
     "_id": 5400,
-    "_year": 2013,
-    "_origName": "Santa Rosa Cup",
     "id": "evt-5400",
     "name": "Santa Rosa Cup",
     "status": "",
@@ -9102,7 +8293,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -9114,8 +8304,6 @@
   },
   {
     "_id": 5401,
-    "_year": 2013,
-    "_origName": "Santa Rosa Cup",
     "id": "evt-5401",
     "name": "Santa Rosa Cup",
     "status": "",
@@ -9135,7 +8323,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2611,
         "id": "prm-2611",
         "name": "Bike Monkey"
       }
@@ -9147,8 +8334,6 @@
   },
   {
     "_id": 5403,
-    "_year": 2013,
-    "_origName": "Savvy Bike Cyclocross Clinic- Bike Skills 103 ",
     "id": "evt-5403",
     "name": "Savvy Bike Cyclocross Clinic — Bike Skills 103",
     "status": "",
@@ -9174,8 +8359,6 @@
   },
   {
     "_id": 5407,
-    "_year": 2013,
-    "_origName": "NCNCA Elite District Track Cycling Championships - DAY ONE: p/b NCVA and Hellyer Team Pursuit Program",
     "id": "evt-5407",
     "name": "NCNCA Elite District Track Cycling Championships — DAY ONE: p/b NCVA and Hellyer Team Pursuit Program",
     "status": "",
@@ -9195,7 +8378,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-179",
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -9207,8 +8389,6 @@
   },
   {
     "_id": 5411,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross #1 - Hidden Valley Park",
     "id": "evt-5411",
     "name": "Sagebrush Cyclocross #1 — Hidden Valley Park",
     "status": "",
@@ -9228,7 +8408,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -9240,8 +8419,6 @@
   },
   {
     "_id": 5412,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross #2 - Truckee Bike Park",
     "id": "evt-5412",
     "name": "Sagebrush Cyclocross #2 — Truckee Bike Park",
     "status": "",
@@ -9261,7 +8438,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -9273,8 +8449,6 @@
   },
   {
     "_id": 5413,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross #3 - Archie Clayton Middle School",
     "id": "evt-5413",
     "name": "Sagebrush Cyclocross #3 — Archie Clayton Middle School",
     "status": "",
@@ -9294,7 +8468,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -9306,8 +8479,6 @@
   },
   {
     "_id": 5414,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross #4 - Dorothy McAliden Park",
     "id": "evt-5414",
     "name": "Sagebrush Cyclocross #4 — Dorothy McAliden Park",
     "status": "",
@@ -9327,7 +8498,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -9339,8 +8509,6 @@
   },
   {
     "_id": 5415,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross #5 - Davis Creek Park",
     "id": "evt-5415",
     "name": "Sagebrush Cyclocross #5 — Davis Creek Park",
     "status": "",
@@ -9360,7 +8528,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 2642,
         "id": "prm-2642",
         "name": "Reno Wheelmen"
       }
@@ -9372,8 +8539,6 @@
   },
   {
     "_id": 5416,
-    "_year": 2013,
-    "_origName": "Folsom Cyclebration MTB",
     "id": "evt-5416",
     "name": "Folsom Cyclebration MTB",
     "status": "",
@@ -9399,8 +8564,6 @@
   },
   {
     "_id": 5417,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross Series",
     "id": "evt-5417",
     "name": "Sagebrush Cyclocross Series",
     "status": "",
@@ -9426,8 +8589,6 @@
   },
   {
     "_id": 5419,
-    "_year": 2013,
-    "_origName": "Sagebrush Cyclocross",
     "id": "evt-5419",
     "name": "Sagebrush Cyclocross",
     "status": "",
@@ -9453,8 +8614,6 @@
   },
   {
     "_id": 5422,
-    "_year": 2013,
-    "_origName": "NCNCA Elite District Track Cycling Championships - Sprint Qualifiers",
     "id": "evt-5422",
     "name": "NCNCA Elite District Track Cycling Championships — Sprint Qualifiers",
     "status": "",
@@ -9474,7 +8633,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-179",
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -9486,8 +8644,6 @@
   },
   {
     "_id": 5423,
-    "_year": 2013,
-    "_origName": "NCNCA Elite District Track Cycling Championships - DAY TWO: p/b NCVA and Hellyer Team Pursuit Program",
     "id": "evt-5423",
     "name": "NCNCA Elite District Track Cycling Championships — DAY TWO: p/b NCVA and Hellyer Team Pursuit Program",
     "status": "",
@@ -9507,7 +8663,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-179",
     "promoters": [
       {
-        "_id": 3351,
         "id": "prm-3351",
         "name": "Northern California Velodrome Association"
       }
@@ -9519,8 +8674,6 @@
   },
   {
     "_id": 5440,
-    "_year": 2013,
-    "_origName": "Stanford Cycling Mountain Bike Race",
     "id": "evt-5440",
     "name": "Stanford Cycling Mountain Bike Race",
     "status": "",
@@ -9546,8 +8699,6 @@
   },
   {
     "_id": 5442,
-    "_year": 2013,
-    "_origName": "Fall Timed Event Series #1",
     "id": "evt-5442",
     "name": "Fall Timed Event Series #1",
     "status": "",
@@ -9567,7 +8718,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3507",
     "promoters": [
       {
-        "_id": 5446,
         "id": "prm-5446",
         "name": "Michael Wesley"
       }
@@ -9579,8 +8729,6 @@
   },
   {
     "_id": 5443,
-    "_year": 2013,
-    "_origName": "Fall Timed Event Series #2",
     "id": "evt-5443",
     "name": "Fall Timed Event Series #2",
     "status": "",
@@ -9600,7 +8748,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3507",
     "promoters": [
       {
-        "_id": 5446,
         "id": "prm-5446",
         "name": "Michael Wesley"
       }
@@ -9612,8 +8759,6 @@
   },
   {
     "_id": 5444,
-    "_year": 2013,
-    "_origName": "Fall Timed Event Series #3",
     "id": "evt-5444",
     "name": "Fall Timed Event Series #3",
     "status": "",
@@ -9633,7 +8778,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3507",
     "promoters": [
       {
-        "_id": 5446,
         "id": "prm-5446",
         "name": "Michael Wesley"
       }
@@ -9645,8 +8789,6 @@
   },
   {
     "_id": 5445,
-    "_year": 2013,
-    "_origName": "Fall Timed Event Series #4",
     "id": "evt-5445",
     "name": "Fall Timed Event Series #4",
     "status": "",
@@ -9666,7 +8808,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3507",
     "promoters": [
       {
-        "_id": 5446,
         "id": "prm-5446",
         "name": "Michael Wesley"
       }
@@ -9678,8 +8819,6 @@
   },
   {
     "_id": 5448,
-    "_year": 2013,
-    "_origName": "Cycle with Champions",
     "id": "evt-5448",
     "name": "Cycle with Champions",
     "status": "",
@@ -9699,7 +8838,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3595",
     "promoters": [
       {
-        "_id": 4675,
         "id": "prm-4675",
         "name": "Team Swift"
       }
@@ -9711,8 +8849,6 @@
   },
   {
     "_id": 5452,
-    "_year": 2013,
-    "_origName": "The \"Lou Fest\" Night Race- Homegrown Cyclocross Series",
     "id": "evt-5452",
     "name": "The \"Lou Fest\" Night Race — Homegrown Cyclocross Series",
     "status": "",
@@ -9738,8 +8874,6 @@
   },
   {
     "_id": 5455,
-    "_year": 2013,
-    "_origName": "Right Start Beginner's Racing Clinic p/b Wenzel Coaching",
     "id": "evt-5455",
     "name": "Right Start Beginner's Racing Clinic p/b Wenzel Coaching",
     "status": "",
@@ -9759,7 +8893,6 @@
     "resultsUrl": null,
     "promoters": [
       {
-        "_id": 3007,
         "id": "prm-3007",
         "name": "Wenzel Coaching"
       }
@@ -9771,8 +8904,6 @@
   },
   {
     "_id": 5461,
-    "_year": 2013,
-    "_origName": "The \"Lou Fest\" Night Cyclocross Race- Homegrown Series",
     "id": "evt-5461",
     "name": "The \"Lou Fest\" Night Cyclocross Race — Homegrown Series",
     "status": "",
@@ -9798,8 +8929,6 @@
   },
   {
     "_id": 5468,
-    "_year": 2013,
-    "_origName": "El Dorado Hills Cyclocross",
     "id": "evt-5468",
     "name": "El Dorado Hills Cyclocross",
     "status": "",
@@ -9819,7 +8948,6 @@
     "resultsUrl": "https://www.usacycling.org/results/?permit=2013-3300",
     "promoters": [
       {
-        "_id": 3311,
         "id": "prm-3311",
         "name": "Folsom Bike"
       }
@@ -9831,8 +8959,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9858,8 +8984,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9885,8 +9009,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9912,8 +9034,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9939,8 +9059,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9966,8 +9084,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
@@ -9993,8 +9109,6 @@
   },
   {
     "_id": 5626,
-    "_year": 2013,
-    "_origName": "NCNCA Board Meeting",
     "id": "evt-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
