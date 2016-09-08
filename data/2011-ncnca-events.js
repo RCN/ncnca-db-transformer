@@ -1,7 +1,7 @@
 [
   {
     "_id": 110,
-    "id": "evt-110",
+    "id": "evt-2011-110",
     "name": "San Bruno Hill Climb",
     "status": "",
     "type": "Road Race",
@@ -31,7 +31,7 @@
   },
   {
     "_id": 113,
-    "id": "evt-113",
+    "id": "evt-2011-113",
     "name": "Early Bird Criterium #1",
     "status": "",
     "type": "Criterium",
@@ -61,7 +61,7 @@
   },
   {
     "_id": 114,
-    "id": "evt-114",
+    "id": "evt-2011-114",
     "name": "Early Bird Criterium #2",
     "status": "",
     "type": "Criterium",
@@ -91,7 +91,7 @@
   },
   {
     "_id": 115,
-    "id": "evt-115",
+    "id": "evt-2011-115",
     "name": "Early Bird Criterium #3",
     "status": "",
     "type": "Criterium",
@@ -121,7 +121,7 @@
   },
   {
     "_id": 116,
-    "id": "evt-116",
+    "id": "evt-2011-116",
     "name": "Bicycles Plus Early Bird Criterium",
     "status": "",
     "type": "Criterium",
@@ -151,7 +151,7 @@
   },
   {
     "_id": 117,
-    "id": "evt-117",
+    "id": "evt-2011-117",
     "name": "Early Bird Road Race",
     "status": "",
     "type": "Road Race",
@@ -181,7 +181,7 @@
   },
   {
     "_id": 118,
-    "id": "evt-118",
+    "id": "evt-2011-118",
     "name": "Cal Aggie Criterium",
     "status": "",
     "type": "Criterium",
@@ -211,7 +211,7 @@
   },
   {
     "_id": 120,
-    "id": "evt-120",
+    "id": "evt-2011-120",
     "name": "Central Coast Circuit Race Series #1",
     "status": "",
     "type": "Criterium",
@@ -241,7 +241,7 @@
   },
   {
     "_id": 121,
-    "id": "evt-121",
+    "id": "evt-2011-121",
     "name": "Early Bird Criterium #4",
     "status": "",
     "type": "Criterium",
@@ -271,7 +271,7 @@
   },
   {
     "_id": 125,
-    "id": "evt-125",
+    "id": "evt-2011-125",
     "name": "Ronde van Brisbeen",
     "status": "",
     "type": "Criterium",
@@ -301,7 +301,7 @@
   },
   {
     "_id": 126,
-    "id": "evt-126",
+    "id": "evt-2011-126",
     "name": "Cherry Pie Criterium",
     "status": "",
     "type": "Criterium",
@@ -331,7 +331,7 @@
   },
   {
     "_id": 127,
-    "id": "evt-127",
+    "id": "evt-2011-127",
     "name": "Central Coast Circuit Race Series #2",
     "status": "",
     "type": "Criterium",
@@ -361,7 +361,7 @@
   },
   {
     "_id": 128,
-    "id": "evt-128",
+    "id": "evt-2011-128",
     "name": "Cantua Creek Road Race",
     "status": "",
     "type": "Road Race",
@@ -391,7 +391,7 @@
   },
   {
     "_id": 129,
-    "id": "evt-129",
+    "id": "evt-2011-129",
     "name": "Pine Flat Road Race",
     "status": "",
     "type": "Road Race",
@@ -421,7 +421,7 @@
   },
   {
     "_id": 130,
-    "id": "evt-130",
+    "id": "evt-2011-130",
     "name": "Dinuba Criterium",
     "status": "",
     "type": "Criterium",
@@ -451,7 +451,7 @@
   },
   {
     "_id": 131,
-    "id": "evt-131",
+    "id": "evt-2011-131",
     "name": "Snelling Road Race",
     "status": "",
     "type": "Road Race",
@@ -481,7 +481,7 @@
   },
   {
     "_id": 132,
-    "id": "evt-132",
+    "id": "evt-2011-132",
     "name": "Original Merced Criterium",
     "status": "",
     "type": "Criterium",
@@ -511,7 +511,7 @@
   },
   {
     "_id": 133,
-    "id": "evt-133",
+    "id": "evt-2011-133",
     "name": "Merco Cycling Classic Stage Race (Pro 1/2 Men & Pro 1/2/3 Women)",
     "status": "",
     "type": "Road Race",
@@ -541,7 +541,7 @@
   },
   {
     "_id": 134,
-    "id": "evt-134",
+    "id": "evt-2011-134",
     "name": "Merco Cycling Classic ITT",
     "status": "",
     "type": "Time Trial",
@@ -571,7 +571,7 @@
   },
   {
     "_id": 135,
-    "id": "evt-135",
+    "id": "evt-2011-135",
     "name": "Merco Cycling Classic Foothills Road Race",
     "status": "",
     "type": "Road Race",
@@ -601,7 +601,7 @@
   },
   {
     "_id": 136,
-    "id": "evt-136",
+    "id": "evt-2011-136",
     "name": "Merco Cycling Classic Downtown Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -631,7 +631,7 @@
   },
   {
     "_id": 137,
-    "id": "evt-137",
+    "id": "evt-2011-137",
     "name": "Madera Stage Race",
     "status": "",
     "type": "Road Race",
@@ -661,7 +661,7 @@
   },
   {
     "_id": 138,
-    "id": "evt-138",
+    "id": "evt-2011-138",
     "name": "Central Coast Circuit Race Series #3",
     "status": "",
     "type": "Criterium",
@@ -691,7 +691,7 @@
   },
   {
     "_id": 139,
-    "id": "evt-139",
+    "id": "evt-2011-139",
     "name": "Central Coast Circuit Race Series #4",
     "status": "",
     "type": "Criterium",
@@ -721,7 +721,7 @@
   },
   {
     "_id": 140,
-    "id": "evt-140",
+    "id": "evt-2011-140",
     "name": "Menlo Park Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -751,7 +751,7 @@
   },
   {
     "_id": 141,
-    "id": "evt-141",
+    "id": "evt-2011-141",
     "name": "Wards Ferry Road Race",
     "status": "",
     "type": "Road Race",
@@ -781,7 +781,7 @@
   },
   {
     "_id": 142,
-    "id": "evt-142",
+    "id": "evt-2011-142",
     "name": "Regalado Road Race",
     "status": "",
     "type": "Road Race",
@@ -811,7 +811,7 @@
   },
   {
     "_id": 150,
-    "id": "evt-150",
+    "id": "evt-2011-150",
     "name": "Land Park Criterium",
     "status": "",
     "type": "Criterium",
@@ -841,7 +841,7 @@
   },
   {
     "_id": 151,
-    "id": "evt-151",
+    "id": "evt-2011-151",
     "name": "Bariani Road Race",
     "status": "",
     "type": "Road Race",
@@ -871,7 +871,7 @@
   },
   {
     "_id": 153,
-    "id": "evt-153",
+    "id": "evt-2011-153",
     "name": "Calaveras Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -901,7 +901,7 @@
   },
   {
     "_id": 154,
-    "id": "evt-154",
+    "id": "evt-2011-154",
     "name": "Copper Town Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -931,7 +931,7 @@
   },
   {
     "_id": 156,
-    "id": "evt-156",
+    "id": "evt-2011-156",
     "name": "Apple Pie Criterium",
     "status": "",
     "type": "Criterium",
@@ -961,7 +961,7 @@
   },
   {
     "_id": 157,
-    "id": "evt-157",
+    "id": "evt-2011-157",
     "name": "Hanford Criterium",
     "status": "",
     "type": "Criterium",
@@ -991,7 +991,7 @@
   },
   {
     "_id": 164,
-    "id": "evt-164",
+    "id": "evt-2011-164",
     "name": "Kingsburg Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -1021,7 +1021,7 @@
   },
   {
     "_id": 165,
-    "id": "evt-165",
+    "id": "evt-2011-165",
     "name": "Turlock Lake Road Race presented by Rabobank",
     "status": "",
     "type": "Road Race",
@@ -1051,7 +1051,7 @@
   },
   {
     "_id": 167,
-    "id": "evt-167",
+    "id": "evt-2011-167",
     "name": "Palm Bluffs Criterium",
     "status": "",
     "type": "Criterium",
@@ -1081,7 +1081,7 @@
   },
   {
     "_id": 168,
-    "id": "evt-168",
+    "id": "evt-2011-168",
     "name": "Sea Otter Classic",
     "status": "",
     "type": "Time Trial",
@@ -1111,7 +1111,7 @@
   },
   {
     "_id": 168,
-    "id": "evt-168",
+    "id": "evt-2011-168",
     "name": "Sea Otter Classic",
     "status": "",
     "type": "Road Race",
@@ -1141,7 +1141,7 @@
   },
   {
     "_id": 168,
-    "id": "evt-168",
+    "id": "evt-2011-168",
     "name": "Sea Otter Classic",
     "status": "",
     "type": "Criterium",
@@ -1171,7 +1171,7 @@
   },
   {
     "_id": 168,
-    "id": "evt-168",
+    "id": "evt-2011-168",
     "name": "Sea Otter Classic",
     "status": "",
     "type": "MTB",
@@ -1201,7 +1201,7 @@
   },
   {
     "_id": 169,
-    "id": "evt-169",
+    "id": "evt-2011-169",
     "name": "Chico Stage Race",
     "status": "",
     "type": "Road Race",
@@ -1231,7 +1231,7 @@
   },
   {
     "_id": 171,
-    "id": "evt-171",
+    "id": "evt-2011-171",
     "name": "Santa Cruz Classic Criterium",
     "status": "",
     "type": "Criterium",
@@ -1261,7 +1261,7 @@
   },
   {
     "_id": 172,
-    "id": "evt-172",
+    "id": "evt-2011-172",
     "name": "Copperopolis Road Race",
     "status": "",
     "type": "Road Race",
@@ -1291,7 +1291,7 @@
   },
   {
     "_id": 179,
-    "id": "evt-179",
+    "id": "evt-2011-179",
     "name": "Easter Sunday Classic",
     "status": "",
     "type": "Criterium",
@@ -1321,7 +1321,7 @@
   },
   {
     "_id": 188,
-    "id": "evt-188",
+    "id": "evt-2011-188",
     "name": "Wente Vineyards Road Race",
     "status": "",
     "type": "Road Race",
@@ -1351,7 +1351,7 @@
   },
   {
     "_id": 189,
-    "id": "evt-189",
+    "id": "evt-2011-189",
     "name": "Sutter Auburn Faith Criterium",
     "status": "",
     "type": "Criterium",
@@ -1381,7 +1381,7 @@
   },
   {
     "_id": 190,
-    "id": "evt-190",
+    "id": "evt-2011-190",
     "name": "Wente Criterium",
     "status": "",
     "type": "Criterium",
@@ -1411,7 +1411,7 @@
   },
   {
     "_id": 191,
-    "id": "evt-191",
+    "id": "evt-2011-191",
     "name": "Tri Valley Velo Criterium presented by PG&E",
     "status": "",
     "type": "Criterium",
@@ -1441,7 +1441,7 @@
   },
   {
     "_id": 192,
-    "id": "evt-192",
+    "id": "evt-2011-192",
     "name": "Pittsburg Twilight",
     "status": "",
     "type": "Criterium",
@@ -1471,7 +1471,7 @@
   },
   {
     "_id": 193,
-    "id": "evt-193",
+    "id": "evt-2011-193",
     "name": "Berkeley Hills Road Race",
     "status": "",
     "type": "Road Race",
@@ -1501,7 +1501,7 @@
   },
   {
     "_id": 196,
-    "id": "evt-196",
+    "id": "evt-2011-196",
     "name": "Sierra Nevada Hill Climb TT Series #1",
     "status": "",
     "type": "Time Trial",
@@ -1531,7 +1531,7 @@
   },
   {
     "_id": 197,
-    "id": "evt-197",
+    "id": "evt-2011-197",
     "name": "Kern County Women's Stage Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -1561,7 +1561,7 @@
   },
   {
     "_id": 198,
-    "id": "evt-198",
+    "id": "evt-2011-198",
     "name": "Mike's Bikes Cat's Hill Classic",
     "status": "",
     "type": "Criterium",
@@ -1591,7 +1591,7 @@
   },
   {
     "_id": 199,
-    "id": "evt-199",
+    "id": "evt-2011-199",
     "name": "Modesto Criterium",
     "status": "",
     "type": "Criterium",
@@ -1621,7 +1621,7 @@
   },
   {
     "_id": 200,
-    "id": "evt-200",
+    "id": "evt-2011-200",
     "name": "Modesto Road Race",
     "status": "",
     "type": "Road Race",
@@ -1651,7 +1651,7 @@
   },
   {
     "_id": 201,
-    "id": "evt-201",
+    "id": "evt-2011-201",
     "name": "Scotts Valley Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -1681,7 +1681,7 @@
   },
   {
     "_id": 203,
-    "id": "evt-203",
+    "id": "evt-2011-203",
     "name": "Golden State Race Series Day 1 — Criterium",
     "status": "",
     "type": "Criterium",
@@ -1711,7 +1711,7 @@
   },
   {
     "_id": 205,
-    "id": "evt-205",
+    "id": "evt-2011-205",
     "name": "NCNCA TTT Championship and Open TTT",
     "status": "",
     "type": "Time Trial",
@@ -1741,7 +1741,7 @@
   },
   {
     "_id": 207,
-    "id": "evt-207",
+    "id": "evt-2011-207",
     "name": "Joseph Mendes Criterium",
     "status": "",
     "type": "Criterium",
@@ -1771,7 +1771,7 @@
   },
   {
     "_id": 209,
-    "id": "evt-209",
+    "id": "evt-2011-209",
     "name": "Golden State Race Series Day 2 — Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -1801,7 +1801,7 @@
   },
   {
     "_id": 211,
-    "id": "evt-211",
+    "id": "evt-2011-211",
     "name": "Panoche Valley Road Race",
     "status": "",
     "type": "Road Race",
@@ -1831,7 +1831,7 @@
   },
   {
     "_id": 212,
-    "id": "evt-212",
+    "id": "evt-2011-212",
     "name": "Hammer Nutrition Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -1861,7 +1861,7 @@
   },
   {
     "_id": 213,
-    "id": "evt-213",
+    "id": "evt-2011-213",
     "name": "Mt. Hamilton Road Race",
     "status": "",
     "type": "Road Race",
@@ -1891,7 +1891,7 @@
   },
   {
     "_id": 219,
-    "id": "evt-219",
+    "id": "evt-2011-219",
     "name": "IC3 Dash for Cash",
     "status": "",
     "type": "Criterium",
@@ -1921,7 +1921,7 @@
   },
   {
     "_id": 220,
-    "id": "evt-220",
+    "id": "evt-2011-220",
     "name": "Topsport Stage Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -1951,7 +1951,7 @@
   },
   {
     "_id": 220,
-    "id": "evt-220",
+    "id": "evt-2011-220",
     "name": "Topsport Stage Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -1981,7 +1981,7 @@
   },
   {
     "_id": 221,
-    "id": "evt-221",
+    "id": "evt-2011-221",
     "name": "Memorial Day Criterium",
     "status": "",
     "type": "Criterium",
@@ -2011,7 +2011,7 @@
   },
   {
     "_id": 222,
-    "id": "evt-222",
+    "id": "evt-2011-222",
     "name": "Dunlap Memorial Time Trial (Junior TT State Championship)",
     "status": "",
     "type": "Time Trial",
@@ -2041,7 +2041,7 @@
   },
   {
     "_id": 223,
-    "id": "evt-223",
+    "id": "evt-2011-223",
     "name": "Central Coast Circuit Race Series #5",
     "status": "",
     "type": "Criterium",
@@ -2071,7 +2071,7 @@
   },
   {
     "_id": 224,
-    "id": "evt-224",
+    "id": "evt-2011-224",
     "name": "Mount Diablo Hill Climb",
     "status": "",
     "type": "Road Race",
@@ -2101,7 +2101,7 @@
   },
   {
     "_id": 226,
-    "id": "evt-226",
+    "id": "evt-2011-226",
     "name": "Taleo Criterium",
     "status": "",
     "type": "Criterium",
@@ -2131,7 +2131,7 @@
   },
   {
     "_id": 227,
-    "id": "evt-227",
+    "id": "evt-2011-227",
     "name": "Sattley TT (Elite and Masters TT State Championship)",
     "status": "",
     "type": "Time Trial",
@@ -2161,7 +2161,7 @@
   },
   {
     "_id": 234,
-    "id": "evt-234",
+    "id": "evt-2011-234",
     "name": "2Wheel/Early Bird Women Criterium",
     "status": "",
     "type": "Criterium",
@@ -2191,7 +2191,7 @@
   },
   {
     "_id": 234,
-    "id": "evt-234",
+    "id": "evt-2011-234",
     "name": "2Wheel/Early Bird Women Criterium",
     "status": "",
     "type": "Criterium",
@@ -2221,7 +2221,7 @@
   },
   {
     "_id": 235,
-    "id": "evt-235",
+    "id": "evt-2011-235",
     "name": "Pescadero Coastal Classic (Elite Road Race State Championship)",
     "status": "",
     "type": "Road Race",
@@ -2251,7 +2251,7 @@
   },
   {
     "_id": 236,
-    "id": "evt-236",
+    "id": "evt-2011-236",
     "name": "Nevada City Classic",
     "status": "",
     "type": "Criterium",
@@ -2281,7 +2281,7 @@
   },
   {
     "_id": 237,
-    "id": "evt-237",
+    "id": "evt-2011-237",
     "name": "Spring Hill Road Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -2311,7 +2311,7 @@
   },
   {
     "_id": 238,
-    "id": "evt-238",
+    "id": "evt-2011-238",
     "name": "Burlingame Criterium",
     "status": "",
     "type": "Criterium",
@@ -2341,7 +2341,7 @@
   },
   {
     "_id": 239,
-    "id": "evt-239",
+    "id": "evt-2011-239",
     "name": "Sierra Nevada Hill Climb TT Series #2",
     "status": "",
     "type": "Time Trial",
@@ -2371,7 +2371,7 @@
   },
   {
     "_id": 240,
-    "id": "evt-240",
+    "id": "evt-2011-240",
     "name": "Central Coast Circuit Race Series #6",
     "status": "",
     "type": "Criterium",
@@ -2401,7 +2401,7 @@
   },
   {
     "_id": 242,
-    "id": "evt-242",
+    "id": "evt-2011-242",
     "name": "Leesville Gap Road Race",
     "status": "",
     "type": "Road Race",
@@ -2431,7 +2431,7 @@
   },
   {
     "_id": 243,
-    "id": "evt-243",
+    "id": "evt-2011-243",
     "name": "Big Creek Criterium",
     "status": "",
     "type": "Criterium",
@@ -2461,7 +2461,7 @@
   },
   {
     "_id": 244,
-    "id": "evt-244",
+    "id": "evt-2011-244",
     "name": "Davis Fourth of July Criterium",
     "status": "",
     "type": "Criterium",
@@ -2491,7 +2491,7 @@
   },
   {
     "_id": 245,
-    "id": "evt-245",
+    "id": "evt-2011-245",
     "name": "San Rafael Twilight",
     "status": "",
     "type": "Criterium",
@@ -2521,7 +2521,7 @@
   },
   {
     "_id": 248,
-    "id": "evt-248",
+    "id": "evt-2011-248",
     "name": "Sierra Nevada Hill Climb TT Series #3",
     "status": "",
     "type": "Time Trial",
@@ -2551,7 +2551,7 @@
   },
   {
     "_id": 250,
-    "id": "evt-250",
+    "id": "evt-2011-250",
     "name": "Lodi Cycle Fest Presented by Michael David Family of Wines",
     "status": "",
     "type": "Criterium",
@@ -2581,7 +2581,7 @@
   },
   {
     "_id": 251,
-    "id": "evt-251",
+    "id": "evt-2011-251",
     "name": "Nocturne Grand Prix Series #1",
     "status": "",
     "type": "Criterium",
@@ -2611,7 +2611,7 @@
   },
   {
     "_id": 252,
-    "id": "evt-252",
+    "id": "evt-2011-252",
     "name": "Colavita Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -2641,7 +2641,7 @@
   },
   {
     "_id": 253,
-    "id": "evt-253",
+    "id": "evt-2011-253",
     "name": "Watsonville Criterium",
     "status": "",
     "type": "Criterium",
@@ -2671,7 +2671,7 @@
   },
   {
     "_id": 254,
-    "id": "evt-254",
+    "id": "evt-2011-254",
     "name": "Berkeley Bike Club Criterium",
     "status": "",
     "type": "Criterium",
@@ -2701,7 +2701,7 @@
   },
   {
     "_id": 256,
-    "id": "evt-256",
+    "id": "evt-2011-256",
     "name": "Nocturne Grand Prix Series #2",
     "status": "",
     "type": "Criterium",
@@ -2731,7 +2731,7 @@
   },
   {
     "_id": 258,
-    "id": "evt-258",
+    "id": "evt-2011-258",
     "name": "Tour de Nez",
     "status": "",
     "type": "Time Trial",
@@ -2761,7 +2761,7 @@
   },
   {
     "_id": 258,
-    "id": "evt-258",
+    "id": "evt-2011-258",
     "name": "Tour de Nez",
     "status": "",
     "type": "Road Race",
@@ -2791,7 +2791,7 @@
   },
   {
     "_id": 258,
-    "id": "evt-258",
+    "id": "evt-2011-258",
     "name": "Tour de Nez",
     "status": "",
     "type": "Criterium",
@@ -2821,7 +2821,7 @@
   },
   {
     "_id": 259,
-    "id": "evt-259",
+    "id": "evt-2011-259",
     "name": "Central Coast Circuit Race Series #7",
     "status": "",
     "type": "Criterium",
@@ -2851,7 +2851,7 @@
   },
   {
     "_id": 260,
-    "id": "evt-260",
+    "id": "evt-2011-260",
     "name": "Foothill Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -2881,7 +2881,7 @@
   },
   {
     "_id": 261,
-    "id": "evt-261",
+    "id": "evt-2011-261",
     "name": "Fremont Nocturne Series #4",
     "status": "Canceled",
     "type": "Criterium",
@@ -2911,7 +2911,7 @@
   },
   {
     "_id": 263,
-    "id": "evt-263",
+    "id": "evt-2011-263",
     "name": "Strawberry Crown Criterium",
     "status": "",
     "type": "Criterium",
@@ -2945,7 +2945,7 @@
   },
   {
     "_id": 264,
-    "id": "evt-264",
+    "id": "evt-2011-264",
     "name": "Warnerville Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -2975,7 +2975,7 @@
   },
   {
     "_id": 267,
-    "id": "evt-267",
+    "id": "evt-2011-267",
     "name": "NCNCA Masters State Criterium Championships",
     "status": "",
     "type": "Criterium",
@@ -3005,7 +3005,7 @@
   },
   {
     "_id": 268,
-    "id": "evt-268",
+    "id": "evt-2011-268",
     "name": "Patterson Pass Road Race",
     "status": "",
     "type": "Road Race",
@@ -3035,7 +3035,7 @@
   },
   {
     "_id": 269,
-    "id": "evt-269",
+    "id": "evt-2011-269",
     "name": "Sierra Nevada Hill Climb TT Series #4",
     "status": "",
     "type": "Time Trial",
@@ -3065,7 +3065,7 @@
   },
   {
     "_id": 271,
-    "id": "evt-271",
+    "id": "evt-2011-271",
     "name": "Fremont Nocturne Series #5",
     "status": "Canceled",
     "type": "Criterium",
@@ -3095,7 +3095,7 @@
   },
   {
     "_id": 272,
-    "id": "evt-272",
+    "id": "evt-2011-272",
     "name": "Dunnigan Hills Road Race",
     "status": "",
     "type": "Road Race",
@@ -3125,7 +3125,7 @@
   },
   {
     "_id": 275,
-    "id": "evt-275",
+    "id": "evt-2011-275",
     "name": "Fast and Furious Criterium",
     "status": "",
     "type": "Criterium",
@@ -3155,7 +3155,7 @@
   },
   {
     "_id": 276,
-    "id": "evt-276",
+    "id": "evt-2011-276",
     "name": "NCNCA/USAC Masters Road Race State Championship",
     "status": "",
     "type": "Criterium",
@@ -3185,7 +3185,7 @@
   },
   {
     "_id": 277,
-    "id": "evt-277",
+    "id": "evt-2011-277",
     "name": "Suisun Harbor Criterium",
     "status": "",
     "type": "Criterium",
@@ -3215,7 +3215,7 @@
   },
   {
     "_id": 278,
-    "id": "evt-278",
+    "id": "evt-2011-278",
     "name": "San Ardo Road Race",
     "status": "",
     "type": "Road Race",
@@ -3245,7 +3245,7 @@
   },
   {
     "_id": 279,
-    "id": "evt-279",
+    "id": "evt-2011-279",
     "name": "University Road Race",
     "status": "",
     "type": "Road Race",
@@ -3275,7 +3275,7 @@
   },
   {
     "_id": 280,
-    "id": "evt-280",
+    "id": "evt-2011-280",
     "name": "Winters Road Race",
     "status": "",
     "type": "Road Race",
@@ -3305,7 +3305,7 @@
   },
   {
     "_id": 281,
-    "id": "evt-281",
+    "id": "evt-2011-281",
     "name": "Vacaville Gran Prix",
     "status": "",
     "type": "Criterium",
@@ -3335,7 +3335,7 @@
   },
   {
     "_id": 282,
-    "id": "evt-282",
+    "id": "evt-2011-282",
     "name": "Masters National Road Championships",
     "status": "",
     "type": "Road Race",
@@ -3365,7 +3365,7 @@
   },
   {
     "_id": 283,
-    "id": "evt-283",
+    "id": "evt-2011-283",
     "name": "Central Coast Circuit Series #8",
     "status": "",
     "type": "Criterium",
@@ -3395,7 +3395,7 @@
   },
   {
     "_id": 284,
-    "id": "evt-284",
+    "id": "evt-2011-284",
     "name": "Challenge Road Race",
     "status": "",
     "type": "Road Race",
@@ -3425,7 +3425,7 @@
   },
   {
     "_id": 286,
-    "id": "evt-286",
+    "id": "evt-2011-286",
     "name": "Esparto Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -3455,7 +3455,7 @@
   },
   {
     "_id": 287,
-    "id": "evt-287",
+    "id": "evt-2011-287",
     "name": "Giro di San Francisco",
     "status": "",
     "type": "Criterium",
@@ -3485,7 +3485,7 @@
   },
   {
     "_id": 291,
-    "id": "evt-291",
+    "id": "evt-2011-291",
     "name": "50th Mt. Tamalpais Hill Climb",
     "status": "",
     "type": "Road Race",
@@ -3515,7 +3515,7 @@
   },
   {
     "_id": 292,
-    "id": "evt-292",
+    "id": "evt-2011-292",
     "name": "Fairfield Downtown Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -3545,7 +3545,7 @@
   },
   {
     "_id": 293,
-    "id": "evt-293",
+    "id": "evt-2011-293",
     "name": "Fremont Peak Hill Climb",
     "status": "",
     "type": "Road Race",
@@ -3575,7 +3575,7 @@
   },
   {
     "_id": 294,
-    "id": "evt-294",
+    "id": "evt-2011-294",
     "name": "Folsom Cyclebration Road Omnium",
     "status": "",
     "type": "Time Trial",
@@ -3605,7 +3605,7 @@
   },
   {
     "_id": 294,
-    "id": "evt-294",
+    "id": "evt-2011-294",
     "name": "Folsom Cyclebration Road Omnium",
     "status": "",
     "type": "Road Race",
@@ -3635,7 +3635,7 @@
   },
   {
     "_id": 294,
-    "id": "evt-294",
+    "id": "evt-2011-294",
     "name": "Folsom Cyclebration Road Omnium",
     "status": "",
     "type": "Criterium",
@@ -3665,7 +3665,7 @@
   },
   {
     "_id": 295,
-    "id": "evt-295",
+    "id": "evt-2011-295",
     "name": "Henleyville Road Race",
     "status": "",
     "type": "Road Race",
@@ -3695,7 +3695,7 @@
   },
   {
     "_id": 296,
-    "id": "evt-296",
+    "id": "evt-2011-296",
     "name": "Palo Alto Challenge and Gran Fondo",
     "status": "",
     "type": "Time Trial",
@@ -3725,7 +3725,7 @@
   },
   {
     "_id": 297,
-    "id": "evt-297",
+    "id": "evt-2011-297",
     "name": "Volkswagen of Oakland Grand Prix (Elite Criterium State Championship)",
     "status": "",
     "type": "Criterium",
@@ -3755,7 +3755,7 @@
   },
   {
     "_id": 298,
-    "id": "evt-298",
+    "id": "evt-2011-298",
     "name": "Central Coast Circuit Series #9",
     "status": "",
     "type": "Criterium",
@@ -3785,7 +3785,7 @@
   },
   {
     "_id": 302,
-    "id": "evt-302",
+    "id": "evt-2011-302",
     "name": "Salinas Junior Criterium",
     "status": "",
     "type": "Criterium",
@@ -3815,7 +3815,7 @@
   },
   {
     "_id": 303,
-    "id": "evt-303",
+    "id": "evt-2011-303",
     "name": "Eye-Q California Classic Criterium",
     "status": "",
     "type": "Criterium",
@@ -3845,7 +3845,7 @@
   },
   {
     "_id": 304,
-    "id": "evt-304",
+    "id": "evt-2011-304",
     "name": "Bicycles Plus Folsom Criterium",
     "status": "",
     "type": "Criterium",
@@ -3875,7 +3875,7 @@
   },
   {
     "_id": 305,
-    "id": "evt-305",
+    "id": "evt-2011-305",
     "name": "Salinas Valley Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -3905,7 +3905,7 @@
   },
   {
     "_id": 307,
-    "id": "evt-307",
+    "id": "evt-2011-307",
     "name": "Minden Park Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -3935,7 +3935,7 @@
   },
   {
     "_id": 310,
-    "id": "evt-310",
+    "id": "evt-2011-310",
     "name": "Carson Valley Classic Road Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -3965,7 +3965,7 @@
   },
   {
     "_id": 311,
-    "id": "evt-311",
+    "id": "evt-2011-311",
     "name": "Winters Criterium",
     "status": "",
     "type": "Criterium",
@@ -3995,7 +3995,7 @@
   },
   {
     "_id": 312,
-    "id": "evt-312",
+    "id": "evt-2011-312",
     "name": "Fremont Nocturne Series #3",
     "status": "Canceled",
     "type": "Criterium",
@@ -4025,7 +4025,7 @@
   },
   {
     "_id": 316,
-    "id": "evt-316",
+    "id": "evt-2011-316",
     "name": "Colfax Criterium",
     "status": "",
     "type": "Criterium",
@@ -4055,7 +4055,7 @@
   },
   {
     "_id": 381,
-    "id": "evt-381",
+    "id": "evt-2011-381",
     "name": "Early Bird Criterium #5",
     "status": "",
     "type": "Criterium",
@@ -4085,7 +4085,7 @@
   },
   {
     "_id": 417,
-    "id": "evt-417",
+    "id": "evt-2011-417",
     "name": "NorCal vs. SoCal California State Cyclocross Championships",
     "status": "",
     "type": "Cyclocross",
@@ -4115,7 +4115,7 @@
   },
   {
     "_id": 2596,
-    "id": "evt-2596",
+    "id": "evt-2011-2596",
     "name": "Early Bird Talk — 'Nutrition Talk' and 'Race Ready 2011'",
     "status": "",
     "type": "Clinics",
@@ -4140,7 +4140,7 @@
   },
   {
     "_id": 2597,
-    "id": "evt-2597",
+    "id": "evt-2011-2597",
     "name": "Early Bird Coaches and Mentors Training",
     "status": "",
     "type": "Clinics",
@@ -4165,7 +4165,7 @@
   },
   {
     "_id": 2613,
-    "id": "evt-2613",
+    "id": "evt-2011-2613",
     "name": "Sacramento Cyclocross #7",
     "status": "",
     "type": "Cyclocross",
@@ -4195,7 +4195,7 @@
   },
   {
     "_id": 2615,
-    "id": "evt-2615",
+    "id": "evt-2011-2615",
     "name": "Surf City Cyclocross Series #4",
     "status": "",
     "type": "Cyclocross",
@@ -4225,7 +4225,7 @@
   },
   {
     "_id": 2616,
-    "id": "evt-2616",
+    "id": "evt-2011-2616",
     "name": "Central Coast Cyclocross Series Final",
     "status": "",
     "type": "Cyclocross",
@@ -4255,7 +4255,7 @@
   },
   {
     "_id": 2617,
-    "id": "evt-2617",
+    "id": "evt-2011-2617",
     "name": "Sacramento Cyclocross #8",
     "status": "",
     "type": "Cyclocross",
@@ -4285,7 +4285,7 @@
   },
   {
     "_id": 2618,
-    "id": "evt-2618",
+    "id": "evt-2011-2618",
     "name": "Surf City Cyclocross Series Final",
     "status": "",
     "type": "Cyclocross",
@@ -4315,7 +4315,7 @@
   },
   {
     "_id": 2683,
-    "id": "evt-2683",
+    "id": "evt-2011-2683",
     "name": "USA Cycling Masters National Track Championships",
     "status": "",
     "type": "Track",
@@ -4345,7 +4345,7 @@
   },
   {
     "_id": 2706,
-    "id": "evt-2706",
+    "id": "evt-2011-2706",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4370,7 +4370,7 @@
   },
   {
     "_id": 2707,
-    "id": "evt-2707",
+    "id": "evt-2011-2707",
     "name": "Rio Bravo Rumble (XC, DUO)",
     "status": "",
     "type": "MTB",
@@ -4395,7 +4395,7 @@
   },
   {
     "_id": 2708,
-    "id": "evt-2708",
+    "id": "evt-2011-2708",
     "name": "MTB Kickstart (XC)",
     "status": "",
     "type": "MTB",
@@ -4420,7 +4420,7 @@
   },
   {
     "_id": 2709,
-    "id": "evt-2709",
+    "id": "evt-2011-2709",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4445,7 +4445,7 @@
   },
   {
     "_id": 2710,
-    "id": "evt-2710",
+    "id": "evt-2011-2710",
     "name": "MTB Challenge (XC)",
     "status": "",
     "type": "MTB",
@@ -4470,7 +4470,7 @@
   },
   {
     "_id": 2711,
-    "id": "evt-2711",
+    "id": "evt-2011-2711",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4495,7 +4495,7 @@
   },
   {
     "_id": 2712,
-    "id": "evt-2712",
+    "id": "evt-2011-2712",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4520,7 +4520,7 @@
   },
   {
     "_id": 2714,
-    "id": "evt-2714",
+    "id": "evt-2011-2714",
     "name": "MTB Challenge (XC)",
     "status": "",
     "type": "MTB",
@@ -4545,7 +4545,7 @@
   },
   {
     "_id": 2715,
-    "id": "evt-2715",
+    "id": "evt-2011-2715",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4570,7 +4570,7 @@
   },
   {
     "_id": 2716,
-    "id": "evt-2716",
+    "id": "evt-2011-2716",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4595,7 +4595,7 @@
   },
   {
     "_id": 2717,
-    "id": "evt-2717",
+    "id": "evt-2011-2717",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4620,7 +4620,7 @@
   },
   {
     "_id": 2718,
-    "id": "evt-2718",
+    "id": "evt-2011-2718",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4645,7 +4645,7 @@
   },
   {
     "_id": 2719,
-    "id": "evt-2719",
+    "id": "evt-2011-2719",
     "name": "Cool MTB Race (XC)",
     "status": "",
     "type": "MTB",
@@ -4670,7 +4670,7 @@
   },
   {
     "_id": 2720,
-    "id": "evt-2720",
+    "id": "evt-2011-2720",
     "name": "Keyesville Classic (XC, DH, STRX)",
     "status": "",
     "type": "MTB",
@@ -4695,7 +4695,7 @@
   },
   {
     "_id": 2721,
-    "id": "evt-2721",
+    "id": "evt-2011-2721",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4720,7 +4720,7 @@
   },
   {
     "_id": 2722,
-    "id": "evt-2722",
+    "id": "evt-2011-2722",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4745,7 +4745,7 @@
   },
   {
     "_id": 2723,
-    "id": "evt-2723",
+    "id": "evt-2011-2723",
     "name": "Dirty Gears MTB XC 2 (XC)",
     "status": "",
     "type": "MTB",
@@ -4770,7 +4770,7 @@
   },
   {
     "_id": 2724,
-    "id": "evt-2724",
+    "id": "evt-2011-2724",
     "name": "BBP Dual Slalom Winter Series (DS)",
     "status": "",
     "type": "MTB",
@@ -4795,7 +4795,7 @@
   },
   {
     "_id": 2725,
-    "id": "evt-2725",
+    "id": "evt-2011-2725",
     "name": "Napa Valley Dirt Classic (XC)",
     "status": "",
     "type": "MTB",
@@ -4820,7 +4820,7 @@
   },
   {
     "_id": 2726,
-    "id": "evt-2726",
+    "id": "evt-2011-2726",
     "name": "Leumurian Shasta Classic (XC)",
     "status": "",
     "type": "MTB",
@@ -4845,7 +4845,7 @@
   },
   {
     "_id": 2727,
-    "id": "evt-2727",
+    "id": "evt-2011-2727",
     "name": "Iron Angels (XC)",
     "status": "",
     "type": "MTB",
@@ -4875,7 +4875,7 @@
   },
   {
     "_id": 2728,
-    "id": "evt-2728",
+    "id": "evt-2011-2728",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4900,7 +4900,7 @@
   },
   {
     "_id": 2729,
-    "id": "evt-2729",
+    "id": "evt-2011-2729",
     "name": "Bogg Mountain Bash (XC)",
     "status": "",
     "type": "MTB",
@@ -4925,7 +4925,7 @@
   },
   {
     "_id": 2730,
-    "id": "evt-2730",
+    "id": "evt-2011-2730",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4950,7 +4950,7 @@
   },
   {
     "_id": 2731,
-    "id": "evt-2731",
+    "id": "evt-2011-2731",
     "name": "CCCX XC (XC)",
     "status": "",
     "type": "MTB",
@@ -4975,7 +4975,7 @@
   },
   {
     "_id": 2745,
-    "id": "evt-2745",
+    "id": "evt-2011-2745",
     "name": "Death Valley Road Stage Race",
     "status": "",
     "type": "Road Race",
@@ -5005,7 +5005,7 @@
   },
   {
     "_id": 2748,
-    "id": "evt-2748",
+    "id": "evt-2011-2748",
     "name": "Early Bird Track Race",
     "status": "",
     "type": "Track",
@@ -5035,7 +5035,7 @@
   },
   {
     "_id": 2749,
-    "id": "evt-2749",
+    "id": "evt-2011-2749",
     "name": "Get Ready for Summer (GRFS) #1",
     "status": "",
     "type": "Track",
@@ -5065,7 +5065,7 @@
   },
   {
     "_id": 2750,
-    "id": "evt-2750",
+    "id": "evt-2011-2750",
     "name": "Get Ready for Summer (GRFS) #2",
     "status": "",
     "type": "Track",
@@ -5095,7 +5095,7 @@
   },
   {
     "_id": 2751,
-    "id": "evt-2751",
+    "id": "evt-2011-2751",
     "name": "Get Ready for Summer (GRFS) #3",
     "status": "",
     "type": "Track",
@@ -5125,7 +5125,7 @@
   },
   {
     "_id": 2752,
-    "id": "evt-2752",
+    "id": "evt-2011-2752",
     "name": "Get Ready for Summer (GRFS) #4",
     "status": "",
     "type": "Track",
@@ -5155,7 +5155,7 @@
   },
   {
     "_id": 2754,
-    "id": "evt-2754",
+    "id": "evt-2011-2754",
     "name": "Mount Whitney Stage Race",
     "status": "",
     "type": "Road Race",
@@ -5185,7 +5185,7 @@
   },
   {
     "_id": 2758,
-    "id": "evt-2758",
+    "id": "evt-2011-2758",
     "name": "Get Ready For Summer (GRFS) #5",
     "status": "",
     "type": "Track",
@@ -5215,7 +5215,7 @@
   },
   {
     "_id": 2759,
-    "id": "evt-2759",
+    "id": "evt-2011-2759",
     "name": "Testarossa Velodrome Challenge",
     "status": "",
     "type": "Track",
@@ -5240,7 +5240,7 @@
   },
   {
     "_id": 2760,
-    "id": "evt-2760",
+    "id": "evt-2011-2760",
     "name": "Beat the Clock and Help Beat Cancer — Day at the Track",
     "status": "",
     "type": "Track",
@@ -5270,7 +5270,7 @@
   },
   {
     "_id": 2762,
-    "id": "evt-2762",
+    "id": "evt-2011-2762",
     "name": "New Officials Clinic",
     "status": "",
     "type": "Clinics",
@@ -5295,7 +5295,7 @@
   },
   {
     "_id": 2769,
-    "id": "evt-2769",
+    "id": "evt-2011-2769",
     "name": "Rockhopper MTB Race",
     "status": "",
     "type": "MTB",
@@ -5325,7 +5325,7 @@
   },
   {
     "_id": 2769,
-    "id": "evt-2769",
+    "id": "evt-2011-2769",
     "name": "Rockhopper MTB Race",
     "status": "",
     "type": "MTB",
@@ -5355,7 +5355,7 @@
   },
   {
     "_id": 2787,
-    "id": "evt-2787",
+    "id": "evt-2011-2787",
     "name": "Hellyer Park Master's Omnium",
     "status": "",
     "type": "Track",
@@ -5385,7 +5385,7 @@
   },
   {
     "_id": 2787,
-    "id": "evt-2787",
+    "id": "evt-2011-2787",
     "name": "Hellyer Park Master's Omnium",
     "status": "",
     "type": "Track",
@@ -5415,7 +5415,7 @@
   },
   {
     "_id": 2787,
-    "id": "evt-2787",
+    "id": "evt-2011-2787",
     "name": "Hellyer Park Master's Omnium",
     "status": "",
     "type": "Track",
@@ -5445,7 +5445,7 @@
   },
   {
     "_id": 2787,
-    "id": "evt-2787",
+    "id": "evt-2011-2787",
     "name": "Hellyer Park Master's Omnium",
     "status": "",
     "type": "Track",
@@ -5475,7 +5475,7 @@
   },
   {
     "_id": 2788,
-    "id": "evt-2788",
+    "id": "evt-2011-2788",
     "name": "Festival of Speed (track time trials)",
     "status": "",
     "type": "Track",
@@ -5505,7 +5505,7 @@
   },
   {
     "_id": 2795,
-    "id": "evt-2795",
+    "id": "evt-2011-2795",
     "name": "Tuesday Night Twilights #1",
     "status": "",
     "type": "Criterium",
@@ -5535,7 +5535,7 @@
   },
   {
     "_id": 2796,
-    "id": "evt-2796",
+    "id": "evt-2011-2796",
     "name": "Tuesday Night Twilights #2",
     "status": "",
     "type": "Criterium",
@@ -5565,7 +5565,7 @@
   },
   {
     "_id": 2797,
-    "id": "evt-2797",
+    "id": "evt-2011-2797",
     "name": "Tuesday Night Twilights #3",
     "status": "",
     "type": "Criterium",
@@ -5595,7 +5595,7 @@
   },
   {
     "_id": 2798,
-    "id": "evt-2798",
+    "id": "evt-2011-2798",
     "name": "Tuesday Night Twilights #4",
     "status": "",
     "type": "Criterium",
@@ -5625,7 +5625,7 @@
   },
   {
     "_id": 2799,
-    "id": "evt-2799",
+    "id": "evt-2011-2799",
     "name": "Tuesday Night Twilights #5",
     "status": "",
     "type": "Criterium",
@@ -5655,7 +5655,7 @@
   },
   {
     "_id": 2800,
-    "id": "evt-2800",
+    "id": "evt-2011-2800",
     "name": "Tuesday Night Twilights #6",
     "status": "",
     "type": "Criterium",
@@ -5685,7 +5685,7 @@
   },
   {
     "_id": 2801,
-    "id": "evt-2801",
+    "id": "evt-2011-2801",
     "name": "Tuesday Night Twilights #7",
     "status": "",
     "type": "Criterium",
@@ -5715,7 +5715,7 @@
   },
   {
     "_id": 2802,
-    "id": "evt-2802",
+    "id": "evt-2011-2802",
     "name": "Tuesday Night Twilights #8",
     "status": "",
     "type": "Criterium",
@@ -5745,7 +5745,7 @@
   },
   {
     "_id": 2803,
-    "id": "evt-2803",
+    "id": "evt-2011-2803",
     "name": "Tuesday Night Twilights #9",
     "status": "",
     "type": "Criterium",
@@ -5775,7 +5775,7 @@
   },
   {
     "_id": 2804,
-    "id": "evt-2804",
+    "id": "evt-2011-2804",
     "name": "Tuesday Night Twilights #10",
     "status": "",
     "type": "Criterium",
@@ -5805,7 +5805,7 @@
   },
   {
     "_id": 2805,
-    "id": "evt-2805",
+    "id": "evt-2011-2805",
     "name": "Tuesday Night Twilights #11",
     "status": "",
     "type": "Criterium",
@@ -5835,7 +5835,7 @@
   },
   {
     "_id": 2806,
-    "id": "evt-2806",
+    "id": "evt-2011-2806",
     "name": "Tuesday Night Twilights #12",
     "status": "",
     "type": "Criterium",
@@ -5865,7 +5865,7 @@
   },
   {
     "_id": 2807,
-    "id": "evt-2807",
+    "id": "evt-2011-2807",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -5895,7 +5895,7 @@
   },
   {
     "_id": 2813,
-    "id": "evt-2813",
+    "id": "evt-2011-2813",
     "name": "Bike Racing 101 Clinic",
     "status": "",
     "type": "Clinics",
@@ -5925,7 +5925,7 @@
   },
   {
     "_id": 2817,
-    "id": "evt-2817",
+    "id": "evt-2011-2817",
     "name": "The Big Sandy",
     "status": "",
     "type": "MTB",
@@ -5950,7 +5950,7 @@
   },
   {
     "_id": 2828,
-    "id": "evt-2828",
+    "id": "evt-2011-2828",
     "name": "Howell Mountain Challenge",
     "status": "",
     "type": "MTB",
@@ -5975,7 +5975,7 @@
   },
   {
     "_id": 2837,
-    "id": "evt-2837",
+    "id": "evt-2011-2837",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -6005,7 +6005,7 @@
   },
   {
     "_id": 2838,
-    "id": "evt-2838",
+    "id": "evt-2011-2838",
     "name": "Bike Skills 201 — Climbing & Descending",
     "status": "",
     "type": "Clinics",
@@ -6035,7 +6035,7 @@
   },
   {
     "_id": 2839,
-    "id": "evt-2839",
+    "id": "evt-2011-2839",
     "name": "Bike Skills 102 — Fundamental Mountain Bike Skills",
     "status": "",
     "type": "Clinics",
@@ -6065,7 +6065,7 @@
   },
   {
     "_id": 2840,
-    "id": "evt-2840",
+    "id": "evt-2011-2840",
     "name": "Bike Skills 301 — Pacelines & Group Riding Skills",
     "status": "",
     "type": "Clinics",
@@ -6095,7 +6095,7 @@
   },
   {
     "_id": 2841,
-    "id": "evt-2841",
+    "id": "evt-2011-2841",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -6125,7 +6125,7 @@
   },
   {
     "_id": 2842,
-    "id": "evt-2842",
+    "id": "evt-2011-2842",
     "name": "Bike Skills 201 — Climbing & Descending",
     "status": "",
     "type": "Clinics",
@@ -6155,7 +6155,7 @@
   },
   {
     "_id": 2843,
-    "id": "evt-2843",
+    "id": "evt-2011-2843",
     "name": "Bike Skills 302 — Racing Skills & Tactics",
     "status": "",
     "type": "Clinics",
@@ -6185,7 +6185,7 @@
   },
   {
     "_id": 2844,
-    "id": "evt-2844",
+    "id": "evt-2011-2844",
     "name": "Bike Skills 301 — Pacelines & Group Riding Skills",
     "status": "",
     "type": "Clinics",
@@ -6215,7 +6215,7 @@
   },
   {
     "_id": 2845,
-    "id": "evt-2845",
+    "id": "evt-2011-2845",
     "name": "Girls Got Skills",
     "status": "",
     "type": "Clinics",
@@ -6245,7 +6245,7 @@
   },
   {
     "_id": 2846,
-    "id": "evt-2846",
+    "id": "evt-2011-2846",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -6275,7 +6275,7 @@
   },
   {
     "_id": 2847,
-    "id": "evt-2847",
+    "id": "evt-2011-2847",
     "name": "Bike Skills 201 — Climbing & Descending",
     "status": "",
     "type": "Clinics",
@@ -6305,7 +6305,7 @@
   },
   {
     "_id": 2860,
-    "id": "evt-2860",
+    "id": "evt-2011-2860",
     "name": "Derny for the masses",
     "status": "",
     "type": "Track",
@@ -6330,7 +6330,7 @@
   },
   {
     "_id": 2861,
-    "id": "evt-2861",
+    "id": "evt-2011-2861",
     "name": "Derny for the masses",
     "status": "",
     "type": "Track",
@@ -6355,7 +6355,7 @@
   },
   {
     "_id": 2862,
-    "id": "evt-2862",
+    "id": "evt-2011-2862",
     "name": "Derny for the masses",
     "status": "",
     "type": "Track",
@@ -6380,7 +6380,7 @@
   },
   {
     "_id": 2863,
-    "id": "evt-2863",
+    "id": "evt-2011-2863",
     "name": "Derny for the masses",
     "status": "",
     "type": "Track",
@@ -6405,7 +6405,7 @@
   },
   {
     "_id": 2864,
-    "id": "evt-2864",
+    "id": "evt-2011-2864",
     "name": "Gran Prix Fast Freddy Markham — Junior Development Track Race",
     "status": "",
     "type": "Track",
@@ -6430,7 +6430,7 @@
   },
   {
     "_id": 2865,
-    "id": "evt-2865",
+    "id": "evt-2011-2865",
     "name": "Sprint for a Wish Series",
     "status": "",
     "type": "Track",
@@ -6455,7 +6455,7 @@
   },
   {
     "_id": 2866,
-    "id": "evt-2866",
+    "id": "evt-2011-2866",
     "name": "Sprint for a Wish Series",
     "status": "",
     "type": "Track",
@@ -6480,7 +6480,7 @@
   },
   {
     "_id": 2867,
-    "id": "evt-2867",
+    "id": "evt-2011-2867",
     "name": "Hernando's Tuesday Enduro-Omniums",
     "status": "",
     "type": "Track",
@@ -6505,7 +6505,7 @@
   },
   {
     "_id": 2868,
-    "id": "evt-2868",
+    "id": "evt-2011-2868",
     "name": "Hernando's Tuesday Enduro-Omniums",
     "status": "",
     "type": "Track",
@@ -6530,7 +6530,7 @@
   },
   {
     "_id": 2869,
-    "id": "evt-2869",
+    "id": "evt-2011-2869",
     "name": "Hernando's Tuesday Enduro-Omniums",
     "status": "",
     "type": "Track",
@@ -6555,7 +6555,7 @@
   },
   {
     "_id": 2870,
-    "id": "evt-2870",
+    "id": "evt-2011-2870",
     "name": "ROCKTAPE Friday Night Race",
     "status": "",
     "type": "Track",
@@ -6580,7 +6580,7 @@
   },
   {
     "_id": 2872,
-    "id": "evt-2872",
+    "id": "evt-2011-2872",
     "name": "2011 Women's Track Clinic",
     "status": "",
     "type": "Track",
@@ -6610,7 +6610,7 @@
   },
   {
     "_id": 2872,
-    "id": "evt-2872",
+    "id": "evt-2011-2872",
     "name": "2011 Women's Track Clinic",
     "status": "",
     "type": "Track",
@@ -6640,7 +6640,7 @@
   },
   {
     "_id": 2872,
-    "id": "evt-2872",
+    "id": "evt-2011-2872",
     "name": "2011 Women's Track Clinic",
     "status": "",
     "type": "Clinics",
@@ -6670,7 +6670,7 @@
   },
   {
     "_id": 2872,
-    "id": "evt-2872",
+    "id": "evt-2011-2872",
     "name": "2011 Women's Track Clinic",
     "status": "",
     "type": "Clinics",
@@ -6700,7 +6700,7 @@
   },
   {
     "_id": 2873,
-    "id": "evt-2873",
+    "id": "evt-2011-2873",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6725,7 +6725,7 @@
   },
   {
     "_id": 2874,
-    "id": "evt-2874",
+    "id": "evt-2011-2874",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6750,7 +6750,7 @@
   },
   {
     "_id": 2875,
-    "id": "evt-2875",
+    "id": "evt-2011-2875",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6775,7 +6775,7 @@
   },
   {
     "_id": 2876,
-    "id": "evt-2876",
+    "id": "evt-2011-2876",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6800,7 +6800,7 @@
   },
   {
     "_id": 2877,
-    "id": "evt-2877",
+    "id": "evt-2011-2877",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6825,7 +6825,7 @@
   },
   {
     "_id": 2878,
-    "id": "evt-2878",
+    "id": "evt-2011-2878",
     "name": "Wednesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6850,7 +6850,7 @@
   },
   {
     "_id": 2879,
-    "id": "evt-2879",
+    "id": "evt-2011-2879",
     "name": "Wednesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -6875,7 +6875,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Track",
@@ -6900,7 +6900,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Track",
@@ -6925,7 +6925,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Track",
@@ -6950,7 +6950,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Clinics",
@@ -6975,7 +6975,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Clinics",
@@ -7000,7 +7000,7 @@
   },
   {
     "_id": 2880,
-    "id": "evt-2880",
+    "id": "evt-2011-2880",
     "name": "Fast Track Coaching Clinics",
     "status": "",
     "type": "Clinics",
@@ -7025,7 +7025,7 @@
   },
   {
     "_id": 2882,
-    "id": "evt-2882",
+    "id": "evt-2011-2882",
     "name": "Junior State Track Championships",
     "status": "",
     "type": "Track",
@@ -7050,7 +7050,7 @@
   },
   {
     "_id": 2883,
-    "id": "evt-2883",
+    "id": "evt-2011-2883",
     "name": "Sprint for a Wish Series",
     "status": "",
     "type": "Track",
@@ -7075,7 +7075,7 @@
   },
   {
     "_id": 2884,
-    "id": "evt-2884",
+    "id": "evt-2011-2884",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7100,7 +7100,7 @@
   },
   {
     "_id": 2885,
-    "id": "evt-2885",
+    "id": "evt-2011-2885",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7125,7 +7125,7 @@
   },
   {
     "_id": 2886,
-    "id": "evt-2886",
+    "id": "evt-2011-2886",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7150,7 +7150,7 @@
   },
   {
     "_id": 2887,
-    "id": "evt-2887",
+    "id": "evt-2011-2887",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7175,7 +7175,7 @@
   },
   {
     "_id": 2888,
-    "id": "evt-2888",
+    "id": "evt-2011-2888",
     "name": "Wednesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7200,7 +7200,7 @@
   },
   {
     "_id": 2897,
-    "id": "evt-2897",
+    "id": "evt-2011-2897",
     "name": "Masters State Track Championships",
     "status": "",
     "type": "Track",
@@ -7225,7 +7225,7 @@
   },
   {
     "_id": 2898,
-    "id": "evt-2898",
+    "id": "evt-2011-2898",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7250,7 +7250,7 @@
   },
   {
     "_id": 2899,
-    "id": "evt-2899",
+    "id": "evt-2011-2899",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7275,7 +7275,7 @@
   },
   {
     "_id": 2900,
-    "id": "evt-2900",
+    "id": "evt-2011-2900",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7300,7 +7300,7 @@
   },
   {
     "_id": 2901,
-    "id": "evt-2901",
+    "id": "evt-2011-2901",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7325,7 +7325,7 @@
   },
   {
     "_id": 2902,
-    "id": "evt-2902",
+    "id": "evt-2011-2902",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7350,7 +7350,7 @@
   },
   {
     "_id": 2903,
-    "id": "evt-2903",
+    "id": "evt-2011-2903",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7375,7 +7375,7 @@
   },
   {
     "_id": 2904,
-    "id": "evt-2904",
+    "id": "evt-2011-2904",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7400,7 +7400,7 @@
   },
   {
     "_id": 2905,
-    "id": "evt-2905",
+    "id": "evt-2011-2905",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7425,7 +7425,7 @@
   },
   {
     "_id": 2906,
-    "id": "evt-2906",
+    "id": "evt-2011-2906",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7450,7 +7450,7 @@
   },
   {
     "_id": 2910,
-    "id": "evt-2910",
+    "id": "evt-2011-2910",
     "name": "Sprint for a Wish Series",
     "status": "",
     "type": "Track",
@@ -7475,7 +7475,7 @@
   },
   {
     "_id": 2911,
-    "id": "evt-2911",
+    "id": "evt-2011-2911",
     "name": "ROCKTAPE Friday Night Race",
     "status": "",
     "type": "Track",
@@ -7500,7 +7500,7 @@
   },
   {
     "_id": 2912,
-    "id": "evt-2912",
+    "id": "evt-2011-2912",
     "name": "Elite State Track Championships",
     "status": "",
     "type": "Track",
@@ -7525,7 +7525,7 @@
   },
   {
     "_id": 2913,
-    "id": "evt-2913",
+    "id": "evt-2011-2913",
     "name": "Elite State Track Championships",
     "status": "",
     "type": "Track",
@@ -7550,7 +7550,7 @@
   },
   {
     "_id": 2915,
-    "id": "evt-2915",
+    "id": "evt-2011-2915",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7575,7 +7575,7 @@
   },
   {
     "_id": 2916,
-    "id": "evt-2916",
+    "id": "evt-2011-2916",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7600,7 +7600,7 @@
   },
   {
     "_id": 2917,
-    "id": "evt-2917",
+    "id": "evt-2011-2917",
     "name": "Tuesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7625,7 +7625,7 @@
   },
   {
     "_id": 2918,
-    "id": "evt-2918",
+    "id": "evt-2011-2918",
     "name": "ROCKTAPE Friday Night Race",
     "status": "",
     "type": "Track",
@@ -7650,7 +7650,7 @@
   },
   {
     "_id": 2919,
-    "id": "evt-2919",
+    "id": "evt-2011-2919",
     "name": "Sprint for a Wish Series",
     "status": "",
     "type": "Track",
@@ -7675,7 +7675,7 @@
   },
   {
     "_id": 2920,
-    "id": "evt-2920",
+    "id": "evt-2011-2920",
     "name": "USA Cycling Juniors Track National Championships",
     "status": "",
     "type": "Track",
@@ -7705,7 +7705,7 @@
   },
   {
     "_id": 2921,
-    "id": "evt-2921",
+    "id": "evt-2011-2921",
     "name": "USA Cycling Collegiate Track National Championships",
     "status": "",
     "type": "Track",
@@ -7735,7 +7735,7 @@
   },
   {
     "_id": 2922,
-    "id": "evt-2922",
+    "id": "evt-2011-2922",
     "name": "USA Cycling Elite Track National Championships and International Omnium",
     "status": "",
     "type": "Track",
@@ -7765,7 +7765,7 @@
   },
   {
     "_id": 2951,
-    "id": "evt-2951",
+    "id": "evt-2011-2951",
     "name": "Everest Challenge Stage Race",
     "status": "",
     "type": "Road Race",
@@ -7795,7 +7795,7 @@
   },
   {
     "_id": 2976,
-    "id": "evt-2976",
+    "id": "evt-2011-2976",
     "name": "Wednesday Night Track Racing",
     "status": "",
     "type": "Track",
@@ -7820,7 +7820,7 @@
   },
   {
     "_id": 2994,
-    "id": "evt-2994",
+    "id": "evt-2011-2994",
     "name": "Advanced Skills & Tactics Clinic",
     "status": "",
     "type": "Clinics",
@@ -7845,7 +7845,7 @@
   },
   {
     "_id": 3006,
-    "id": "evt-3006",
+    "id": "evt-2011-3006",
     "name": "Intermediate Race & Sprint Clinic",
     "status": "",
     "type": "Clinics",
@@ -7875,7 +7875,7 @@
   },
   {
     "_id": 3013,
-    "id": "evt-3013",
+    "id": "evt-2011-3013",
     "name": "Skyline Park Mountain Bike Race",
     "status": "",
     "type": "MTB",
@@ -7905,7 +7905,7 @@
   },
   {
     "_id": 3014,
-    "id": "evt-3014",
+    "id": "evt-2011-3014",
     "name": "Peavine Challenge (XC, DH)",
     "status": "",
     "type": "MTB",
@@ -7935,7 +7935,7 @@
   },
   {
     "_id": 3038,
-    "id": "evt-3038",
+    "id": "evt-2011-3038",
     "name": "Pine Nut Cracker — Sierra Cup #1",
     "status": "",
     "type": "MTB",
@@ -7965,7 +7965,7 @@
   },
   {
     "_id": 3042,
-    "id": "evt-3042",
+    "id": "evt-2011-3042",
     "name": "Not Too Late To Race: Bike Handling and Pack Riding Skills for Beginning Racers",
     "status": "",
     "type": "Clinics",
@@ -7995,7 +7995,7 @@
   },
   {
     "_id": 3044,
-    "id": "evt-3044",
+    "id": "evt-2011-3044",
     "name": "Burbank Memorial Omnium — Postponed",
     "status": "",
     "type": "Track",
@@ -8020,7 +8020,7 @@
   },
   {
     "_id": 3046,
-    "id": "evt-3046",
+    "id": "evt-2011-3046",
     "name": "How to Effectively Incorporate Climbing into Your Training",
     "status": "",
     "type": "Clinics",
@@ -8050,7 +8050,7 @@
   },
   {
     "_id": 3057,
-    "id": "evt-3057",
+    "id": "evt-2011-3057",
     "name": "Twilight Mountain Bike Crit #4",
     "status": "",
     "type": "MTB",
@@ -8080,7 +8080,7 @@
   },
   {
     "_id": 3058,
-    "id": "evt-3058",
+    "id": "evt-2011-3058",
     "name": "Twilight Mountain Bike Crit #3",
     "status": "",
     "type": "MTB",
@@ -8110,7 +8110,7 @@
   },
   {
     "_id": 3059,
-    "id": "evt-3059",
+    "id": "evt-2011-3059",
     "name": "Twilight Mountain Bike Crit #2",
     "status": "",
     "type": "MTB",
@@ -8140,7 +8140,7 @@
   },
   {
     "_id": 3060,
-    "id": "evt-3060",
+    "id": "evt-2011-3060",
     "name": "Twilight Mountain Bike Crit #1",
     "status": "",
     "type": "MTB",
@@ -8170,7 +8170,7 @@
   },
   {
     "_id": 3070,
-    "id": "evt-3070",
+    "id": "evt-2011-3070",
     "name": "Beginner Racing Skills Clinic",
     "status": "",
     "type": "Clinics",
@@ -8200,7 +8200,7 @@
   },
   {
     "_id": 3073,
-    "id": "evt-3073",
+    "id": "evt-2011-3073",
     "name": "Kirkwood Mountain Classic (XC, DH)",
     "status": "",
     "type": "MTB",
@@ -8230,7 +8230,7 @@
   },
   {
     "_id": 3075,
-    "id": "evt-3075",
+    "id": "evt-2011-3075",
     "name": "Sky Tavern Classic — Sierra Cup #5",
     "status": "",
     "type": "MTB",
@@ -8260,7 +8260,7 @@
   },
   {
     "_id": 3076,
-    "id": "evt-3076",
+    "id": "evt-2011-3076",
     "name": "Great Tahoe Flume Race — Sierra Cup #6",
     "status": "",
     "type": "MTB",
@@ -8290,7 +8290,7 @@
   },
   {
     "_id": 3077,
-    "id": "evt-3077",
+    "id": "evt-2011-3077",
     "name": "Sawtooth Ridge Challenge — Sierra Cup #7",
     "status": "",
     "type": "MTB",
@@ -8320,7 +8320,7 @@
   },
   {
     "_id": 3078,
-    "id": "evt-3078",
+    "id": "evt-2011-3078",
     "name": "Sacramento Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -8350,7 +8350,7 @@
   },
   {
     "_id": 3097,
-    "id": "evt-3097",
+    "id": "evt-2011-3097",
     "name": "Girls Got Skills — 2-Day Women's Cycling Clinic",
     "status": "",
     "type": "Clinics",
@@ -8380,7 +8380,7 @@
   },
   {
     "_id": 3098,
-    "id": "evt-3098",
+    "id": "evt-2011-3098",
     "name": "Girls Got Race — The Tri-Flow Women's Development Racing Program (Team #4)",
     "status": "",
     "type": "Clinics",
@@ -8410,7 +8410,7 @@
   },
   {
     "_id": 3099,
-    "id": "evt-3099",
+    "id": "evt-2011-3099",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -8440,7 +8440,7 @@
   },
   {
     "_id": 3100,
-    "id": "evt-3100",
+    "id": "evt-2011-3100",
     "name": "Bike Skills 102 — Fundamental Mountain Bike Skills",
     "status": "",
     "type": "Clinics",
@@ -8470,7 +8470,7 @@
   },
   {
     "_id": 3101,
-    "id": "evt-3101",
+    "id": "evt-2011-3101",
     "name": "Bike Skills 201 — Climbing + Descending Skills",
     "status": "",
     "type": "Clinics",
@@ -8500,7 +8500,7 @@
   },
   {
     "_id": 3102,
-    "id": "evt-3102",
+    "id": "evt-2011-3102",
     "name": "Bike Skills 301 — Pacelines + Group Riding Skills",
     "status": "",
     "type": "Clinics",
@@ -8530,7 +8530,7 @@
   },
   {
     "_id": 3103,
-    "id": "evt-3103",
+    "id": "evt-2011-3103",
     "name": "Bike Touring 101",
     "status": "",
     "type": "Clinics",
@@ -8560,7 +8560,7 @@
   },
   {
     "_id": 3104,
-    "id": "evt-3104",
+    "id": "evt-2011-3104",
     "name": "Bike Skills 103 — Cyclocross Skills + Tactics",
     "status": "",
     "type": "Clinics",
@@ -8590,7 +8590,7 @@
   },
   {
     "_id": 3105,
-    "id": "evt-3105",
+    "id": "evt-2011-3105",
     "name": "Bike Skills 101 — Fundamental Bike Handling Skills",
     "status": "",
     "type": "Clinics",
@@ -8620,7 +8620,7 @@
   },
   {
     "_id": 3106,
-    "id": "evt-3106",
+    "id": "evt-2011-3106",
     "name": "Bike Skills 201 — Climbing + Descending Skills",
     "status": "",
     "type": "Clinics",
@@ -8650,7 +8650,7 @@
   },
   {
     "_id": 3108,
-    "id": "evt-3108",
+    "id": "evt-2011-3108",
     "name": "Canyons Century",
     "status": "",
     "type": "Road Race",
@@ -8680,7 +8680,7 @@
   },
   {
     "_id": 3118,
-    "id": "evt-3118",
+    "id": "evt-2011-3118",
     "name": "NCNCA BOD Meeting",
     "status": "",
     "type": "Clinics",
@@ -8705,7 +8705,7 @@
   },
   {
     "_id": 3119,
-    "id": "evt-3119",
+    "id": "evt-2011-3119",
     "name": "NCNCA BOD Meeting",
     "status": "",
     "type": "Clinics",
@@ -8730,7 +8730,7 @@
   },
   {
     "_id": 3120,
-    "id": "evt-3120",
+    "id": "evt-2011-3120",
     "name": "Road Descending and Skills Clinic",
     "status": "",
     "type": "Clinics",
@@ -8760,7 +8760,7 @@
   },
   {
     "_id": 3121,
-    "id": "evt-3121",
+    "id": "evt-2011-3121",
     "name": "Mountain Bike Skills and Racing Clinic",
     "status": "",
     "type": "Clinics",
@@ -8790,7 +8790,7 @@
   },
   {
     "_id": 3126,
-    "id": "evt-3126",
+    "id": "evt-2011-3126",
     "name": "Cal Cycling Classic Mountain Bike Race — Day 1 (XC & Super-D)",
     "status": "",
     "type": "MTB",
@@ -8820,7 +8820,7 @@
   },
   {
     "_id": 3127,
-    "id": "evt-3127",
+    "id": "evt-2011-3127",
     "name": "Cal Cycling Classic Mountain Bike Race — Day 2 (Dual Slalom & Short Track XC)",
     "status": "",
     "type": "MTB",
@@ -8850,7 +8850,7 @@
   },
   {
     "_id": 3132,
-    "id": "evt-3132",
+    "id": "evt-2011-3132",
     "name": "It's the Off-Season!",
     "status": "",
     "type": "Clinics",
@@ -8880,7 +8880,7 @@
   },
   {
     "_id": 3134,
-    "id": "evt-3134",
+    "id": "evt-2011-3134",
     "name": "Advanced Skills & Tactics Clinic",
     "status": "",
     "type": "Clinics",
@@ -8910,7 +8910,7 @@
   },
   {
     "_id": 3137,
-    "id": "evt-3137",
+    "id": "evt-2011-3137",
     "name": "Central Coast Cyclocross Series — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -8940,7 +8940,7 @@
   },
   {
     "_id": 3138,
-    "id": "evt-3138",
+    "id": "evt-2011-3138",
     "name": "Folsom Cyclebration Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -8965,7 +8965,7 @@
   },
   {
     "_id": 3139,
-    "id": "evt-3139",
+    "id": "evt-2011-3139",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8995,7 +8995,7 @@
   },
   {
     "_id": 3140,
-    "id": "evt-3140",
+    "id": "evt-2011-3140",
     "name": "Central Coast Cyclocross Series — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -9025,7 +9025,7 @@
   },
   {
     "_id": 3141,
-    "id": "evt-3141",
+    "id": "evt-2011-3141",
     "name": "Lion Of Fairfax",
     "status": "",
     "type": "Cyclocross",
@@ -9050,7 +9050,7 @@
   },
   {
     "_id": 3142,
-    "id": "evt-3142",
+    "id": "evt-2011-3142",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9080,7 +9080,7 @@
   },
   {
     "_id": 3143,
-    "id": "evt-3143",
+    "id": "evt-2011-3143",
     "name": "Central Coast Cyclocross Series — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -9110,7 +9110,7 @@
   },
   {
     "_id": 3144,
-    "id": "evt-3144",
+    "id": "evt-2011-3144",
     "name": "Central Coast Cyclocross Series — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -9140,7 +9140,7 @@
   },
   {
     "_id": 3145,
-    "id": "evt-3145",
+    "id": "evt-2011-3145",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9165,7 +9165,7 @@
   },
   {
     "_id": 3146,
-    "id": "evt-3146",
+    "id": "evt-2011-3146",
     "name": "Central Coast Cyclocross — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -9195,7 +9195,7 @@
   },
   {
     "_id": 3147,
-    "id": "evt-3147",
+    "id": "evt-2011-3147",
     "name": "Bay Area Super Prestige Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -9225,7 +9225,7 @@
   },
   {
     "_id": 3151,
-    "id": "evt-3151",
+    "id": "evt-2011-3151",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9250,7 +9250,7 @@
   },
   {
     "_id": 3152,
-    "id": "evt-3152",
+    "id": "evt-2011-3152",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9280,7 +9280,7 @@
   },
   {
     "_id": 3153,
-    "id": "evt-3153",
+    "id": "evt-2011-3153",
     "name": "Fresno — The \"Lou\" Night Race",
     "status": "",
     "type": "Cyclocross",
@@ -9305,7 +9305,7 @@
   },
   {
     "_id": 3154,
-    "id": "evt-3154",
+    "id": "evt-2011-3154",
     "name": "Santa Rosa Cup",
     "status": "",
     "type": "Cyclocross",
@@ -9330,7 +9330,7 @@
   },
   {
     "_id": 3155,
-    "id": "evt-3155",
+    "id": "evt-2011-3155",
     "name": "Surf City Cyclocross Series — Halloween Cross - 2011-2012 Season Race #1",
     "status": "",
     "type": "Cyclocross",
@@ -9360,7 +9360,7 @@
   },
   {
     "_id": 3157,
-    "id": "evt-3157",
+    "id": "evt-2011-3157",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9390,7 +9390,7 @@
   },
   {
     "_id": 3159,
-    "id": "evt-3159",
+    "id": "evt-2011-3159",
     "name": "Central Coast Cyclocross Series — CCCX",
     "status": "",
     "type": "Cyclocross",
@@ -9420,7 +9420,7 @@
   },
   {
     "_id": 3161,
-    "id": "evt-3161",
+    "id": "evt-2011-3161",
     "name": "Stafford Lake Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -9445,7 +9445,7 @@
   },
   {
     "_id": 3162,
-    "id": "evt-3162",
+    "id": "evt-2011-3162",
     "name": "Bay Area Super Prestige Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -9475,7 +9475,7 @@
   },
   {
     "_id": 3164,
-    "id": "evt-3164",
+    "id": "evt-2011-3164",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9500,7 +9500,7 @@
   },
   {
     "_id": 3165,
-    "id": "evt-3165",
+    "id": "evt-2011-3165",
     "name": "Singlespeed Cyclocross World Championship — San Francisco",
     "status": "",
     "type": "Cyclocross",
@@ -9525,7 +9525,7 @@
   },
   {
     "_id": 3166,
-    "id": "evt-3166",
+    "id": "evt-2011-3166",
     "name": "Singlespeed Cyclocross World Championship — San Francisco",
     "status": "",
     "type": "Cyclocross",
@@ -9550,7 +9550,7 @@
   },
   {
     "_id": 3167,
-    "id": "evt-3167",
+    "id": "evt-2011-3167",
     "name": "Bay Area Super Prestige Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -9580,7 +9580,7 @@
   },
   {
     "_id": 3168,
-    "id": "evt-3168",
+    "id": "evt-2011-3168",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9610,7 +9610,7 @@
   },
   {
     "_id": 3169,
-    "id": "evt-3169",
+    "id": "evt-2011-3169",
     "name": "NCNCA/USA CYCLING DISTRICT CHAMPIONSHIPS — CCCX Series",
     "status": "",
     "type": "Cyclocross",
@@ -9640,7 +9640,7 @@
   },
   {
     "_id": 3170,
-    "id": "evt-3170",
+    "id": "evt-2011-3170",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9670,7 +9670,7 @@
   },
   {
     "_id": 3171,
-    "id": "evt-3171",
+    "id": "evt-2011-3171",
     "name": "Bay Area Super Prestige Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -9700,7 +9700,7 @@
   },
   {
     "_id": 3172,
-    "id": "evt-3172",
+    "id": "evt-2011-3172",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -9730,7 +9730,7 @@
   },
   {
     "_id": 3173,
-    "id": "evt-3173",
+    "id": "evt-2011-3173",
     "name": "Santa Rosa Cup",
     "status": "",
     "type": "Cyclocross",
@@ -9755,7 +9755,7 @@
   },
   {
     "_id": 3178,
-    "id": "evt-3178",
+    "id": "evt-2011-3178",
     "name": "Surf City Cyclocross Series — 2011-2012 Season Race #2",
     "status": "",
     "type": "Cyclocross",
@@ -9785,7 +9785,7 @@
   },
   {
     "_id": 3185,
-    "id": "evt-3185",
+    "id": "evt-2011-3185",
     "name": "South County Time Trial #1",
     "status": "",
     "type": "Time Trial",
@@ -9815,7 +9815,7 @@
   },
   {
     "_id": 3187,
-    "id": "evt-3187",
+    "id": "evt-2011-3187",
     "name": "South County Time Trial #2",
     "status": "",
     "type": "Time Trial",
@@ -9845,7 +9845,7 @@
   },
   {
     "_id": 3188,
-    "id": "evt-3188",
+    "id": "evt-2011-3188",
     "name": "South County Time Trial #3",
     "status": "",
     "type": "Time Trial",
@@ -9875,7 +9875,7 @@
   },
   {
     "_id": 3193,
-    "id": "evt-3193",
+    "id": "evt-2011-3193",
     "name": "Right Start Beginner's Racing",
     "status": "",
     "type": "Clinics",
@@ -9905,7 +9905,7 @@
   },
   {
     "_id": 3200,
-    "id": "evt-3200",
+    "id": "evt-2011-3200",
     "name": "How to Take a Break & Plan for the Next Season",
     "status": "",
     "type": "Clinics",
@@ -9935,7 +9935,7 @@
   },
   {
     "_id": 3208,
-    "id": "evt-3208",
+    "id": "evt-2011-3208",
     "name": "NCNCA Board of Directors Meeting",
     "status": "",
     "type": "Clinics",
@@ -9960,7 +9960,7 @@
   },
   {
     "_id": 3209,
-    "id": "evt-3209",
+    "id": "evt-2011-3209",
     "name": "Bike Skills 301 — Pacelines & Group Riding Skills",
     "status": "",
     "type": "Clinics",
@@ -9990,7 +9990,7 @@
   },
   {
     "_id": 3211,
-    "id": "evt-3211",
+    "id": "evt-2011-3211",
     "name": "Folsom Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -10020,7 +10020,7 @@
   },
   {
     "_id": 3212,
-    "id": "evt-3212",
+    "id": "evt-2011-3212",
     "name": "Bike Skills 201 — Climbing & Descending",
     "status": "",
     "type": "Clinics",
@@ -10050,7 +10050,7 @@
   },
   {
     "_id": 4893,
-    "id": "evt-4893",
+    "id": "evt-2011-4893",
     "name": "Fast and Furious Pleasanton Criterium",
     "status": "",
     "type": "Criterium",

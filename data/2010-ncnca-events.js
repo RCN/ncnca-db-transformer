@@ -1,7 +1,7 @@
 [
   {
     "_id": 2591,
-    "id": "evt-2591",
+    "id": "evt-2010-2591",
     "name": "Folsom Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -26,7 +26,7 @@
   },
   {
     "_id": 2592,
-    "id": "evt-2592",
+    "id": "evt-2010-2592",
     "name": "Surf City Cyclocross Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -51,7 +51,7 @@
   },
   {
     "_id": 2593,
-    "id": "evt-2593",
+    "id": "evt-2010-2593",
     "name": "Homegrown Series Race #4",
     "status": "",
     "type": "Cyclocross",
@@ -76,7 +76,7 @@
   },
   {
     "_id": 2601,
-    "id": "evt-2601",
+    "id": "evt-2010-2601",
     "name": "Monkey Cross #4",
     "status": "",
     "type": "Cyclocross",
@@ -106,7 +106,7 @@
   },
   {
     "_id": 2603,
-    "id": "evt-2603",
+    "id": "evt-2010-2603",
     "name": "Sacramento Cyclocross #6",
     "status": "",
     "type": "Cyclocross",
@@ -136,7 +136,7 @@
   },
   {
     "_id": 2610,
-    "id": "evt-2610",
+    "id": "evt-2010-2610",
     "name": "Central Coast Cyclocross Series #7",
     "status": "",
     "type": "Cyclocross",
@@ -166,7 +166,7 @@
   },
   {
     "_id": 2612,
-    "id": "evt-2612",
+    "id": "evt-2010-2612",
     "name": "Sagebrush Cyclocross Series #6",
     "status": "",
     "type": "Cyclocross",

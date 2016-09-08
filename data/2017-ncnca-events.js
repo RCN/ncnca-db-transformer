@@ -1,7 +1,7 @@
 [
   {
     "_id": 24038,
-    "id": "evt-24038",
+    "id": "evt-2017-24038",
     "name": "CCCX Cyclocross Series Final",
     "status": "",
     "type": "Cyclocross",

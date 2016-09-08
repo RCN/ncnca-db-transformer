@@ -1,7 +1,7 @@
 [
   {
     "_id": 23546,
-    "id": "evt-23546",
+    "id": "evt-2016-23546",
     "name": "CCCX Cyclocross Series #7",
     "status": "",
     "type": "Cyclocross",
@@ -31,7 +31,7 @@
   },
   {
     "_id": 23547,
-    "id": "evt-23547",
+    "id": "evt-2016-23547",
     "name": "CCCX Cyclocross Series — Series Final",
     "status": "",
     "type": "Cyclocross",
@@ -61,7 +61,7 @@
   },
   {
     "_id": 23614,
-    "id": "evt-23614",
+    "id": "evt-2016-23614",
     "name": "San Bruno Hill Climb",
     "status": "",
     "type": "Hill Climb",
@@ -91,7 +91,7 @@
   },
   {
     "_id": 23614,
-    "id": "evt-23614",
+    "id": "evt-2016-23614",
     "name": "San Bruno Hill Climb",
     "status": "",
     "type": "Time Trial",
@@ -121,7 +121,7 @@
   },
   {
     "_id": 23615,
-    "id": "evt-23615",
+    "id": "evt-2016-23615",
     "name": "Early Bird Criterium Training Series #1",
     "status": "",
     "type": "Clinics",
@@ -155,7 +155,7 @@
   },
   {
     "_id": 23616,
-    "id": "evt-23616",
+    "id": "evt-2016-23616",
     "name": "Early Bird Criterium Training Series #2",
     "status": "",
     "type": "Clinics",
@@ -189,7 +189,7 @@
   },
   {
     "_id": 23617,
-    "id": "evt-23617",
+    "id": "evt-2016-23617",
     "name": "Early Bird Criterium Training Series #3",
     "status": "",
     "type": "Clinics",
@@ -223,7 +223,7 @@
   },
   {
     "_id": 23618,
-    "id": "evt-23618",
+    "id": "evt-2016-23618",
     "name": "Early Bird Criterium Training Series #4",
     "status": "",
     "type": "Clinics",
@@ -257,7 +257,7 @@
   },
   {
     "_id": 23619,
-    "id": "evt-23619",
+    "id": "evt-2016-23619",
     "name": "Early Bird Criterium Training Series #5",
     "status": "",
     "type": "Clinics",
@@ -291,7 +291,7 @@
   },
   {
     "_id": 23622,
-    "id": "evt-23622",
+    "id": "evt-2016-23622",
     "name": "Early Bird Road Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -325,7 +325,7 @@
   },
   {
     "_id": 23623,
-    "id": "evt-23623",
+    "id": "evt-2016-23623",
     "name": "Clovis Criterium Training Series #1",
     "status": "",
     "type": "Clinics",
@@ -355,7 +355,7 @@
   },
   {
     "_id": 23623,
-    "id": "evt-23623",
+    "id": "evt-2016-23623",
     "name": "Clovis Criterium Training Series #1",
     "status": "",
     "type": "Criterium",
@@ -385,7 +385,7 @@
   },
   {
     "_id": 23624,
-    "id": "evt-23624",
+    "id": "evt-2016-23624",
     "name": "Clovis Criterium Training Series #2",
     "status": "",
     "type": "Clinics",
@@ -415,7 +415,7 @@
   },
   {
     "_id": 23624,
-    "id": "evt-23624",
+    "id": "evt-2016-23624",
     "name": "Clovis Criterium Training Series #2",
     "status": "",
     "type": "Criterium",
@@ -445,7 +445,7 @@
   },
   {
     "_id": 23625,
-    "id": "evt-23625",
+    "id": "evt-2016-23625",
     "name": "Clovis Criterium Training Series #3",
     "status": "",
     "type": "Clinics",
@@ -475,7 +475,7 @@
   },
   {
     "_id": 23625,
-    "id": "evt-23625",
+    "id": "evt-2016-23625",
     "name": "Clovis Criterium Training Series #3",
     "status": "",
     "type": "Criterium",
@@ -505,7 +505,7 @@
   },
   {
     "_id": 23626,
-    "id": "evt-23626",
+    "id": "evt-2016-23626",
     "name": "Clovis Criterium Training Series #4",
     "status": "",
     "type": "Clinics",
@@ -535,7 +535,7 @@
   },
   {
     "_id": 23626,
-    "id": "evt-23626",
+    "id": "evt-2016-23626",
     "name": "Clovis Criterium Training Series #4",
     "status": "",
     "type": "Criterium",
@@ -565,7 +565,7 @@
   },
   {
     "_id": 23627,
-    "id": "evt-23627",
+    "id": "evt-2016-23627",
     "name": "Clovis Criterium Training Series #5",
     "status": "",
     "type": "Clinics",
@@ -595,7 +595,7 @@
   },
   {
     "_id": 23627,
-    "id": "evt-23627",
+    "id": "evt-2016-23627",
     "name": "Clovis Criterium Training Series #5",
     "status": "",
     "type": "Criterium",
@@ -625,7 +625,7 @@
   },
   {
     "_id": 23628,
-    "id": "evt-23628",
+    "id": "evt-2016-23628",
     "name": "Cal Aggie Criterium",
     "status": "",
     "type": "Criterium",
@@ -655,7 +655,7 @@
   },
   {
     "_id": 23629,
-    "id": "evt-23629",
+    "id": "evt-2016-23629",
     "name": "Central Coast Road Series #1 — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -685,7 +685,7 @@
   },
   {
     "_id": 23631,
-    "id": "evt-23631",
+    "id": "evt-2016-23631",
     "name": "Central Coast Road Series #2 — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -715,7 +715,7 @@
   },
   {
     "_id": 23632,
-    "id": "evt-23632",
+    "id": "evt-2016-23632",
     "name": "Central Coast Road Series #3 — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -745,7 +745,7 @@
   },
   {
     "_id": 23633,
-    "id": "evt-23633",
+    "id": "evt-2016-23633",
     "name": "Central Coast Road Series — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -775,7 +775,7 @@
   },
   {
     "_id": 23634,
-    "id": "evt-23634",
+    "id": "evt-2016-23634",
     "name": "Central Coast Road Series — FT. ORD Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -805,7 +805,7 @@
   },
   {
     "_id": 23635,
-    "id": "evt-23635",
+    "id": "evt-2016-23635",
     "name": "Central Coast Road Series — Ft Ord Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -835,7 +835,7 @@
   },
   {
     "_id": 23636,
-    "id": "evt-23636",
+    "id": "evt-2016-23636",
     "name": "Central Coast Road Series — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -865,7 +865,7 @@
   },
   {
     "_id": 23637,
-    "id": "evt-23637",
+    "id": "evt-2016-23637",
     "name": "Central Coast Road Series — Ft Ord Circuit Race & The NCNCA Junior Road Race Championship",
     "status": "",
     "type": "Circuit Race",
@@ -895,7 +895,7 @@
   },
   {
     "_id": 23638,
-    "id": "evt-23638",
+    "id": "evt-2016-23638",
     "name": "Central Coast Road Series #9",
     "status": "",
     "type": "Circuit Race",
@@ -925,7 +925,7 @@
   },
   {
     "_id": 23639,
-    "id": "evt-23639",
+    "id": "evt-2016-23639",
     "name": "UC Santa Cruz Slugapalooza (WCCC) — Road Race",
     "status": "",
     "type": "Road Race",
@@ -950,7 +950,7 @@
   },
   {
     "_id": 23641,
-    "id": "evt-23641",
+    "id": "evt-2016-23641",
     "name": "WCCC — Stanford: TTT & Circuit",
     "status": "",
     "type": "Circuit Race",
@@ -980,7 +980,7 @@
   },
   {
     "_id": 23641,
-    "id": "evt-23641",
+    "id": "evt-2016-23641",
     "name": "WCCC — Stanford: TTT & Circuit",
     "status": "",
     "type": "Time Trial",
@@ -1010,7 +1010,7 @@
   },
   {
     "_id": 23643,
-    "id": "evt-23643",
+    "id": "evt-2016-23643",
     "name": "Red Kite Omnium Event #1 — The Bump Circuit Race (Winter)",
     "status": "",
     "type": "Circuit Race",
@@ -1040,7 +1040,7 @@
   },
   {
     "_id": 23644,
-    "id": "evt-23644",
+    "id": "evt-2016-23644",
     "name": "Cherry Pie Criterium",
     "status": "",
     "type": "Criterium",
@@ -1070,7 +1070,7 @@
   },
   {
     "_id": 23646,
-    "id": "evt-23646",
+    "id": "evt-2016-23646",
     "name": "Cantua Creek Road Race — VP#1",
     "status": "",
     "type": "Road Race",
@@ -1104,7 +1104,7 @@
   },
   {
     "_id": 23647,
-    "id": "evt-23647",
+    "id": "evt-2016-23647",
     "name": "Folsom Winter Criterium",
     "status": "",
     "type": "Criterium",
@@ -1134,7 +1134,7 @@
   },
   {
     "_id": 23648,
-    "id": "evt-23648",
+    "id": "evt-2016-23648",
     "name": "Copper Town Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -1164,7 +1164,7 @@
   },
   {
     "_id": 23649,
-    "id": "evt-23649",
+    "id": "evt-2016-23649",
     "name": "Pine Flat Road Race — VP#2",
     "status": "",
     "type": "Road Race",
@@ -1198,7 +1198,7 @@
   },
   {
     "_id": 23650,
-    "id": "evt-23650",
+    "id": "evt-2016-23650",
     "name": "Dinuba Criterium — VP#3",
     "status": "",
     "type": "Criterium",
@@ -1232,7 +1232,7 @@
   },
   {
     "_id": 23651,
-    "id": "evt-23651",
+    "id": "evt-2016-23651",
     "name": "Snelling Road Race — VP#4",
     "status": "",
     "type": "Road Race",
@@ -1266,7 +1266,7 @@
   },
   {
     "_id": 23652,
-    "id": "evt-23652",
+    "id": "evt-2016-23652",
     "name": "Chico Stage Race pb Sierra Nevada Brewing Co — Stage 1: Thunderhill Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -1296,7 +1296,7 @@
   },
   {
     "_id": 23656,
-    "id": "evt-23656",
+    "id": "evt-2016-23656",
     "name": "Original Merced Criterium — VP#5",
     "status": "",
     "type": "Criterium",
@@ -1330,7 +1330,7 @@
   },
   {
     "_id": 23658,
-    "id": "evt-23658",
+    "id": "evt-2016-23658",
     "name": "Madera Stage Race: HC — VP#6",
     "status": "",
     "type": "Hill Climb",
@@ -1364,7 +1364,7 @@
   },
   {
     "_id": 23658,
-    "id": "evt-23658",
+    "id": "evt-2016-23658",
     "name": "Madera Stage Race: HC — VP#6",
     "status": "",
     "type": "Time Trial",
@@ -1398,7 +1398,7 @@
   },
   {
     "_id": 23659,
-    "id": "evt-23659",
+    "id": "evt-2016-23659",
     "name": "Red Kite Omnium Event #2 — Red Kite Criterium (March)",
     "status": "",
     "type": "Criterium",
@@ -1428,7 +1428,7 @@
   },
   {
     "_id": 23660,
-    "id": "evt-23660",
+    "id": "evt-2016-23660",
     "name": "Red Kite Omnium Event #4 — Red Kite Criterium (April)",
     "status": "",
     "type": "Criterium",
@@ -1458,7 +1458,7 @@
   },
   {
     "_id": 23661,
-    "id": "evt-23661",
+    "id": "evt-2016-23661",
     "name": "Red Kite Omnium Event #6 — Red Kite Criterium (May)",
     "status": "",
     "type": "Criterium",
@@ -1488,7 +1488,7 @@
   },
   {
     "_id": 23662,
-    "id": "evt-23662",
+    "id": "evt-2016-23662",
     "name": "Red Kite Omnium Event #13 — Red Kite Criterium (August)",
     "status": "",
     "type": "Criterium",
@@ -1518,7 +1518,7 @@
   },
   {
     "_id": 23663,
-    "id": "evt-23663",
+    "id": "evt-2016-23663",
     "name": "Red Kite Omnium Event #9 — Red Kite Criterium (July)",
     "status": "",
     "type": "Criterium",
@@ -1548,7 +1548,7 @@
   },
   {
     "_id": 23664,
-    "id": "evt-23664",
+    "id": "evt-2016-23664",
     "name": "Land Park Criterium",
     "status": "",
     "type": "Criterium",
@@ -1578,7 +1578,7 @@
   },
   {
     "_id": 23665,
-    "id": "evt-23665",
+    "id": "evt-2016-23665",
     "name": "Ward's Ferry Road Race — VP#7",
     "status": "",
     "type": "Road Race",
@@ -1612,7 +1612,7 @@
   },
   {
     "_id": 23666,
-    "id": "evt-23666",
+    "id": "evt-2016-23666",
     "name": "Bariani Road Race",
     "status": "",
     "type": "Road Race",
@@ -1642,7 +1642,7 @@
   },
   {
     "_id": 23668,
-    "id": "evt-23668",
+    "id": "evt-2016-23668",
     "name": "WCCC — Cal: TTT & Road Race (Collegiate & Junior Only)",
     "status": "",
     "type": "Road Race",
@@ -1672,7 +1672,7 @@
   },
   {
     "_id": 23668,
-    "id": "evt-23668",
+    "id": "evt-2016-23668",
     "name": "WCCC — Cal: TTT & Road Race (Collegiate & Junior Only)",
     "status": "",
     "type": "Time Trial",
@@ -1702,7 +1702,7 @@
   },
   {
     "_id": 23669,
-    "id": "evt-23669",
+    "id": "evt-2016-23669",
     "name": "UC Merced Race Weekend — Road Race (WCCC)",
     "status": "",
     "type": "Road Race",
@@ -1727,7 +1727,7 @@
   },
   {
     "_id": 23672,
-    "id": "evt-23672",
+    "id": "evt-2016-23672",
     "name": "WCCC — UNR: Crit & TTT",
     "status": "",
     "type": "Road Race",
@@ -1752,7 +1752,7 @@
   },
   {
     "_id": 23673,
-    "id": "evt-23673",
+    "id": "evt-2016-23673",
     "name": "Red Kite Omnium Event #3 — Tempus Fugit Time Trial (Spring)",
     "status": "",
     "type": "Time Trial",
@@ -1782,7 +1782,7 @@
   },
   {
     "_id": 23674,
-    "id": "evt-23674",
+    "id": "evt-2016-23674",
     "name": "Santa Cruz Classic Criterium XLVII — VP#8",
     "status": "",
     "type": "Criterium",
@@ -1812,7 +1812,7 @@
   },
   {
     "_id": 23675,
-    "id": "evt-23675",
+    "id": "evt-2016-23675",
     "name": "Copperopolis Road Race — VP#9",
     "status": "",
     "type": "Road Race",
@@ -1842,7 +1842,7 @@
   },
   {
     "_id": 23676,
-    "id": "evt-23676",
+    "id": "evt-2016-23676",
     "name": "Copper Town Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -1872,7 +1872,7 @@
   },
   {
     "_id": 23677,
-    "id": "evt-23677",
+    "id": "evt-2016-23677",
     "name": "Turlock Lake Road Race",
     "status": "",
     "type": "Road Race",
@@ -1902,7 +1902,7 @@
   },
   {
     "_id": 23678,
-    "id": "evt-23678",
+    "id": "evt-2016-23678",
     "name": "TEA Solar Cycling Classic",
     "status": "",
     "type": "Criterium",
@@ -1927,7 +1927,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "MTB",
@@ -1952,7 +1952,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "MTB",
@@ -1977,7 +1977,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Cyclocross",
@@ -2002,7 +2002,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Cyclocross",
@@ -2027,7 +2027,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Road Race",
@@ -2052,7 +2052,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Road Race",
@@ -2077,7 +2077,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Criterium",
@@ -2102,7 +2102,7 @@
   },
   {
     "_id": 23679,
-    "id": "evt-23679",
+    "id": "evt-2016-23679",
     "name": "Sea Otter Classic (April 14-17)",
     "status": "",
     "type": "Criterium",
@@ -2127,7 +2127,7 @@
   },
   {
     "_id": 23680,
-    "id": "evt-23680",
+    "id": "evt-2016-23680",
     "name": "Red Kite Omnium Event #5 — Winchester Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -2157,7 +2157,7 @@
   },
   {
     "_id": 23681,
-    "id": "evt-23681",
+    "id": "evt-2016-23681",
     "name": "Clovis Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2182,7 +2182,7 @@
   },
   {
     "_id": 23682,
-    "id": "evt-23682",
+    "id": "evt-2016-23682",
     "name": "Wente Vineyards Road Race",
     "status": "",
     "type": "Road Race",
@@ -2212,7 +2212,7 @@
   },
   {
     "_id": 23684,
-    "id": "evt-23684",
+    "id": "evt-2016-23684",
     "name": "Golden State Race Series p/b Rio Strada Racing: Circuit & TTT",
     "status": "",
     "type": "Circuit Race",
@@ -2242,7 +2242,7 @@
   },
   {
     "_id": 23685,
-    "id": "evt-23685",
+    "id": "evt-2016-23685",
     "name": "NCNCA Juniors Criterium Championships — Salinas Criterium",
     "status": "",
     "type": "Criterium",
@@ -2272,7 +2272,7 @@
   },
   {
     "_id": 23686,
-    "id": "evt-23686",
+    "id": "evt-2016-23686",
     "name": "Berkeley Hills Road Race",
     "status": "",
     "type": "Road Race",
@@ -2302,7 +2302,7 @@
   },
   {
     "_id": 23687,
-    "id": "evt-23687",
+    "id": "evt-2016-23687",
     "name": "Mike's Bikes Cat's Hill Classic",
     "status": "",
     "type": "Criterium",
@@ -2332,7 +2332,7 @@
   },
   {
     "_id": 23688,
-    "id": "evt-23688",
+    "id": "evt-2016-23688",
     "name": "Regalado Road Race — VP#10",
     "status": "",
     "type": "Road Race",
@@ -2366,7 +2366,7 @@
   },
   {
     "_id": 23689,
-    "id": "evt-23689",
+    "id": "evt-2016-23689",
     "name": "OTF Omnium Featuring Budweiser Sequoia Cycling Classic: Circuit & TT",
     "status": "",
     "type": "Circuit Race",
@@ -2391,7 +2391,7 @@
   },
   {
     "_id": 23689,
-    "id": "evt-23689",
+    "id": "evt-2016-23689",
     "name": "OTF Omnium Featuring Budweiser Sequoia Cycling Classic: Circuit & TT",
     "status": "",
     "type": "Time Trial",
@@ -2416,7 +2416,7 @@
   },
   {
     "_id": 23690,
-    "id": "evt-23690",
+    "id": "evt-2016-23690",
     "name": "Mariposa County Women's Stage Race: ITT — VP#11",
     "status": "Canceled",
     "type": "Time Trial",
@@ -2450,7 +2450,7 @@
   },
   {
     "_id": 23691,
-    "id": "evt-23691",
+    "id": "evt-2016-23691",
     "name": "Modesto Downtown Criterium",
     "status": "",
     "type": "Criterium",
@@ -2480,7 +2480,7 @@
   },
   {
     "_id": 23692,
-    "id": "evt-23692",
+    "id": "evt-2016-23692",
     "name": "Modesto Road Race",
     "status": "",
     "type": "Road Race",
@@ -2510,7 +2510,7 @@
   },
   {
     "_id": 23693,
-    "id": "evt-23693",
+    "id": "evt-2016-23693",
     "name": "Folsom Classic Criterium",
     "status": "",
     "type": "Criterium",
@@ -2540,7 +2540,7 @@
   },
   {
     "_id": 23695,
-    "id": "evt-23695",
+    "id": "evt-2016-23695",
     "name": "Mount Hamilton Road Race",
     "status": "",
     "type": "Road Race",
@@ -2570,7 +2570,7 @@
   },
   {
     "_id": 23696,
-    "id": "evt-23696",
+    "id": "evt-2016-23696",
     "name": "Memorial Day Criterium",
     "status": "",
     "type": "Criterium",
@@ -2600,7 +2600,7 @@
   },
   {
     "_id": 23697,
-    "id": "evt-23697",
+    "id": "evt-2016-23697",
     "name": "Clovis Hills Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2625,7 +2625,7 @@
   },
   {
     "_id": 23698,
-    "id": "evt-23698",
+    "id": "evt-2016-23698",
     "name": "Red Kite Omnium Event #7 — Tri-Valley Criterium Classic",
     "status": "",
     "type": "Criterium",
@@ -2650,7 +2650,7 @@
   },
   {
     "_id": 23699,
-    "id": "evt-23699",
+    "id": "evt-2016-23699",
     "name": "Pescadero Coastal Classic Road Race",
     "status": "",
     "type": "Road Race",
@@ -2680,7 +2680,7 @@
   },
   {
     "_id": 23700,
-    "id": "evt-23700",
+    "id": "evt-2016-23700",
     "name": "ICCC Dash for Cash",
     "status": "",
     "type": "Criterium",
@@ -2705,7 +2705,7 @@
   },
   {
     "_id": 23701,
-    "id": "evt-23701",
+    "id": "evt-2016-23701",
     "name": "Lodi Cyclefest",
     "status": "",
     "type": "Criterium",
@@ -2730,7 +2730,7 @@
   },
   {
     "_id": 23702,
-    "id": "evt-23702",
+    "id": "evt-2016-23702",
     "name": "Mighty Tour de Nez",
     "status": "",
     "type": "Criterium",
@@ -2760,7 +2760,7 @@
   },
   {
     "_id": 23703,
-    "id": "evt-23703",
+    "id": "evt-2016-23703",
     "name": "NCNCA District TT Championships — Loyalton Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -2790,7 +2790,7 @@
   },
   {
     "_id": 23704,
-    "id": "evt-23704",
+    "id": "evt-2016-23704",
     "name": "Nevada City Cycling Classic",
     "status": "",
     "type": "Criterium",
@@ -2815,7 +2815,7 @@
   },
   {
     "_id": 23705,
-    "id": "evt-23705",
+    "id": "evt-2016-23705",
     "name": "Calaveras Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -2845,7 +2845,7 @@
   },
   {
     "_id": 23706,
-    "id": "evt-23706",
+    "id": "evt-2016-23706",
     "name": "IRC Tire Presents Red Kite Omnium Event #8 — Martinez Classic Downtown Criterium",
     "status": "",
     "type": "Criterium",
@@ -2875,7 +2875,7 @@
   },
   {
     "_id": 23707,
-    "id": "evt-23707",
+    "id": "evt-2016-23707",
     "name": "NCNCA Hillclimb Championships — Mt. Diablo Hillclimb TT",
     "status": "",
     "type": "Hill Climb",
@@ -2900,7 +2900,7 @@
   },
   {
     "_id": 23707,
-    "id": "evt-23707",
+    "id": "evt-2016-23707",
     "name": "NCNCA Hillclimb Championships — Mt. Diablo Hillclimb TT",
     "status": "",
     "type": "Time Trial",
@@ -2925,7 +2925,7 @@
   },
   {
     "_id": 23708,
-    "id": "evt-23708",
+    "id": "evt-2016-23708",
     "name": "Parnassus Investments Burlingame Criterium",
     "status": "",
     "type": "Criterium",
@@ -2955,7 +2955,7 @@
   },
   {
     "_id": 23709,
-    "id": "evt-23709",
+    "id": "evt-2016-23709",
     "name": "Roseville Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2980,7 +2980,7 @@
   },
   {
     "_id": 23710,
-    "id": "evt-23710",
+    "id": "evt-2016-23710",
     "name": "Leesville/Lodoga Road Race — VP#12",
     "status": "",
     "type": "Road Race",
@@ -3010,7 +3010,7 @@
   },
   {
     "_id": 23711,
-    "id": "evt-23711",
+    "id": "evt-2016-23711",
     "name": "Davis Bike Club Fourth of July Criterium",
     "status": "",
     "type": "Criterium",
@@ -3040,7 +3040,7 @@
   },
   {
     "_id": 23712,
-    "id": "evt-23712",
+    "id": "evt-2016-23712",
     "name": "Watsonville Criterium — VP#13",
     "status": "",
     "type": "Criterium",
@@ -3070,7 +3070,7 @@
   },
   {
     "_id": 23713,
-    "id": "evt-23713",
+    "id": "evt-2016-23713",
     "name": "Red Kite Omnium Event #11 — The Bump Circuit Race (Summer)",
     "status": "",
     "type": "Circuit Race",
@@ -3100,7 +3100,7 @@
   },
   {
     "_id": 23714,
-    "id": "evt-23714",
+    "id": "evt-2016-23714",
     "name": "Colavita Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -3130,7 +3130,7 @@
   },
   {
     "_id": 23715,
-    "id": "evt-23715",
+    "id": "evt-2016-23715",
     "name": "Red Kite Omnium Event #10 — Crossfire Hurricane Hill Climb Challenge",
     "status": "",
     "type": "Hill Climb",
@@ -3160,7 +3160,7 @@
   },
   {
     "_id": 23715,
-    "id": "evt-23715",
+    "id": "evt-2016-23715",
     "name": "Red Kite Omnium Event #10 — Crossfire Hurricane Hill Climb Challenge",
     "status": "",
     "type": "Time Trial",
@@ -3190,7 +3190,7 @@
   },
   {
     "_id": 23716,
-    "id": "evt-23716",
+    "id": "evt-2016-23716",
     "name": "Red Kite Omnium Event #12 — The 32nd Annual Berkeley Bicycle Club Criterium",
     "status": "",
     "type": "Criterium",
@@ -3220,7 +3220,7 @@
   },
   {
     "_id": 23717,
-    "id": "evt-23717",
+    "id": "evt-2016-23717",
     "name": "San Rafael Sunset Criterium",
     "status": "",
     "type": "Criterium",
@@ -3245,7 +3245,7 @@
   },
   {
     "_id": 23718,
-    "id": "evt-23718",
+    "id": "evt-2016-23718",
     "name": "Warnerville Time Trial — VP#14, CC#1",
     "status": "Canceled",
     "type": "Time Trial",
@@ -3275,7 +3275,7 @@
   },
   {
     "_id": 23719,
-    "id": "evt-23719",
+    "id": "evt-2016-23719",
     "name": "Patterson Pass Road Race — VP#15, CC#2",
     "status": "",
     "type": "Road Race",
@@ -3305,7 +3305,7 @@
   },
   {
     "_id": 23720,
-    "id": "evt-23720",
+    "id": "evt-2016-23720",
     "name": "Dunnigan Hills Road Race — VP#16, CC#3",
     "status": "",
     "type": "Road Race",
@@ -3335,7 +3335,7 @@
   },
   {
     "_id": 23721,
-    "id": "evt-23721",
+    "id": "evt-2016-23721",
     "name": "Suisun Harbor Criterium — VP#17, CC#4",
     "status": "",
     "type": "Criterium",
@@ -3365,7 +3365,7 @@
   },
   {
     "_id": 23722,
-    "id": "evt-23722",
+    "id": "evt-2016-23722",
     "name": "Red Kite Omnium Event #14 — Tempus Fugit Time Trial (Summer)",
     "status": "",
     "type": "Time Trial",
@@ -3395,7 +3395,7 @@
   },
   {
     "_id": 23723,
-    "id": "evt-23723",
+    "id": "evt-2016-23723",
     "name": "NCNCA Masters Road Championships — San Ardo Road Race - VP#18, CC#5",
     "status": "",
     "type": "Road Race",
@@ -3425,7 +3425,7 @@
   },
   {
     "_id": 23724,
-    "id": "evt-23724",
+    "id": "evt-2016-23724",
     "name": "University Road Race — VP#19, CC#6",
     "status": "",
     "type": "Road Race",
@@ -3455,7 +3455,7 @@
   },
   {
     "_id": 23725,
-    "id": "evt-23725",
+    "id": "evt-2016-23725",
     "name": "NCNCA Elite Road Championships — Winters Road Race - VP#20, CC#7",
     "status": "",
     "type": "Road Race",
@@ -3493,7 +3493,7 @@
   },
   {
     "_id": 23726,
-    "id": "evt-23726",
+    "id": "evt-2016-23726",
     "name": "Vacaville Gran Prix — VP#21, CC#8",
     "status": "Canceled",
     "type": "Criterium",
@@ -3523,7 +3523,7 @@
   },
   {
     "_id": 23727,
-    "id": "evt-23727",
+    "id": "evt-2016-23727",
     "name": "Red Kite Omnium Event #15 — Red Kite Omnium Championship Weekend: Day 1",
     "status": "",
     "type": "Criterium",
@@ -3553,7 +3553,7 @@
   },
   {
     "_id": 23728,
-    "id": "evt-23728",
+    "id": "evt-2016-23728",
     "name": "Giro di San Francisco — VP#22, CC#9",
     "status": "",
     "type": "Criterium",
@@ -3591,7 +3591,7 @@
   },
   {
     "_id": 23729,
-    "id": "evt-23729",
+    "id": "evt-2016-23729",
     "name": "Challenge Challenge Road Race — VP#23, CC#10",
     "status": "Canceled",
     "type": "Road Race",
@@ -3625,7 +3625,7 @@
   },
   {
     "_id": 23730,
-    "id": "evt-23730",
+    "id": "evt-2016-23730",
     "name": "54th Mt. Tamalpais Hill Climb",
     "status": "Canceled",
     "type": "Hill Climb",
@@ -3655,7 +3655,7 @@
   },
   {
     "_id": 23730,
-    "id": "evt-23730",
+    "id": "evt-2016-23730",
     "name": "54th Mt. Tamalpais Hill Climb",
     "status": "Canceled",
     "type": "Time Trial",
@@ -3685,7 +3685,7 @@
   },
   {
     "_id": 23731,
-    "id": "evt-23731",
+    "id": "evt-2016-23731",
     "name": "Esparto Time Trial — VP#24, CC#11",
     "status": "",
     "type": "Time Trial",
@@ -3719,7 +3719,7 @@
   },
   {
     "_id": 23732,
-    "id": "evt-23732",
+    "id": "evt-2016-23732",
     "name": "NCNCA Elite Criterium Championships — 12th Annual Oakland Grand Prix - VP#25, CC#12",
     "status": "",
     "type": "Criterium",
@@ -3753,7 +3753,7 @@
   },
   {
     "_id": 23733,
-    "id": "evt-23733",
+    "id": "evt-2016-23733",
     "name": "Fremont Peak Hill Climb",
     "status": "Canceled",
     "type": "Hill Climb",
@@ -3783,7 +3783,7 @@
   },
   {
     "_id": 23733,
-    "id": "evt-23733",
+    "id": "evt-2016-23733",
     "name": "Fremont Peak Hill Climb",
     "status": "Canceled",
     "type": "Time Trial",
@@ -3813,7 +3813,7 @@
   },
   {
     "_id": 23734,
-    "id": "evt-23734",
+    "id": "evt-2016-23734",
     "name": "Henleyville Road Race — VP#26",
     "status": "",
     "type": "Road Race",
@@ -3847,7 +3847,7 @@
   },
   {
     "_id": 23735,
-    "id": "evt-23735",
+    "id": "evt-2016-23735",
     "name": "WCCC — Stanford: Road Race",
     "status": "",
     "type": "Road Race",
@@ -3877,7 +3877,7 @@
   },
   {
     "_id": 23736,
-    "id": "evt-23736",
+    "id": "evt-2016-23736",
     "name": "UC Santa Cruz Slugapalooza (WCCC) — Criterium",
     "status": "",
     "type": "Criterium",
@@ -3902,7 +3902,7 @@
   },
   {
     "_id": 23737,
-    "id": "evt-23737",
+    "id": "evt-2016-23737",
     "name": "WCCC — Cal: Berkeley Streets Criterium (Collegiate & USAC)",
     "status": "",
     "type": "Criterium",
@@ -3932,7 +3932,7 @@
   },
   {
     "_id": 23738,
-    "id": "evt-23738",
+    "id": "evt-2016-23738",
     "name": "UC Merced Race Weekend — Criterium (WCCC)",
     "status": "",
     "type": "Criterium",
@@ -3957,7 +3957,7 @@
   },
   {
     "_id": 23739,
-    "id": "evt-23739",
+    "id": "evt-2016-23739",
     "name": "WCCC — UNR: Road Race",
     "status": "",
     "type": "Criterium",
@@ -3982,7 +3982,7 @@
   },
   {
     "_id": 23740,
-    "id": "evt-23740",
+    "id": "evt-2016-23740",
     "name": "Chico Stage Race pb Sierra Nevada Brewing Co — Stage 2: Paskenta Hills RR",
     "status": "",
     "type": "Road Race",
@@ -4012,7 +4012,7 @@
   },
   {
     "_id": 23741,
-    "id": "evt-23741",
+    "id": "evt-2016-23741",
     "name": "Chico Stage Race pb Sierra Nevada Brewing Co — Stage 4: Steve Harrison Memorial Criterium",
     "status": "",
     "type": "Criterium",
@@ -4042,7 +4042,7 @@
   },
   {
     "_id": 23743,
-    "id": "evt-23743",
+    "id": "evt-2016-23743",
     "name": "Madera Stage Race: Crit & TT — VP#6",
     "status": "",
     "type": "Time Trial",
@@ -4076,7 +4076,7 @@
   },
   {
     "_id": 23743,
-    "id": "evt-23743",
+    "id": "evt-2016-23743",
     "name": "Madera Stage Race: Crit & TT — VP#6",
     "status": "",
     "type": "Criterium",
@@ -4110,7 +4110,7 @@
   },
   {
     "_id": 23744,
-    "id": "evt-23744",
+    "id": "evt-2016-23744",
     "name": "Madera Stage Race: RR — VP#6",
     "status": "",
     "type": "Time Trial",
@@ -4144,7 +4144,7 @@
   },
   {
     "_id": 23746,
-    "id": "evt-23746",
+    "id": "evt-2016-23746",
     "name": "Mariposa County Women's Stage Race: HC & RR — VP#11",
     "status": "Canceled",
     "type": "Hill Climb",
@@ -4178,7 +4178,7 @@
   },
   {
     "_id": 23746,
-    "id": "evt-23746",
+    "id": "evt-2016-23746",
     "name": "Mariposa County Women's Stage Race: HC & RR — VP#11",
     "status": "Canceled",
     "type": "Time Trial",
@@ -4212,7 +4212,7 @@
   },
   {
     "_id": 23746,
-    "id": "evt-23746",
+    "id": "evt-2016-23746",
     "name": "Mariposa County Women's Stage Race: HC & RR — VP#11",
     "status": "Canceled",
     "type": "Road Race",
@@ -4246,7 +4246,7 @@
   },
   {
     "_id": 23747,
-    "id": "evt-23747",
+    "id": "evt-2016-23747",
     "name": "Mariposa County Women's Stage Race: RR — VP#11",
     "status": "Canceled",
     "type": "Road Race",
@@ -4280,7 +4280,7 @@
   },
   {
     "_id": 23748,
-    "id": "evt-23748",
+    "id": "evt-2016-23748",
     "name": "Golden State Race Series p/b Rio Strada Racing: Criterium",
     "status": "",
     "type": "Criterium",
@@ -4310,7 +4310,7 @@
   },
   {
     "_id": 23749,
-    "id": "evt-23749",
+    "id": "evt-2016-23749",
     "name": "OTF Omnium Featuring Budweiser Sequoia Cycling Classic: Criterium",
     "status": "",
     "type": "Criterium",
@@ -4335,7 +4335,7 @@
   },
   {
     "_id": 23750,
-    "id": "evt-23750",
+    "id": "evt-2016-23750",
     "name": "NCNCA Masters Criterium Championships — Red Kite Omnium Event #15 - Red Kite Omnium Championship Weekend: Day 2",
     "status": "",
     "type": "Criterium",
@@ -4365,7 +4365,7 @@
   },
   {
     "_id": 23751,
-    "id": "evt-23751",
+    "id": "evt-2016-23751",
     "name": "Tour of California (May 15-22)",
     "status": "",
     "type": "Road Race",
@@ -4390,7 +4390,7 @@
   },
   {
     "_id": 23770,
-    "id": "evt-23770",
+    "id": "evt-2016-23770",
     "name": "Ride2Recovery: Honor Ride Sacramento",
     "status": "",
     "type": "Non-competitive",
@@ -4420,7 +4420,7 @@
   },
   {
     "_id": 23771,
-    "id": "evt-23771",
+    "id": "evt-2016-23771",
     "name": "USA Cycling CX National Championship",
     "status": "",
     "type": "Cyclocross",
@@ -4450,7 +4450,7 @@
   },
   {
     "_id": 23772,
-    "id": "evt-23772",
+    "id": "evt-2016-23772",
     "name": "USA Cycling Professional Criterium & Team Time Trial National Championships",
     "status": "",
     "type": "Time Trial",
@@ -4480,7 +4480,7 @@
   },
   {
     "_id": 23772,
-    "id": "evt-23772",
+    "id": "evt-2016-23772",
     "name": "USA Cycling Professional Criterium & Team Time Trial National Championships",
     "status": "",
     "type": "Criterium",
@@ -4510,7 +4510,7 @@
   },
   {
     "_id": 23773,
-    "id": "evt-23773",
+    "id": "evt-2016-23773",
     "name": "USA Cycling Collegiate Road National Championships",
     "status": "",
     "type": "Road Race",
@@ -4540,7 +4540,7 @@
   },
   {
     "_id": 23774,
-    "id": "evt-23774",
+    "id": "evt-2016-23774",
     "name": "USA Cycling Masters & Para-cycling Road National Championships",
     "status": "",
     "type": "Road Race",
@@ -4570,7 +4570,7 @@
   },
   {
     "_id": 23775,
-    "id": "evt-23775",
+    "id": "evt-2016-23775",
     "name": "USA Cycling Professional Road Race & Time Trial National Championships",
     "status": "",
     "type": "Time Trial",
@@ -4600,7 +4600,7 @@
   },
   {
     "_id": 23775,
-    "id": "evt-23775",
+    "id": "evt-2016-23775",
     "name": "USA Cycling Professional Road Race & Time Trial National Championships",
     "status": "",
     "type": "Road Race",
@@ -4630,7 +4630,7 @@
   },
   {
     "_id": 23776,
-    "id": "evt-23776",
+    "id": "evt-2016-23776",
     "name": "USA Cycling Marathon Mountain Bike National Championship",
     "status": "",
     "type": "MTB",
@@ -4660,7 +4660,7 @@
   },
   {
     "_id": 23777,
-    "id": "evt-23777",
+    "id": "evt-2016-23777",
     "name": "USA Cycling Amateur Road National Championships",
     "status": "",
     "type": "Road Race",
@@ -4690,7 +4690,7 @@
   },
   {
     "_id": 23779,
-    "id": "evt-23779",
+    "id": "evt-2016-23779",
     "name": "USA Cycling Elite & Junior Track National Championships",
     "status": "",
     "type": "Track",
@@ -4720,7 +4720,7 @@
   },
   {
     "_id": 23780,
-    "id": "evt-23780",
+    "id": "evt-2016-23780",
     "name": "USA Cycling Masters Track National Championships",
     "status": "",
     "type": "Track",
@@ -4750,7 +4750,7 @@
   },
   {
     "_id": 23781,
-    "id": "evt-23781",
+    "id": "evt-2016-23781",
     "name": "USA Cycling Hill Climb National Championships",
     "status": "",
     "type": "Hill Climb",
@@ -4780,7 +4780,7 @@
   },
   {
     "_id": 23781,
-    "id": "evt-23781",
+    "id": "evt-2016-23781",
     "name": "USA Cycling Hill Climb National Championships",
     "status": "",
     "type": "Time Trial",
@@ -4810,7 +4810,7 @@
   },
   {
     "_id": 23782,
-    "id": "evt-23782",
+    "id": "evt-2016-23782",
     "name": "USA Cycling Collegiate Track National Championships",
     "status": "",
     "type": "Track",
@@ -4840,7 +4840,7 @@
   },
   {
     "_id": 23783,
-    "id": "evt-23783",
+    "id": "evt-2016-23783",
     "name": "USA Cycling Collegiate Mountain Bike National Championships",
     "status": "",
     "type": "MTB",
@@ -4870,7 +4870,7 @@
   },
   {
     "_id": 23786,
-    "id": "evt-23786",
+    "id": "evt-2016-23786",
     "name": "Mt Diablo Challenge Hill Climb",
     "status": "",
     "type": "Hill Climb",
@@ -4895,7 +4895,7 @@
   },
   {
     "_id": 23786,
-    "id": "evt-23786",
+    "id": "evt-2016-23786",
     "name": "Mt Diablo Challenge Hill Climb",
     "status": "",
     "type": "Time Trial",
@@ -4920,7 +4920,7 @@
   },
   {
     "_id": 23794,
-    "id": "evt-23794",
+    "id": "evt-2016-23794",
     "name": "Early Bird Criterium Training Series (Indoor Clinic)",
     "status": "",
     "type": "Clinics",
@@ -4954,7 +4954,7 @@
   },
   {
     "_id": 23800,
-    "id": "evt-23800",
+    "id": "evt-2016-23800",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -4984,7 +4984,7 @@
   },
   {
     "_id": 23801,
-    "id": "evt-23801",
+    "id": "evt-2016-23801",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -5014,7 +5014,7 @@
   },
   {
     "_id": 23802,
-    "id": "evt-23802",
+    "id": "evt-2016-23802",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -5044,7 +5044,7 @@
   },
   {
     "_id": 23803,
-    "id": "evt-23803",
+    "id": "evt-2016-23803",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -5074,7 +5074,7 @@
   },
   {
     "_id": 23804,
-    "id": "evt-23804",
+    "id": "evt-2016-23804",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -5104,7 +5104,7 @@
   },
   {
     "_id": 23810,
-    "id": "evt-23810",
+    "id": "evt-2016-23810",
     "name": "Chico Stage Race pb Sierra Nevada Brewing Co — Stage 3: River Road TT",
     "status": "",
     "type": "Time Trial",
@@ -5134,7 +5134,7 @@
   },
   {
     "_id": 23811,
-    "id": "evt-23811",
+    "id": "evt-2016-23811",
     "name": "Rockville Bike CX Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -5159,7 +5159,7 @@
   },
   {
     "_id": 23812,
-    "id": "evt-23812",
+    "id": "evt-2016-23812",
     "name": "Rockville Bike CX Series #4",
     "status": "",
     "type": "Cyclocross",
@@ -5184,7 +5184,7 @@
   },
   {
     "_id": 23813,
-    "id": "evt-23813",
+    "id": "evt-2016-23813",
     "name": "Rockville Bike CX Series #5",
     "status": "",
     "type": "Cyclocross",
@@ -5209,7 +5209,7 @@
   },
   {
     "_id": 23816,
-    "id": "evt-23816",
+    "id": "evt-2016-23816",
     "name": "Tuttle Creek Road Race",
     "status": "",
     "type": "Road Race",
@@ -5239,7 +5239,7 @@
   },
   {
     "_id": 23837,
-    "id": "evt-23837",
+    "id": "evt-2016-23837",
     "name": "Sonora Gran Fondo: Rim Fire Century",
     "status": "",
     "type": "Non-competitive",
@@ -5264,7 +5264,7 @@
   },
   {
     "_id": 23843,
-    "id": "evt-23843",
+    "id": "evt-2016-23843",
     "name": "Tour de Ed",
     "status": "",
     "type": "Non-competitive",
@@ -5289,7 +5289,7 @@
   },
   {
     "_id": 23844,
-    "id": "evt-23844",
+    "id": "evt-2016-23844",
     "name": "Cal Poly San Luis Obispo Road Race Weekend: Circuit Race",
     "status": "",
     "type": "Circuit Race",
@@ -5314,7 +5314,7 @@
   },
   {
     "_id": 23845,
-    "id": "evt-23845",
+    "id": "evt-2016-23845",
     "name": "Clone of Cal Poly San Luis Obispo Road Race Weekend: Road Race",
     "status": "",
     "type": "Road Race",
@@ -5339,7 +5339,7 @@
   },
   {
     "_id": 23849,
-    "id": "evt-23849",
+    "id": "evt-2016-23849",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #1",
     "status": "",
     "type": "Track",
@@ -5369,7 +5369,7 @@
   },
   {
     "_id": 23850,
-    "id": "evt-23850",
+    "id": "evt-2016-23850",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #2",
     "status": "",
     "type": "Track",
@@ -5399,7 +5399,7 @@
   },
   {
     "_id": 23851,
-    "id": "evt-23851",
+    "id": "evt-2016-23851",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #3",
     "status": "",
     "type": "Track",
@@ -5429,7 +5429,7 @@
   },
   {
     "_id": 23852,
-    "id": "evt-23852",
+    "id": "evt-2016-23852",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #4",
     "status": "",
     "type": "Track",
@@ -5459,7 +5459,7 @@
   },
   {
     "_id": 23853,
-    "id": "evt-23853",
+    "id": "evt-2016-23853",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #5",
     "status": "",
     "type": "Track",
@@ -5489,7 +5489,7 @@
   },
   {
     "_id": 23854,
-    "id": "evt-23854",
+    "id": "evt-2016-23854",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #6",
     "status": "",
     "type": "Track",
@@ -5519,7 +5519,7 @@
   },
   {
     "_id": 23855,
-    "id": "evt-23855",
+    "id": "evt-2016-23855",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #7",
     "status": "",
     "type": "Track",
@@ -5549,7 +5549,7 @@
   },
   {
     "_id": 23856,
-    "id": "evt-23856",
+    "id": "evt-2016-23856",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #8",
     "status": "",
     "type": "Track",
@@ -5579,7 +5579,7 @@
   },
   {
     "_id": 23857,
-    "id": "evt-23857",
+    "id": "evt-2016-23857",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #9",
     "status": "",
     "type": "Track",
@@ -5609,7 +5609,7 @@
   },
   {
     "_id": 23858,
-    "id": "evt-23858",
+    "id": "evt-2016-23858",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #10",
     "status": "",
     "type": "Track",
@@ -5639,7 +5639,7 @@
   },
   {
     "_id": 23859,
-    "id": "evt-23859",
+    "id": "evt-2016-23859",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #11",
     "status": "",
     "type": "Track",
@@ -5669,7 +5669,7 @@
   },
   {
     "_id": 23860,
-    "id": "evt-23860",
+    "id": "evt-2016-23860",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #12",
     "status": "",
     "type": "Track",
@@ -5699,7 +5699,7 @@
   },
   {
     "_id": 23861,
-    "id": "evt-23861",
+    "id": "evt-2016-23861",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #13",
     "status": "",
     "type": "Track",
@@ -5729,7 +5729,7 @@
   },
   {
     "_id": 23862,
-    "id": "evt-23862",
+    "id": "evt-2016-23862",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #14",
     "status": "",
     "type": "Track",
@@ -5759,7 +5759,7 @@
   },
   {
     "_id": 23863,
-    "id": "evt-23863",
+    "id": "evt-2016-23863",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #15",
     "status": "",
     "type": "Track",
@@ -5789,7 +5789,7 @@
   },
   {
     "_id": 23864,
-    "id": "evt-23864",
+    "id": "evt-2016-23864",
     "name": "FFWD Wheels Wednesday Night Track League p/b Vie13 #16",
     "status": "",
     "type": "Track",
@@ -5819,7 +5819,7 @@
   },
   {
     "_id": 23865,
-    "id": "evt-23865",
+    "id": "evt-2016-23865",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -5849,7 +5849,7 @@
   },
   {
     "_id": 23866,
-    "id": "evt-23866",
+    "id": "evt-2016-23866",
     "name": "Junior/Espoirs Training: Structured Session",
     "status": "",
     "type": "Track",
@@ -5879,7 +5879,7 @@
   },
   {
     "_id": 23867,
-    "id": "evt-23867",
+    "id": "evt-2016-23867",
     "name": "SportVelo Endurance Training",
     "status": "",
     "type": "Track",
@@ -5909,7 +5909,7 @@
   },
   {
     "_id": 23868,
-    "id": "evt-23868",
+    "id": "evt-2016-23868",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -5939,7 +5939,7 @@
   },
   {
     "_id": 23869,
-    "id": "evt-23869",
+    "id": "evt-2016-23869",
     "name": "Saturday Morning Beginner Session",
     "status": "",
     "type": "Track",
@@ -5969,7 +5969,7 @@
   },
   {
     "_id": 23870,
-    "id": "evt-23870",
+    "id": "evt-2016-23870",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -5999,7 +5999,7 @@
   },
   {
     "_id": 23871,
-    "id": "evt-23871",
+    "id": "evt-2016-23871",
     "name": "Rain Date for PCC Sprint Clinic",
     "status": "",
     "type": "Track",
@@ -6029,7 +6029,7 @@
   },
   {
     "_id": 23872,
-    "id": "evt-23872",
+    "id": "evt-2016-23872",
     "name": "Monday Night Training",
     "status": "",
     "type": "Track",
@@ -6059,7 +6059,7 @@
   },
   {
     "_id": 23873,
-    "id": "evt-23873",
+    "id": "evt-2016-23873",
     "name": "NCVA Board of Directors Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -6089,7 +6089,7 @@
   },
   {
     "_id": 23874,
-    "id": "evt-23874",
+    "id": "evt-2016-23874",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Clinics",
@@ -6119,7 +6119,7 @@
   },
   {
     "_id": 23875,
-    "id": "evt-23875",
+    "id": "evt-2016-23875",
     "name": "Junior/Espoirs Training: Structured Session",
     "status": "",
     "type": "Track",
@@ -6149,7 +6149,7 @@
   },
   {
     "_id": 23876,
-    "id": "evt-23876",
+    "id": "evt-2016-23876",
     "name": "SportVelo Endurance Training",
     "status": "",
     "type": "Track",
@@ -6179,7 +6179,7 @@
   },
   {
     "_id": 23877,
-    "id": "evt-23877",
+    "id": "evt-2016-23877",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -6209,7 +6209,7 @@
   },
   {
     "_id": 23878,
-    "id": "evt-23878",
+    "id": "evt-2016-23878",
     "name": "Saturday Morning Beginner Session",
     "status": "",
     "type": "Track",
@@ -6239,7 +6239,7 @@
   },
   {
     "_id": 23879,
-    "id": "evt-23879",
+    "id": "evt-2016-23879",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -6269,7 +6269,7 @@
   },
   {
     "_id": 23880,
-    "id": "evt-23880",
+    "id": "evt-2016-23880",
     "name": "8th Annual Women's Track — Race Training Series",
     "status": "",
     "type": "Track",
@@ -6299,7 +6299,7 @@
   },
   {
     "_id": 23881,
-    "id": "evt-23881",
+    "id": "evt-2016-23881",
     "name": "8th Annual Women's Track — Race Training Series",
     "status": "",
     "type": "Clinics",
@@ -6329,7 +6329,7 @@
   },
   {
     "_id": 23882,
-    "id": "evt-23882",
+    "id": "evt-2016-23882",
     "name": "8th Annual Women's Track — Race Training Series",
     "status": "",
     "type": "Clinics",
@@ -6359,7 +6359,7 @@
   },
   {
     "_id": 23883,
-    "id": "evt-23883",
+    "id": "evt-2016-23883",
     "name": "Advanced Unstructured Training",
     "status": "",
     "type": "Track",
@@ -6389,7 +6389,7 @@
   },
   {
     "_id": 23884,
-    "id": "evt-23884",
+    "id": "evt-2016-23884",
     "name": "Monday Night Training",
     "status": "",
     "type": "Track",
@@ -6419,7 +6419,7 @@
   },
   {
     "_id": 23885,
-    "id": "evt-23885",
+    "id": "evt-2016-23885",
     "name": "Monday Night Training",
     "status": "",
     "type": "Track",
@@ -6449,7 +6449,7 @@
   },
   {
     "_id": 23894,
-    "id": "evt-23894",
+    "id": "evt-2016-23894",
     "name": "Los Gatos Bicycle Racing Club's How to Kill Cat's Hill Clinic",
     "status": "",
     "type": "Clinics",
@@ -6479,7 +6479,7 @@
   },
   {
     "_id": 23901,
-    "id": "evt-23901",
+    "id": "evt-2016-23901",
     "name": "SoNoMas",
     "status": "",
     "type": "MTB",
@@ -6509,7 +6509,7 @@
   },
   {
     "_id": 23902,
-    "id": "evt-23902",
+    "id": "evt-2016-23902",
     "name": "Big Sandy Race",
     "status": "",
     "type": "MTB",
@@ -6534,7 +6534,7 @@
   },
   {
     "_id": 23903,
-    "id": "evt-23903",
+    "id": "evt-2016-23903",
     "name": "Clovis Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -6559,7 +6559,7 @@
   },
   {
     "_id": 23904,
-    "id": "evt-23904",
+    "id": "evt-2016-23904",
     "name": "MTB Celebration",
     "status": "",
     "type": "MTB",
@@ -6584,7 +6584,7 @@
   },
   {
     "_id": 23905,
-    "id": "evt-23905",
+    "id": "evt-2016-23905",
     "name": "Napa Valley Dirt Classic",
     "status": "",
     "type": "MTB",
@@ -6609,7 +6609,7 @@
   },
   {
     "_id": 23906,
-    "id": "evt-23906",
+    "id": "evt-2016-23906",
     "name": "Nevada City Dirt Classic #1",
     "status": "",
     "type": "MTB",
@@ -6634,7 +6634,7 @@
   },
   {
     "_id": 23907,
-    "id": "evt-23907",
+    "id": "evt-2016-23907",
     "name": "Lemurian Shasta Classic",
     "status": "",
     "type": "MTB",
@@ -6659,7 +6659,7 @@
   },
   {
     "_id": 23908,
-    "id": "evt-23908",
+    "id": "evt-2016-23908",
     "name": "Race Behind Bars #1",
     "status": "",
     "type": "MTB",
@@ -6684,7 +6684,7 @@
   },
   {
     "_id": 23909,
-    "id": "evt-23909",
+    "id": "evt-2016-23909",
     "name": "Nevada City Dirt Classic #2",
     "status": "",
     "type": "MTB",
@@ -6709,7 +6709,7 @@
   },
   {
     "_id": 23910,
-    "id": "evt-23910",
+    "id": "evt-2016-23910",
     "name": "CCCX #7",
     "status": "",
     "type": "MTB",
@@ -6739,7 +6739,7 @@
   },
   {
     "_id": 23911,
-    "id": "evt-23911",
+    "id": "evt-2016-23911",
     "name": "Free Beckwourth 8-hour MTB Race",
     "status": "",
     "type": "MTB",
@@ -6764,7 +6764,7 @@
   },
   {
     "_id": 23912,
-    "id": "evt-23912",
+    "id": "evt-2016-23912",
     "name": "Race Behind Bars #2",
     "status": "",
     "type": "MTB",
@@ -6789,7 +6789,7 @@
   },
   {
     "_id": 23915,
-    "id": "evt-23915",
+    "id": "evt-2016-23915",
     "name": "Junior Road Race Championships",
     "status": "Canceled",
     "type": "Road Race",
@@ -6814,7 +6814,7 @@
   },
   {
     "_id": 23916,
-    "id": "evt-23916",
+    "id": "evt-2016-23916",
     "name": "Santa Cruz Old Cabin Classic",
     "status": "",
     "type": "MTB",
@@ -6839,7 +6839,7 @@
   },
   {
     "_id": 23917,
-    "id": "evt-23917",
+    "id": "evt-2016-23917",
     "name": "Pine Nut Cracker",
     "status": "",
     "type": "MTB",
@@ -6864,7 +6864,7 @@
   },
   {
     "_id": 23918,
-    "id": "evt-23918",
+    "id": "evt-2016-23918",
     "name": "CCCX #8",
     "status": "",
     "type": "MTB",
@@ -6894,7 +6894,7 @@
   },
   {
     "_id": 23919,
-    "id": "evt-23919",
+    "id": "evt-2016-23919",
     "name": "CCCX #9",
     "status": "",
     "type": "MTB",
@@ -6924,7 +6924,7 @@
   },
   {
     "_id": 23920,
-    "id": "evt-23920",
+    "id": "evt-2016-23920",
     "name": "CCCX #10",
     "status": "",
     "type": "MTB",
@@ -6954,7 +6954,7 @@
   },
   {
     "_id": 23921,
-    "id": "evt-23921",
+    "id": "evt-2016-23921",
     "name": "CCCX Final",
     "status": "",
     "type": "MTB",
@@ -6984,7 +6984,7 @@
   },
   {
     "_id": 23922,
-    "id": "evt-23922",
+    "id": "evt-2016-23922",
     "name": "Nevada City Dirt Classic #3",
     "status": "",
     "type": "MTB",
@@ -7009,7 +7009,7 @@
   },
   {
     "_id": 23924,
-    "id": "evt-23924",
+    "id": "evt-2016-23924",
     "name": "Fast Freddie Folsom Fondo",
     "status": "",
     "type": "Non-competitive",
@@ -7034,7 +7034,7 @@
   },
   {
     "_id": 23928,
-    "id": "evt-23928",
+    "id": "evt-2016-23928",
     "name": "Death Valley Road Omnium",
     "status": "",
     "type": "Road Race",
@@ -7064,7 +7064,7 @@
   },
   {
     "_id": 23935,
-    "id": "evt-23935",
+    "id": "evt-2016-23935",
     "name": "Ryan's Ride",
     "status": "",
     "type": "Non-competitive",
@@ -7089,7 +7089,7 @@
   },
   {
     "_id": 23944,
-    "id": "evt-23944",
+    "id": "evt-2016-23944",
     "name": "Rockhopper Classic",
     "status": "",
     "type": "MTB",
@@ -7119,7 +7119,7 @@
   },
   {
     "_id": 23945,
-    "id": "evt-23945",
+    "id": "evt-2016-23945",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7149,7 +7149,7 @@
   },
   {
     "_id": 23946,
-    "id": "evt-23946",
+    "id": "evt-2016-23946",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7179,7 +7179,7 @@
   },
   {
     "_id": 23947,
-    "id": "evt-23947",
+    "id": "evt-2016-23947",
     "name": "NCNCA Board Meeting",
     "status": "Canceled",
     "type": "NCNCA Meeting",
@@ -7209,7 +7209,7 @@
   },
   {
     "_id": 23948,
-    "id": "evt-23948",
+    "id": "evt-2016-23948",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7239,7 +7239,7 @@
   },
   {
     "_id": 23949,
-    "id": "evt-23949",
+    "id": "evt-2016-23949",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7269,7 +7269,7 @@
   },
   {
     "_id": 23950,
-    "id": "evt-23950",
+    "id": "evt-2016-23950",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7299,7 +7299,7 @@
   },
   {
     "_id": 23951,
-    "id": "evt-23951",
+    "id": "evt-2016-23951",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7329,7 +7329,7 @@
   },
   {
     "_id": 23952,
-    "id": "evt-23952",
+    "id": "evt-2016-23952",
     "name": "NCNCA Promoters Meeting",
     "status": "",
     "type": "NCNCA Meeting",
@@ -7359,7 +7359,7 @@
   },
   {
     "_id": 23953,
-    "id": "evt-23953",
+    "id": "evt-2016-23953",
     "name": "Boggs Funduro",
     "status": "",
     "type": "MTB",
@@ -7384,7 +7384,7 @@
   },
   {
     "_id": 23954,
-    "id": "evt-23954",
+    "id": "evt-2016-23954",
     "name": "Coolest 8 & 24hr",
     "status": "",
     "type": "MTB",
@@ -7409,7 +7409,7 @@
   },
   {
     "_id": 23955,
-    "id": "evt-23955",
+    "id": "evt-2016-23955",
     "name": "Lake Tahoe MTB Race (XC, 4hr, 8hr)",
     "status": "",
     "type": "MTB",
@@ -7434,7 +7434,7 @@
   },
   {
     "_id": 23956,
-    "id": "evt-23956",
+    "id": "evt-2016-23956",
     "name": "Sagebrush Scramble",
     "status": "",
     "type": "MTB",
@@ -7459,7 +7459,7 @@
   },
   {
     "_id": 23957,
-    "id": "evt-23957",
+    "id": "evt-2016-23957",
     "name": "Skyline Park MTB Race",
     "status": "",
     "type": "MTB",
@@ -7484,7 +7484,7 @@
   },
   {
     "_id": 23963,
-    "id": "evt-23963",
+    "id": "evt-2016-23963",
     "name": "Elite District Track Championship",
     "status": "",
     "type": "Track",
@@ -7514,7 +7514,7 @@
   },
   {
     "_id": 23970,
-    "id": "evt-23970",
+    "id": "evt-2016-23970",
     "name": "Stormy Saddle Enduro",
     "status": "",
     "type": "MTB",
@@ -7539,7 +7539,7 @@
   },
   {
     "_id": 23971,
-    "id": "evt-23971",
+    "id": "evt-2016-23971",
     "name": "Volkswagen USA Cycling Mountain Bike National Championships",
     "status": "",
     "type": "MTB",
@@ -7564,7 +7564,7 @@
   },
   {
     "_id": 23972,
-    "id": "evt-23972",
+    "id": "evt-2016-23972",
     "name": "Tahoe Trail MTB 50k & 100k",
     "status": "",
     "type": "MTB",
@@ -7589,7 +7589,7 @@
   },
   {
     "_id": 23973,
-    "id": "evt-23973",
+    "id": "evt-2016-23973",
     "name": "Coolest 8 & 24hr MTB Endurance Race",
     "status": "",
     "type": "MTB",
@@ -7614,7 +7614,7 @@
   },
   {
     "_id": 23974,
-    "id": "evt-23974",
+    "id": "evt-2016-23974",
     "name": "Kirkwood Mountain Classic",
     "status": "",
     "type": "MTB",
@@ -7639,7 +7639,7 @@
   },
   {
     "_id": 23975,
-    "id": "evt-23975",
+    "id": "evt-2016-23975",
     "name": "Downieville Classic",
     "status": "",
     "type": "MTB",
@@ -7664,7 +7664,7 @@
   },
   {
     "_id": 23976,
-    "id": "evt-23976",
+    "id": "evt-2016-23976",
     "name": "Annadel XC",
     "status": "",
     "type": "MTB",
@@ -7689,7 +7689,7 @@
   },
   {
     "_id": 23977,
-    "id": "evt-23977",
+    "id": "evt-2016-23977",
     "name": "Mendocino Mountain Bike Madness (M5)",
     "status": "",
     "type": "MTB",
@@ -7714,7 +7714,7 @@
   },
   {
     "_id": 23978,
-    "id": "evt-23978",
+    "id": "evt-2016-23978",
     "name": "Gold Rush MTB",
     "status": "",
     "type": "MTB",
@@ -7739,7 +7739,7 @@
   },
   {
     "_id": 23979,
-    "id": "evt-23979",
+    "id": "evt-2016-23979",
     "name": "Beckwourth 100 MTB Endurance (TS100)",
     "status": "",
     "type": "MTB",
@@ -7764,7 +7764,7 @@
   },
   {
     "_id": 23980,
-    "id": "evt-23980",
+    "id": "evt-2016-23980",
     "name": "Bodie Bowl",
     "status": "",
     "type": "MTB",
@@ -7789,7 +7789,7 @@
   },
   {
     "_id": 23981,
-    "id": "evt-23981",
+    "id": "evt-2016-23981",
     "name": "Great Tahoe Flume Race",
     "status": "",
     "type": "MTB",
@@ -7814,7 +7814,7 @@
   },
   {
     "_id": 23982,
-    "id": "evt-23982",
+    "id": "evt-2016-23982",
     "name": "TBF 50 Miler",
     "status": "",
     "type": "MTB",
@@ -7839,7 +7839,7 @@
   },
   {
     "_id": 23983,
-    "id": "evt-23983",
+    "id": "evt-2016-23983",
     "name": "4 & 8 Hours of Weaverville",
     "status": "",
     "type": "MTB",
@@ -7864,7 +7864,7 @@
   },
   {
     "_id": 23984,
-    "id": "evt-23984",
+    "id": "evt-2016-23984",
     "name": "World Solo 24hr MTB Championships",
     "status": "",
     "type": "MTB",
@@ -7889,7 +7889,7 @@
   },
   {
     "_id": 23985,
-    "id": "evt-23985",
+    "id": "evt-2016-23985",
     "name": "La Grange Fall Classic",
     "status": "",
     "type": "MTB",
@@ -7914,7 +7914,7 @@
   },
   {
     "_id": 23992,
-    "id": "evt-23992",
+    "id": "evt-2016-23992",
     "name": "Pro Sprint School",
     "status": "",
     "type": "Clinics",
@@ -7939,7 +7939,7 @@
   },
   {
     "_id": 23995,
-    "id": "evt-23995",
+    "id": "evt-2016-23995",
     "name": "Masters State Track District Championships",
     "status": "",
     "type": "Track",
@@ -7969,7 +7969,7 @@
   },
   {
     "_id": 24001,
-    "id": "evt-24001",
+    "id": "evt-2016-24001",
     "name": "Cross Kick Off — CCCX Cyclocross Series #1",
     "status": "",
     "type": "Cyclocross",
@@ -7994,7 +7994,7 @@
   },
   {
     "_id": 24002,
-    "id": "evt-24002",
+    "id": "evt-2016-24002",
     "name": "CCCX Cyclocross Series #2",
     "status": "",
     "type": "Cyclocross",
@@ -8019,7 +8019,7 @@
   },
   {
     "_id": 24003,
-    "id": "evt-24003",
+    "id": "evt-2016-24003",
     "name": "CCCX Cyclocross Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -8044,7 +8044,7 @@
   },
   {
     "_id": 24004,
-    "id": "evt-24004",
+    "id": "evt-2016-24004",
     "name": "West Sacramento Cyclocross Grand Prix",
     "status": "",
     "type": "Cyclocross",
@@ -8069,7 +8069,7 @@
   },
   {
     "_id": 24005,
-    "id": "evt-24005",
+    "id": "evt-2016-24005",
     "name": "CCCX Cyclocross Series #4",
     "status": "",
     "type": "Cyclocross",
@@ -8094,7 +8094,7 @@
   },
   {
     "_id": 24006,
-    "id": "evt-24006",
+    "id": "evt-2016-24006",
     "name": "Cliff Bar Cykle Scramble",
     "status": "",
     "type": "Cyclocross",
@@ -8119,7 +8119,7 @@
   },
   {
     "_id": 24007,
-    "id": "evt-24007",
+    "id": "evt-2016-24007",
     "name": "BASP #1",
     "status": "",
     "type": "Cyclocross",
@@ -8144,7 +8144,7 @@
   },
   {
     "_id": 24008,
-    "id": "evt-24008",
+    "id": "evt-2016-24008",
     "name": "BASP #2",
     "status": "",
     "type": "Cyclocross",
@@ -8169,7 +8169,7 @@
   },
   {
     "_id": 24009,
-    "id": "evt-24009",
+    "id": "evt-2016-24009",
     "name": "SuperPro CX #1",
     "status": "",
     "type": "Cyclocross",
@@ -8194,7 +8194,7 @@
   },
   {
     "_id": 24010,
-    "id": "evt-24010",
+    "id": "evt-2016-24010",
     "name": "Cross Reno",
     "status": "",
     "type": "Cyclocross",
@@ -8219,7 +8219,7 @@
   },
   {
     "_id": 24011,
-    "id": "evt-24011",
+    "id": "evt-2016-24011",
     "name": "CCCX Cyclocross Series #5",
     "status": "",
     "type": "Cyclocross",
@@ -8244,7 +8244,7 @@
   },
   {
     "_id": 24012,
-    "id": "evt-24012",
+    "id": "evt-2016-24012",
     "name": "Sacramento Cyclocross #1",
     "status": "",
     "type": "Cyclocross",
@@ -8269,7 +8269,7 @@
   },
   {
     "_id": 24013,
-    "id": "evt-24013",
+    "id": "evt-2016-24013",
     "name": "Sacramento Cyclocross #2",
     "status": "",
     "type": "Cyclocross",
@@ -8294,7 +8294,7 @@
   },
   {
     "_id": 24014,
-    "id": "evt-24014",
+    "id": "evt-2016-24014",
     "name": "CCCX Cyclocross Series #6",
     "status": "",
     "type": "Cyclocross",
@@ -8319,7 +8319,7 @@
   },
   {
     "_id": 24016,
-    "id": "evt-24016",
+    "id": "evt-2016-24016",
     "name": "Surf City Cyclocross Series #1",
     "status": "",
     "type": "Cyclocross",
@@ -8344,7 +8344,7 @@
   },
   {
     "_id": 24017,
-    "id": "evt-24017",
+    "id": "evt-2016-24017",
     "name": "Sacramento Cyclocross #3",
     "status": "",
     "type": "Cyclocross",
@@ -8369,7 +8369,7 @@
   },
   {
     "_id": 24018,
-    "id": "evt-24018",
+    "id": "evt-2016-24018",
     "name": "Lion Of Fairfax — SuperPro CX #2",
     "status": "",
     "type": "Cyclocross",
@@ -8394,7 +8394,7 @@
   },
   {
     "_id": 24019,
-    "id": "evt-24019",
+    "id": "evt-2016-24019",
     "name": "SuperPro CX #3",
     "status": "",
     "type": "Cyclocross",
@@ -8419,7 +8419,7 @@
   },
   {
     "_id": 24020,
-    "id": "evt-24020",
+    "id": "evt-2016-24020",
     "name": "Sacramento Cyclocross #4",
     "status": "",
     "type": "Cyclocross",
@@ -8444,7 +8444,7 @@
   },
   {
     "_id": 24021,
-    "id": "evt-24021",
+    "id": "evt-2016-24021",
     "name": "Surf City Cyclocross Series #2",
     "status": "",
     "type": "Cyclocross",
@@ -8469,7 +8469,7 @@
   },
   {
     "_id": 24022,
-    "id": "evt-24022",
+    "id": "evt-2016-24022",
     "name": "Sacramento Cyclocross #5",
     "status": "",
     "type": "Cyclocross",
@@ -8494,7 +8494,7 @@
   },
   {
     "_id": 24023,
-    "id": "evt-24023",
+    "id": "evt-2016-24023",
     "name": "BASP #3",
     "status": "",
     "type": "Cyclocross",
@@ -8519,7 +8519,7 @@
   },
   {
     "_id": 24024,
-    "id": "evt-24024",
+    "id": "evt-2016-24024",
     "name": "BASP #4",
     "status": "",
     "type": "Cyclocross",
@@ -8544,7 +8544,7 @@
   },
   {
     "_id": 24025,
-    "id": "evt-24025",
+    "id": "evt-2016-24025",
     "name": "Santa Rosa Cup Day #1",
     "status": "",
     "type": "Cyclocross",
@@ -8569,7 +8569,7 @@
   },
   {
     "_id": 24026,
-    "id": "evt-24026",
+    "id": "evt-2016-24026",
     "name": "Santa Rosa Cup Day #2",
     "status": "",
     "type": "Cyclocross",
@@ -8594,7 +8594,7 @@
   },
   {
     "_id": 24027,
-    "id": "evt-24027",
+    "id": "evt-2016-24027",
     "name": "Santa Rosa Cup Day #3",
     "status": "",
     "type": "Cyclocross",
@@ -8619,7 +8619,7 @@
   },
   {
     "_id": 24028,
-    "id": "evt-24028",
+    "id": "evt-2016-24028",
     "name": "BASP #5",
     "status": "",
     "type": "Cyclocross",
@@ -8644,7 +8644,7 @@
   },
   {
     "_id": 24029,
-    "id": "evt-24029",
+    "id": "evt-2016-24029",
     "name": "Surf City Cyclocross Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -8669,7 +8669,7 @@
   },
   {
     "_id": 24030,
-    "id": "evt-24030",
+    "id": "evt-2016-24030",
     "name": "Sacramento Cyclocross #6",
     "status": "",
     "type": "Cyclocross",
@@ -8694,7 +8694,7 @@
   },
   {
     "_id": 24031,
-    "id": "evt-24031",
+    "id": "evt-2016-24031",
     "name": "Sacramento Cyclocross #7",
     "status": "",
     "type": "Cyclocross",
@@ -8719,7 +8719,7 @@
   },
   {
     "_id": 24032,
-    "id": "evt-24032",
+    "id": "evt-2016-24032",
     "name": "BASP #6",
     "status": "",
     "type": "Cyclocross",
@@ -8744,7 +8744,7 @@
   },
   {
     "_id": 24033,
-    "id": "evt-24033",
+    "id": "evt-2016-24033",
     "name": "Sacramento Cyclocross #8",
     "status": "",
     "type": "Cyclocross",
@@ -8769,7 +8769,7 @@
   },
   {
     "_id": 24034,
-    "id": "evt-24034",
+    "id": "evt-2016-24034",
     "name": "NCNCA District/USA Cycling State Cyclocross Championship",
     "status": "",
     "type": "Cyclocross",
@@ -8794,7 +8794,7 @@
   },
   {
     "_id": 24035,
-    "id": "evt-24035",
+    "id": "evt-2016-24035",
     "name": "North Vs. South California State Showdown Day #1 — Bakersfield",
     "status": "",
     "type": "Cyclocross",
@@ -8819,7 +8819,7 @@
   },
   {
     "_id": 24036,
-    "id": "evt-24036",
+    "id": "evt-2016-24036",
     "name": "North Vs. South California State Showdown Day #2 — Bakersfield",
     "status": "",
     "type": "Cyclocross",
@@ -8844,7 +8844,7 @@
   },
   {
     "_id": 24037,
-    "id": "evt-24037",
+    "id": "evt-2016-24037",
     "name": "CCCX Cyclocross Series #7",
     "status": "",
     "type": "Cyclocross",
@@ -8869,7 +8869,7 @@
   },
   {
     "_id": 24039,
-    "id": "evt-24039",
+    "id": "evt-2016-24039",
     "name": "CCORC Hometown CX #1",
     "status": "",
     "type": "Cyclocross",
@@ -8894,7 +8894,7 @@
   },
   {
     "_id": 24040,
-    "id": "evt-24040",
+    "id": "evt-2016-24040",
     "name": "CCORC Hometown CX #2",
     "status": "",
     "type": "Cyclocross",
@@ -8919,7 +8919,7 @@
   },
   {
     "_id": 24041,
-    "id": "evt-24041",
+    "id": "evt-2016-24041",
     "name": "CCORC Hometown CX #3",
     "status": "",
     "type": "Cyclocross",
@@ -8944,7 +8944,7 @@
   },
   {
     "_id": 24048,
-    "id": "evt-24048",
+    "id": "evt-2016-24048",
     "name": "Sagebrush Cyclocross #1",
     "status": "",
     "type": "Cyclocross",
@@ -8974,7 +8974,7 @@
   },
   {
     "_id": 24049,
-    "id": "evt-24049",
+    "id": "evt-2016-24049",
     "name": "Sagebrush Cyclocross #2",
     "status": "",
     "type": "Cyclocross",
@@ -9004,7 +9004,7 @@
   },
   {
     "_id": 24050,
-    "id": "evt-24050",
+    "id": "evt-2016-24050",
     "name": "Sagebrush Cyclocross #3",
     "status": "",
     "type": "Cyclocross",
@@ -9034,7 +9034,7 @@
   },
   {
     "_id": 24051,
-    "id": "evt-24051",
+    "id": "evt-2016-24051",
     "name": "Sagebrush Cyclocross #4",
     "status": "",
     "type": "Cyclocross",
@@ -9064,7 +9064,7 @@
   },
   {
     "_id": 24052,
-    "id": "evt-24052",
+    "id": "evt-2016-24052",
     "name": "Sagebrush Cyclocross #5",
     "status": "",
     "type": "Cyclocross",
@@ -9094,7 +9094,7 @@
   },
   {
     "_id": 24054,
-    "id": "evt-24054",
+    "id": "evt-2016-24054",
     "name": "C510 Super Cat III",
     "status": "",
     "type": "Non-competitive",
@@ -9119,7 +9119,7 @@
   },
   {
     "_id": 24058,
-    "id": "evt-24058",
+    "id": "evt-2016-24058",
     "name": "Bikes for Kids Charity Ride & BBQ",
     "status": "",
     "type": "Non-competitive",

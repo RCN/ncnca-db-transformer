@@ -1,7 +1,7 @@
 [
   {
     "_id": 3309,
-    "id": "evt-3309",
+    "id": "evt-2013-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
     "type": "Road Race",
@@ -26,7 +26,7 @@
   },
   {
     "_id": 3309,
-    "id": "evt-3309",
+    "id": "evt-2013-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
     "type": "Criterium",
@@ -51,7 +51,7 @@
   },
   {
     "_id": 3309,
-    "id": "evt-3309",
+    "id": "evt-2013-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
     "type": "MTB",
@@ -76,7 +76,7 @@
   },
   {
     "_id": 3309,
-    "id": "evt-3309",
+    "id": "evt-2013-3309",
     "name": "Sea Otter Classic (April 20-21)",
     "status": "",
     "type": "Cyclocross",
@@ -101,7 +101,7 @@
   },
   {
     "_id": 4651,
-    "id": "evt-4651",
+    "id": "evt-2013-4651",
     "name": "CCCX — Central Coast Cyclocross Series Final",
     "status": "",
     "type": "Cyclocross",
@@ -131,7 +131,7 @@
   },
   {
     "_id": 4760,
-    "id": "evt-4760",
+    "id": "evt-2013-4760",
     "name": "NorCal vs. SoCal Cyclocross Championships",
     "status": "",
     "type": "Cyclocross",
@@ -156,7 +156,7 @@
   },
   {
     "_id": 4772,
-    "id": "evt-4772",
+    "id": "evt-2013-4772",
     "name": "San Bruno Mountain Hill Climb",
     "status": "",
     "type": "Time Trial",
@@ -186,7 +186,7 @@
   },
   {
     "_id": 4774,
-    "id": "evt-4774",
+    "id": "evt-2013-4774",
     "name": "Early Bird Criterium Training Series #1",
     "status": "",
     "type": "Clinics",
@@ -220,7 +220,7 @@
   },
   {
     "_id": 4775,
-    "id": "evt-4775",
+    "id": "evt-2013-4775",
     "name": "Early Bird Criterium Training Series #2",
     "status": "",
     "type": "Clinics",
@@ -254,7 +254,7 @@
   },
   {
     "_id": 4776,
-    "id": "evt-4776",
+    "id": "evt-2013-4776",
     "name": "Early Bird Criterium Training Series #3",
     "status": "",
     "type": "Clinics",
@@ -288,7 +288,7 @@
   },
   {
     "_id": 4777,
-    "id": "evt-4777",
+    "id": "evt-2013-4777",
     "name": "Early Bird Criterium Training Series #4",
     "status": "",
     "type": "Clinics",
@@ -322,7 +322,7 @@
   },
   {
     "_id": 4778,
-    "id": "evt-4778",
+    "id": "evt-2013-4778",
     "name": "Early Bird Criterium Training Series #5",
     "status": "",
     "type": "Clinics",
@@ -356,7 +356,7 @@
   },
   {
     "_id": 4780,
-    "id": "evt-4780",
+    "id": "evt-2013-4780",
     "name": "Clovis Criterium Training Series #2",
     "status": "",
     "type": "Clinics",
@@ -381,7 +381,7 @@
   },
   {
     "_id": 4781,
-    "id": "evt-4781",
+    "id": "evt-2013-4781",
     "name": "Clovis Criterium Training Series #3",
     "status": "",
     "type": "Clinics",
@@ -406,7 +406,7 @@
   },
   {
     "_id": 4782,
-    "id": "evt-4782",
+    "id": "evt-2013-4782",
     "name": "Clovis Criterium Training Series #1",
     "status": "",
     "type": "Clinics",
@@ -431,7 +431,7 @@
   },
   {
     "_id": 4784,
-    "id": "evt-4784",
+    "id": "evt-2013-4784",
     "name": "Early Bird Road Race",
     "status": "",
     "type": "Road Race",
@@ -465,7 +465,7 @@
   },
   {
     "_id": 4785,
-    "id": "evt-4785",
+    "id": "evt-2013-4785",
     "name": "Cal Aggie Criterium",
     "status": "",
     "type": "Criterium",
@@ -495,7 +495,7 @@
   },
   {
     "_id": 4798,
-    "id": "evt-4798",
+    "id": "evt-2013-4798",
     "name": "Knights Ferry Road Race",
     "status": "",
     "type": "Road Race",
@@ -525,7 +525,7 @@
   },
   {
     "_id": 4799,
-    "id": "evt-4799",
+    "id": "evt-2013-4799",
     "name": "Bicycle Plus Winter Criterium",
     "status": "",
     "type": "Criterium",
@@ -550,7 +550,7 @@
   },
   {
     "_id": 4800,
-    "id": "evt-4800",
+    "id": "evt-2013-4800",
     "name": "Cherry Pie Criterium",
     "status": "",
     "type": "Criterium",
@@ -575,7 +575,7 @@
   },
   {
     "_id": 4800,
-    "id": "evt-4800",
+    "id": "evt-2013-4800",
     "name": "Cherry Pie Criterium",
     "status": "",
     "type": "Criterium",
@@ -600,7 +600,7 @@
   },
   {
     "_id": 4801,
-    "id": "evt-4801",
+    "id": "evt-2013-4801",
     "name": "Cantua Creek Road Race",
     "status": "",
     "type": "Road Race",
@@ -634,7 +634,7 @@
   },
   {
     "_id": 4802,
-    "id": "evt-4802",
+    "id": "evt-2013-4802",
     "name": "Pine Flat Road Race",
     "status": "",
     "type": "Road Race",
@@ -668,7 +668,7 @@
   },
   {
     "_id": 4803,
-    "id": "evt-4803",
+    "id": "evt-2013-4803",
     "name": "Coppertown Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -698,7 +698,7 @@
   },
   {
     "_id": 4804,
-    "id": "evt-4804",
+    "id": "evt-2013-4804",
     "name": "Dinuba Criterium",
     "status": "",
     "type": "Criterium",
@@ -732,7 +732,7 @@
   },
   {
     "_id": 4805,
-    "id": "evt-4805",
+    "id": "evt-2013-4805",
     "name": "Snelling Road Race",
     "status": "",
     "type": "Road Race",
@@ -762,7 +762,7 @@
   },
   {
     "_id": 4806,
-    "id": "evt-4806",
+    "id": "evt-2013-4806",
     "name": "Original Merced Criterium",
     "status": "",
     "type": "Criterium",
@@ -792,7 +792,7 @@
   },
   {
     "_id": 4807,
-    "id": "evt-4807",
+    "id": "evt-2013-4807",
     "name": "Merco Cycling Classic Stage Race, MID Road Race",
     "status": "",
     "type": "Road Race",
@@ -822,7 +822,7 @@
   },
   {
     "_id": 4807,
-    "id": "evt-4807",
+    "id": "evt-2013-4807",
     "name": "Merco Cycling Classic Stage Race, MID Road Race",
     "status": "",
     "type": "Road Race",
@@ -852,7 +852,7 @@
   },
   {
     "_id": 4808,
-    "id": "evt-4808",
+    "id": "evt-2013-4808",
     "name": "Merco Classic: Merced Boosters Individual Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -882,7 +882,7 @@
   },
   {
     "_id": 4808,
-    "id": "evt-4808",
+    "id": "evt-2013-4808",
     "name": "Merco Classic: Merced Boosters Individual Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -912,7 +912,7 @@
   },
   {
     "_id": 4809,
-    "id": "evt-4809",
+    "id": "evt-2013-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -942,7 +942,7 @@
   },
   {
     "_id": 4809,
-    "id": "evt-4809",
+    "id": "evt-2013-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -972,7 +972,7 @@
   },
   {
     "_id": 4809,
-    "id": "evt-4809",
+    "id": "evt-2013-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -1002,7 +1002,7 @@
   },
   {
     "_id": 4809,
-    "id": "evt-4809",
+    "id": "evt-2013-4809",
     "name": "Merco Classic: McDonald's Downtown Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -1032,7 +1032,7 @@
   },
   {
     "_id": 4810,
-    "id": "evt-4810",
+    "id": "evt-2013-4810",
     "name": "Merco Classic: Almond Blossom Road Race",
     "status": "",
     "type": "Road Race",
@@ -1062,7 +1062,7 @@
   },
   {
     "_id": 4810,
-    "id": "evt-4810",
+    "id": "evt-2013-4810",
     "name": "Merco Classic: Almond Blossom Road Race",
     "status": "",
     "type": "Road Race",
@@ -1092,7 +1092,7 @@
   },
   {
     "_id": 4812,
-    "id": "evt-4812",
+    "id": "evt-2013-4812",
     "name": "Petaluma Cypress Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -1122,7 +1122,7 @@
   },
   {
     "_id": 4813,
-    "id": "evt-4813",
+    "id": "evt-2013-4813",
     "name": "Madera Stage Race (March 8-10)",
     "status": "",
     "type": "Road Race",
@@ -1152,7 +1152,7 @@
   },
   {
     "_id": 4815,
-    "id": "evt-4815",
+    "id": "evt-2013-4815",
     "name": "Red Kite Criterium Series #1 p/b The Winemaker's Pourhouse of Livermore",
     "status": "",
     "type": "Criterium",
@@ -1182,7 +1182,7 @@
   },
   {
     "_id": 4816,
-    "id": "evt-4816",
+    "id": "evt-2013-4816",
     "name": "Red Kite Criterium Series #2 p/b The Winemaker's Pourhouse of Livermore",
     "status": "",
     "type": "Criterium",
@@ -1212,7 +1212,7 @@
   },
   {
     "_id": 4817,
-    "id": "evt-4817",
+    "id": "evt-2013-4817",
     "name": "Red Kite Criterium Series #3",
     "status": "",
     "type": "Criterium",
@@ -1242,7 +1242,7 @@
   },
   {
     "_id": 4818,
-    "id": "evt-4818",
+    "id": "evt-2013-4818",
     "name": "Red Kite Criterium Series #4",
     "status": "",
     "type": "Criterium",
@@ -1272,7 +1272,7 @@
   },
   {
     "_id": 4819,
-    "id": "evt-4819",
+    "id": "evt-2013-4819",
     "name": "Red Kite Criterium Series #5",
     "status": "",
     "type": "Criterium",
@@ -1302,7 +1302,7 @@
   },
   {
     "_id": 4820,
-    "id": "evt-4820",
+    "id": "evt-2013-4820",
     "name": "Red Kite Criterium Series #6",
     "status": "",
     "type": "Criterium",
@@ -1332,7 +1332,7 @@
   },
   {
     "_id": 4822,
-    "id": "evt-4822",
+    "id": "evt-2013-4822",
     "name": "Clovis Criterium Series #1",
     "status": "",
     "type": "Criterium",
@@ -1357,7 +1357,7 @@
   },
   {
     "_id": 4823,
-    "id": "evt-4823",
+    "id": "evt-2013-4823",
     "name": "Clovis Criterium Series #2",
     "status": "",
     "type": "Criterium",
@@ -1382,7 +1382,7 @@
   },
   {
     "_id": 4824,
-    "id": "evt-4824",
+    "id": "evt-2013-4824",
     "name": "Clovis Criterium Series #3",
     "status": "",
     "type": "Criterium",
@@ -1412,7 +1412,7 @@
   },
   {
     "_id": 4825,
-    "id": "evt-4825",
+    "id": "evt-2013-4825",
     "name": "Clovis Criterium Series #4",
     "status": "",
     "type": "Criterium",
@@ -1442,7 +1442,7 @@
   },
   {
     "_id": 4826,
-    "id": "evt-4826",
+    "id": "evt-2013-4826",
     "name": "Land Park Criterium",
     "status": "",
     "type": "Criterium",
@@ -1472,7 +1472,7 @@
   },
   {
     "_id": 4827,
-    "id": "evt-4827",
+    "id": "evt-2013-4827",
     "name": "Bariani Road Race",
     "status": "",
     "type": "Road Race",
@@ -1502,7 +1502,7 @@
   },
   {
     "_id": 4828,
-    "id": "evt-4828",
+    "id": "evt-2013-4828",
     "name": "Ward's Ferry Road Race",
     "status": "",
     "type": "Road Race",
@@ -1532,7 +1532,7 @@
   },
   {
     "_id": 4829,
-    "id": "evt-4829",
+    "id": "evt-2013-4829",
     "name": "Regalado Road Race (Warnerville)",
     "status": "",
     "type": "Road Race",
@@ -1562,7 +1562,7 @@
   },
   {
     "_id": 4831,
-    "id": "evt-4831",
+    "id": "evt-2013-4831",
     "name": "Copperopolis Road Race",
     "status": "",
     "type": "Road Race",
@@ -1592,7 +1592,7 @@
   },
   {
     "_id": 4832,
-    "id": "evt-4832",
+    "id": "evt-2013-4832",
     "name": "Topsport Stage Race",
     "status": "",
     "type": "Road Race",
@@ -1622,7 +1622,7 @@
   },
   {
     "_id": 4833,
-    "id": "evt-4833",
+    "id": "evt-2013-4833",
     "name": "Lost Hills Road Race",
     "status": "",
     "type": "Road Race",
@@ -1652,7 +1652,7 @@
   },
   {
     "_id": 4834,
-    "id": "evt-4834",
+    "id": "evt-2013-4834",
     "name": "Hanford Criterium",
     "status": "",
     "type": "Criterium",
@@ -1682,7 +1682,7 @@
   },
   {
     "_id": 4835,
-    "id": "evt-4835",
+    "id": "evt-2013-4835",
     "name": "Auburn Old Town Crit",
     "status": "Canceled",
     "type": "Criterium",
@@ -1712,7 +1712,7 @@
   },
   {
     "_id": 4837,
-    "id": "evt-4837",
+    "id": "evt-2013-4837",
     "name": "Chico Stage Race",
     "status": "",
     "type": "Road Race",
@@ -1742,7 +1742,7 @@
   },
   {
     "_id": 4838,
-    "id": "evt-4838",
+    "id": "evt-2013-4838",
     "name": "Santa Cruz Classic Criterium XLIV",
     "status": "",
     "type": "Criterium",
@@ -1772,7 +1772,7 @@
   },
   {
     "_id": 4839,
-    "id": "evt-4839",
+    "id": "evt-2013-4839",
     "name": "Turlock Lake Road Race",
     "status": "",
     "type": "Road Race",
@@ -1797,7 +1797,7 @@
   },
   {
     "_id": 4840,
-    "id": "evt-4840",
+    "id": "evt-2013-4840",
     "name": "Apple Pie Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -1827,7 +1827,7 @@
   },
   {
     "_id": 4841,
-    "id": "evt-4841",
+    "id": "evt-2013-4841",
     "name": "Wente Vineyards Road Race",
     "status": "",
     "type": "Road Race",
@@ -1852,7 +1852,7 @@
   },
   {
     "_id": 4842,
-    "id": "evt-4842",
+    "id": "evt-2013-4842",
     "name": "Wente Vineyards Criterium",
     "status": "",
     "type": "Criterium",
@@ -1877,7 +1877,7 @@
   },
   {
     "_id": 4843,
-    "id": "evt-4843",
+    "id": "evt-2013-4843",
     "name": "Tempus Fugit Individual Time Trial (Spring) p/b Endless Cycles of Castro Valley",
     "status": "",
     "type": "Time Trial",
@@ -1907,7 +1907,7 @@
   },
   {
     "_id": 4845,
-    "id": "evt-4845",
+    "id": "evt-2013-4845",
     "name": "Town Center Criterium",
     "status": "",
     "type": "Criterium",
@@ -1937,7 +1937,7 @@
   },
   {
     "_id": 4846,
-    "id": "evt-4846",
+    "id": "evt-2013-4846",
     "name": "Off the Front Criterium",
     "status": "",
     "type": "Criterium",
@@ -1967,7 +1967,7 @@
   },
   {
     "_id": 4847,
-    "id": "evt-4847",
+    "id": "evt-2013-4847",
     "name": "Mike's Bikes 40th Cat's Hill Classic",
     "status": "",
     "type": "Criterium",
@@ -1997,7 +1997,7 @@
   },
   {
     "_id": 4848,
-    "id": "evt-4848",
+    "id": "evt-2013-4848",
     "name": "Golden State Race Series — Day 1: Criterium",
     "status": "",
     "type": "Criterium",
@@ -2027,7 +2027,7 @@
   },
   {
     "_id": 4849,
-    "id": "evt-4849",
+    "id": "evt-2013-4849",
     "name": "Golden State Race Series — Day 2: Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -2057,7 +2057,7 @@
   },
   {
     "_id": 4850,
-    "id": "evt-4850",
+    "id": "evt-2013-4850",
     "name": "Panoche Valley Road Race",
     "status": "",
     "type": "Road Race",
@@ -2087,7 +2087,7 @@
   },
   {
     "_id": 4851,
-    "id": "evt-4851",
+    "id": "evt-2013-4851",
     "name": "Salinas Valley Criterium",
     "status": "",
     "type": "Criterium",
@@ -2117,7 +2117,7 @@
   },
   {
     "_id": 4852,
-    "id": "evt-4852",
+    "id": "evt-2013-4852",
     "name": "Folsom Historic District Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2142,7 +2142,7 @@
   },
   {
     "_id": 4853,
-    "id": "evt-4853",
+    "id": "evt-2013-4853",
     "name": "Big Creek Criterium — DATE BEING MOVED FROM MAY 11 (NEW DATE TBA)",
     "status": "",
     "type": "Criterium",
@@ -2172,7 +2172,7 @@
   },
   {
     "_id": 4854,
-    "id": "evt-4854",
+    "id": "evt-2013-4854",
     "name": "Berkeley Hills Road Race",
     "status": "",
     "type": "Road Race",
@@ -2202,7 +2202,7 @@
   },
   {
     "_id": 4855,
-    "id": "evt-4855",
+    "id": "evt-2013-4855",
     "name": "Mariposa County Women's Stage Race (May 17-19)",
     "status": "",
     "type": "Road Race",
@@ -2236,7 +2236,7 @@
   },
   {
     "_id": 4856,
-    "id": "evt-4856",
+    "id": "evt-2013-4856",
     "name": "Modesto Harvest Moon Criterium",
     "status": "",
     "type": "Criterium",
@@ -2266,7 +2266,7 @@
   },
   {
     "_id": 4857,
-    "id": "evt-4857",
+    "id": "evt-2013-4857",
     "name": "Petaluma Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2296,7 +2296,7 @@
   },
   {
     "_id": 4858,
-    "id": "evt-4858",
+    "id": "evt-2013-4858",
     "name": "Modesto Road Race",
     "status": "",
     "type": "Road Race",
@@ -2326,7 +2326,7 @@
   },
   {
     "_id": 4859,
-    "id": "evt-4859",
+    "id": "evt-2013-4859",
     "name": "Folsom Classic Criterium",
     "status": "",
     "type": "Criterium",
@@ -2356,7 +2356,7 @@
   },
   {
     "_id": 4860,
-    "id": "evt-4860",
+    "id": "evt-2013-4860",
     "name": "Calaveras Road (Sunol) TT",
     "status": "",
     "type": "Time Trial",
@@ -2386,7 +2386,7 @@
   },
   {
     "_id": 4861,
-    "id": "evt-4861",
+    "id": "evt-2013-4861",
     "name": "Mount Hamilton Road Race — Elite & Masters Road Race NCNCA Championship Event",
     "status": "",
     "type": "Road Race",
@@ -2416,7 +2416,7 @@
   },
   {
     "_id": 4862,
-    "id": "evt-4862",
+    "id": "evt-2013-4862",
     "name": "Memorial Day Criterium",
     "status": "",
     "type": "Criterium",
@@ -2446,7 +2446,7 @@
   },
   {
     "_id": 4863,
-    "id": "evt-4863",
+    "id": "evt-2013-4863",
     "name": "Dunlap Time Trial — Team Time Trial & Junior Time Trial NCNCA Championship Event",
     "status": "",
     "type": "Time Trial",
@@ -2476,7 +2476,7 @@
   },
   {
     "_id": 4864,
-    "id": "evt-4864",
+    "id": "evt-2013-4864",
     "name": "ICCC Dash for Cash",
     "status": "",
     "type": "Criterium",
@@ -2506,7 +2506,7 @@
   },
   {
     "_id": 4865,
-    "id": "evt-4865",
+    "id": "evt-2013-4865",
     "name": "Pescadero Coastal Classic",
     "status": "",
     "type": "Road Race",
@@ -2536,7 +2536,7 @@
   },
   {
     "_id": 4866,
-    "id": "evt-4866",
+    "id": "evt-2013-4866",
     "name": "Niles Downtown Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -2561,7 +2561,7 @@
   },
   {
     "_id": 4869,
-    "id": "evt-4869",
+    "id": "evt-2013-4869",
     "name": "Selma Criterium",
     "status": "",
     "type": "Criterium",
@@ -2591,7 +2591,7 @@
   },
   {
     "_id": 4870,
-    "id": "evt-4870",
+    "id": "evt-2013-4870",
     "name": "Victory Velo Racing Auburn Omnium — Circuit Race (Day One)",
     "status": "",
     "type": "Criterium",
@@ -2621,7 +2621,7 @@
   },
   {
     "_id": 4872,
-    "id": "evt-4872",
+    "id": "evt-2013-4872",
     "name": "Victory Velo Racing Auburn Omnium — Criterium (Day Two)",
     "status": "",
     "type": "Criterium",
@@ -2651,7 +2651,7 @@
   },
   {
     "_id": 4874,
-    "id": "evt-4874",
+    "id": "evt-2013-4874",
     "name": "Tri-Valley Criterium Classic p/b Pacific Service Credit Union",
     "status": "",
     "type": "Criterium",
@@ -2681,7 +2681,7 @@
   },
   {
     "_id": 4875,
-    "id": "evt-4875",
+    "id": "evt-2013-4875",
     "name": "Nevada City Classic",
     "status": "",
     "type": "Criterium",
@@ -2706,7 +2706,7 @@
   },
   {
     "_id": 4876,
-    "id": "evt-4876",
+    "id": "evt-2013-4876",
     "name": "Mt. Diablo Hill Climb TT",
     "status": "",
     "type": "Time Trial",
@@ -2736,7 +2736,7 @@
   },
   {
     "_id": 4877,
-    "id": "evt-4877",
+    "id": "evt-2013-4877",
     "name": "Burlingame Criterium",
     "status": "",
     "type": "Criterium",
@@ -2766,7 +2766,7 @@
   },
   {
     "_id": 4878,
-    "id": "evt-4878",
+    "id": "evt-2013-4878",
     "name": "Lodi Cyclefest Criterium",
     "status": "",
     "type": "Criterium",
@@ -2796,7 +2796,7 @@
   },
   {
     "_id": 4879,
-    "id": "evt-4879",
+    "id": "evt-2013-4879",
     "name": "Fourth of July Criterium",
     "status": "",
     "type": "Criterium",
@@ -2826,7 +2826,7 @@
   },
   {
     "_id": 4880,
-    "id": "evt-4880",
+    "id": "evt-2013-4880",
     "name": "Leesville Gap Road Race",
     "status": "",
     "type": "Road Race",
@@ -2856,7 +2856,7 @@
   },
   {
     "_id": 4881,
-    "id": "evt-4881",
+    "id": "evt-2013-4881",
     "name": "Watsonville Criterium",
     "status": "",
     "type": "Criterium",
@@ -2886,7 +2886,7 @@
   },
   {
     "_id": 4882,
-    "id": "evt-4882",
+    "id": "evt-2013-4882",
     "name": "Foothill College Circuit Race: \"The Learning Curve\"",
     "status": "",
     "type": "Criterium",
@@ -2916,7 +2916,7 @@
   },
   {
     "_id": 4883,
-    "id": "evt-4883",
+    "id": "evt-2013-4883",
     "name": "Colavita Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -2946,7 +2946,7 @@
   },
   {
     "_id": 4884,
-    "id": "evt-4884",
+    "id": "evt-2013-4884",
     "name": "Red Kite Crossfire Hurricane Hill Climb Challenge",
     "status": "",
     "type": "Road Race",
@@ -2976,7 +2976,7 @@
   },
   {
     "_id": 4886,
-    "id": "evt-4886",
+    "id": "evt-2013-4886",
     "name": "Berkeley Bicycle Club Criterium",
     "status": "",
     "type": "Criterium",
@@ -3006,7 +3006,7 @@
   },
   {
     "_id": 4887,
-    "id": "evt-4887",
+    "id": "evt-2013-4887",
     "name": "San Rafael Twilight Criterium",
     "status": "",
     "type": "Criterium",
@@ -3036,7 +3036,7 @@
   },
   {
     "_id": 4888,
-    "id": "evt-4888",
+    "id": "evt-2013-4888",
     "name": "Tour de Nez — Criterium: All Categories",
     "status": "",
     "type": "Criterium",
@@ -3066,7 +3066,7 @@
   },
   {
     "_id": 4889,
-    "id": "evt-4889",
+    "id": "evt-2013-4889",
     "name": "Tour de Nez — TT: Handcycle Only",
     "status": "",
     "type": "Criterium",
@@ -3096,7 +3096,7 @@
   },
   {
     "_id": 4890,
-    "id": "evt-4890",
+    "id": "evt-2013-4890",
     "name": "Menlo Park Grand Prix — Women's Elite & Women's Masters Criterium NCNCA Championship Event",
     "status": "",
     "type": "Criterium",
@@ -3126,7 +3126,7 @@
   },
   {
     "_id": 4891,
-    "id": "evt-4891",
+    "id": "evt-2013-4891",
     "name": "8th Warnerville Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -3156,7 +3156,7 @@
   },
   {
     "_id": 4892,
-    "id": "evt-4892",
+    "id": "evt-2013-4892",
     "name": "Strawberry Crown Criterium",
     "status": "Canceled",
     "type": "Criterium",
@@ -3186,7 +3186,7 @@
   },
   {
     "_id": 4894,
-    "id": "evt-4894",
+    "id": "evt-2013-4894",
     "name": "Patterson Pass Road Race",
     "status": "",
     "type": "Road Race",
@@ -3216,7 +3216,7 @@
   },
   {
     "_id": 4895,
-    "id": "evt-4895",
+    "id": "evt-2013-4895",
     "name": "Dunnigan Hills Road Race — Junior Road Race NCNCA Championship Event",
     "status": "",
     "type": "Road Race",
@@ -3250,7 +3250,7 @@
   },
   {
     "_id": 4896,
-    "id": "evt-4896",
+    "id": "evt-2013-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
     "type": "Time Trial",
@@ -3280,7 +3280,7 @@
   },
   {
     "_id": 4896,
-    "id": "evt-4896",
+    "id": "evt-2013-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
     "type": "Road Race",
@@ -3310,7 +3310,7 @@
   },
   {
     "_id": 4896,
-    "id": "evt-4896",
+    "id": "evt-2013-4896",
     "name": "Little City Stage Race (July 20-21)",
     "status": "",
     "type": "Criterium",
@@ -3340,7 +3340,7 @@
   },
   {
     "_id": 4897,
-    "id": "evt-4897",
+    "id": "evt-2013-4897",
     "name": "Suisun Harbor Criterium",
     "status": "",
     "type": "Criterium",
@@ -3370,7 +3370,7 @@
   },
   {
     "_id": 4898,
-    "id": "evt-4898",
+    "id": "evt-2013-4898",
     "name": "San Ardo Road Race",
     "status": "",
     "type": "Road Race",
@@ -3400,7 +3400,7 @@
   },
   {
     "_id": 4899,
-    "id": "evt-4899",
+    "id": "evt-2013-4899",
     "name": "Coppertown Circuit Race #2",
     "status": "Canceled",
     "type": "Criterium",
@@ -3430,7 +3430,7 @@
   },
   {
     "_id": 4900,
-    "id": "evt-4900",
+    "id": "evt-2013-4900",
     "name": "2Wheel-Early Bird Women’s and Men's Crit.",
     "status": "",
     "type": "Criterium",
@@ -3460,7 +3460,7 @@
   },
   {
     "_id": 4901,
-    "id": "evt-4901",
+    "id": "evt-2013-4901",
     "name": "University Road Race",
     "status": "Canceled",
     "type": "Road Race",
@@ -3490,7 +3490,7 @@
   },
   {
     "_id": 4902,
-    "id": "evt-4902",
+    "id": "evt-2013-4902",
     "name": "Winters Road Race",
     "status": "",
     "type": "Road Race",
@@ -3528,7 +3528,7 @@
   },
   {
     "_id": 4903,
-    "id": "evt-4903",
+    "id": "evt-2013-4903",
     "name": "Vacaville Gran Prix",
     "status": "",
     "type": "Criterium",
@@ -3570,7 +3570,7 @@
   },
   {
     "_id": 4904,
-    "id": "evt-4904",
+    "id": "evt-2013-4904",
     "name": "Tempus Fugit ITT (Summer)",
     "status": "",
     "type": "Time Trial",
@@ -3600,7 +3600,7 @@
   },
   {
     "_id": 4905,
-    "id": "evt-4905",
+    "id": "evt-2013-4905",
     "name": "Challenge Challenge Road Race",
     "status": "",
     "type": "Road Race",
@@ -3634,7 +3634,7 @@
   },
   {
     "_id": 4906,
-    "id": "evt-4906",
+    "id": "evt-2013-4906",
     "name": "Esparto Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -3668,7 +3668,7 @@
   },
   {
     "_id": 4907,
-    "id": "evt-4907",
+    "id": "evt-2013-4907",
     "name": "Metromint Giro di San Francisco — Men's Elite Criterium NCNCA Championship Event",
     "status": "",
     "type": "Criterium",
@@ -3706,7 +3706,7 @@
   },
   {
     "_id": 4911,
-    "id": "evt-4911",
+    "id": "evt-2013-4911",
     "name": "Fremont Peak Hill Climb — NCNCA Hill Climb Championship Event",
     "status": "",
     "type": "Road Race",
@@ -3736,7 +3736,7 @@
   },
   {
     "_id": 4912,
-    "id": "evt-4912",
+    "id": "evt-2013-4912",
     "name": "51st Mt. Tamalpais Hill Climb p/b Joseph Mendes Real Estate & Loan Services",
     "status": "",
     "type": "Road Race",
@@ -3766,7 +3766,7 @@
   },
   {
     "_id": 4913,
-    "id": "evt-4913",
+    "id": "evt-2013-4913",
     "name": "The Cushman & Wakefield Criterium of Concord Fueled by CYTOMAX and Muscle Milk",
     "status": "Canceled",
     "type": "Criterium",
@@ -3791,7 +3791,7 @@
   },
   {
     "_id": 4914,
-    "id": "evt-4914",
+    "id": "evt-2013-4914",
     "name": "9th Annual Oakland Grand Prix",
     "status": "",
     "type": "Criterium",
@@ -3825,7 +3825,7 @@
   },
   {
     "_id": 4915,
-    "id": "evt-4915",
+    "id": "evt-2013-4915",
     "name": "Henleyville Road Race",
     "status": "",
     "type": "Road Race",
@@ -3859,7 +3859,7 @@
   },
   {
     "_id": 4939,
-    "id": "evt-4939",
+    "id": "evt-2013-4939",
     "name": "Peak Season Cyclocross — Harbor High School",
     "status": "",
     "type": "Cyclocross",
@@ -3884,7 +3884,7 @@
   },
   {
     "_id": 5007,
-    "id": "evt-5007",
+    "id": "evt-2013-5007",
     "name": "Death Valley Stage Race — Spring",
     "status": "",
     "type": "Road Race",
@@ -3914,7 +3914,7 @@
   },
   {
     "_id": 5008,
-    "id": "evt-5008",
+    "id": "evt-2013-5008",
     "name": "Death Valley Stage Race — Fall",
     "status": "",
     "type": "Road Race",
@@ -3944,7 +3944,7 @@
   },
   {
     "_id": 5009,
-    "id": "evt-5009",
+    "id": "evt-2013-5009",
     "name": "Mount Whitney Stage Race",
     "status": "",
     "type": "Road Race",
@@ -3974,7 +3974,7 @@
   },
   {
     "_id": 5010,
-    "id": "evt-5010",
+    "id": "evt-2013-5010",
     "name": "Kearney Park Criterium",
     "status": "",
     "type": "Criterium",
@@ -4004,7 +4004,7 @@
   },
   {
     "_id": 5011,
-    "id": "evt-5011",
+    "id": "evt-2013-5011",
     "name": "Hensley Lake Road Race",
     "status": "",
     "type": "Road Race",
@@ -4034,7 +4034,7 @@
   },
   {
     "_id": 5016,
-    "id": "evt-5016",
+    "id": "evt-2013-5016",
     "name": "Berkeley Streets Criterium",
     "status": "",
     "type": "Criterium",
@@ -4064,7 +4064,7 @@
   },
   {
     "_id": 5028,
-    "id": "evt-5028",
+    "id": "evt-2013-5028",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4094,7 +4094,7 @@
   },
   {
     "_id": 5029,
-    "id": "evt-5029",
+    "id": "evt-2013-5029",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4124,7 +4124,7 @@
   },
   {
     "_id": 5030,
-    "id": "evt-5030",
+    "id": "evt-2013-5030",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4154,7 +4154,7 @@
   },
   {
     "_id": 5031,
-    "id": "evt-5031",
+    "id": "evt-2013-5031",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4184,7 +4184,7 @@
   },
   {
     "_id": 5032,
-    "id": "evt-5032",
+    "id": "evt-2013-5032",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4214,7 +4214,7 @@
   },
   {
     "_id": 5033,
-    "id": "evt-5033",
+    "id": "evt-2013-5033",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4244,7 +4244,7 @@
   },
   {
     "_id": 5034,
-    "id": "evt-5034",
+    "id": "evt-2013-5034",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4274,7 +4274,7 @@
   },
   {
     "_id": 5035,
-    "id": "evt-5035",
+    "id": "evt-2013-5035",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4304,7 +4304,7 @@
   },
   {
     "_id": 5036,
-    "id": "evt-5036",
+    "id": "evt-2013-5036",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4334,7 +4334,7 @@
   },
   {
     "_id": 5037,
-    "id": "evt-5037",
+    "id": "evt-2013-5037",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4364,7 +4364,7 @@
   },
   {
     "_id": 5038,
-    "id": "evt-5038",
+    "id": "evt-2013-5038",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4394,7 +4394,7 @@
   },
   {
     "_id": 5039,
-    "id": "evt-5039",
+    "id": "evt-2013-5039",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4424,7 +4424,7 @@
   },
   {
     "_id": 5040,
-    "id": "evt-5040",
+    "id": "evt-2013-5040",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4454,7 +4454,7 @@
   },
   {
     "_id": 5041,
-    "id": "evt-5041",
+    "id": "evt-2013-5041",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4484,7 +4484,7 @@
   },
   {
     "_id": 5042,
-    "id": "evt-5042",
+    "id": "evt-2013-5042",
     "name": "Hellyer Velodrome Friday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4514,7 +4514,7 @@
   },
   {
     "_id": 5043,
-    "id": "evt-5043",
+    "id": "evt-2013-5043",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4544,7 +4544,7 @@
   },
   {
     "_id": 5044,
-    "id": "evt-5044",
+    "id": "evt-2013-5044",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4574,7 +4574,7 @@
   },
   {
     "_id": 5045,
-    "id": "evt-5045",
+    "id": "evt-2013-5045",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4604,7 +4604,7 @@
   },
   {
     "_id": 5046,
-    "id": "evt-5046",
+    "id": "evt-2013-5046",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4634,7 +4634,7 @@
   },
   {
     "_id": 5047,
-    "id": "evt-5047",
+    "id": "evt-2013-5047",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4664,7 +4664,7 @@
   },
   {
     "_id": 5048,
-    "id": "evt-5048",
+    "id": "evt-2013-5048",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4694,7 +4694,7 @@
   },
   {
     "_id": 5049,
-    "id": "evt-5049",
+    "id": "evt-2013-5049",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4724,7 +4724,7 @@
   },
   {
     "_id": 5050,
-    "id": "evt-5050",
+    "id": "evt-2013-5050",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4754,7 +4754,7 @@
   },
   {
     "_id": 5051,
-    "id": "evt-5051",
+    "id": "evt-2013-5051",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4784,7 +4784,7 @@
   },
   {
     "_id": 5052,
-    "id": "evt-5052",
+    "id": "evt-2013-5052",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4814,7 +4814,7 @@
   },
   {
     "_id": 5053,
-    "id": "evt-5053",
+    "id": "evt-2013-5053",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4844,7 +4844,7 @@
   },
   {
     "_id": 5054,
-    "id": "evt-5054",
+    "id": "evt-2013-5054",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4874,7 +4874,7 @@
   },
   {
     "_id": 5055,
-    "id": "evt-5055",
+    "id": "evt-2013-5055",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4904,7 +4904,7 @@
   },
   {
     "_id": 5056,
-    "id": "evt-5056",
+    "id": "evt-2013-5056",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4934,7 +4934,7 @@
   },
   {
     "_id": 5057,
-    "id": "evt-5057",
+    "id": "evt-2013-5057",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4964,7 +4964,7 @@
   },
   {
     "_id": 5058,
-    "id": "evt-5058",
+    "id": "evt-2013-5058",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -4994,7 +4994,7 @@
   },
   {
     "_id": 5059,
-    "id": "evt-5059",
+    "id": "evt-2013-5059",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5024,7 +5024,7 @@
   },
   {
     "_id": 5060,
-    "id": "evt-5060",
+    "id": "evt-2013-5060",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5054,7 +5054,7 @@
   },
   {
     "_id": 5061,
-    "id": "evt-5061",
+    "id": "evt-2013-5061",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5084,7 +5084,7 @@
   },
   {
     "_id": 5062,
-    "id": "evt-5062",
+    "id": "evt-2013-5062",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5114,7 +5114,7 @@
   },
   {
     "_id": 5063,
-    "id": "evt-5063",
+    "id": "evt-2013-5063",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5144,7 +5144,7 @@
   },
   {
     "_id": 5064,
-    "id": "evt-5064",
+    "id": "evt-2013-5064",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5174,7 +5174,7 @@
   },
   {
     "_id": 5065,
-    "id": "evt-5065",
+    "id": "evt-2013-5065",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5204,7 +5204,7 @@
   },
   {
     "_id": 5066,
-    "id": "evt-5066",
+    "id": "evt-2013-5066",
     "name": "Hellyer Velodrome Wednesday Night Racing Series",
     "status": "",
     "type": "Track",
@@ -5234,7 +5234,7 @@
   },
   {
     "_id": 5070,
-    "id": "evt-5070",
+    "id": "evt-2013-5070",
     "name": "Salinas Valley Criterium (UCSC Slug Fest)",
     "status": "",
     "type": "Criterium",
@@ -5259,7 +5259,7 @@
   },
   {
     "_id": 5071,
-    "id": "evt-5071",
+    "id": "evt-2013-5071",
     "name": "Gran Prix Fast Freddy Markham",
     "status": "",
     "type": "Track",
@@ -5289,7 +5289,7 @@
   },
   {
     "_id": 5093,
-    "id": "evt-5093",
+    "id": "evt-2013-5093",
     "name": "Ed Steffani Memorial San Jose Gran Prix",
     "status": "",
     "type": "Track",
@@ -5319,7 +5319,7 @@
   },
   {
     "_id": 5096,
-    "id": "evt-5096",
+    "id": "evt-2013-5096",
     "name": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "status": "",
     "type": "MTB",
@@ -5349,7 +5349,7 @@
   },
   {
     "_id": 5096,
-    "id": "evt-5096",
+    "id": "evt-2013-5096",
     "name": "Rockhopper Classic (Super D & XC) Super D State Championship & Junior XC State Championship",
     "status": "",
     "type": "MTB",
@@ -5379,7 +5379,7 @@
   },
   {
     "_id": 5101,
-    "id": "evt-5101",
+    "id": "evt-2013-5101",
     "name": "Sattley Time Trail– Elite and Masters NCNCA Individual Time Trial Championship Event",
     "status": "",
     "type": "Time Trial",
@@ -5409,7 +5409,7 @@
   },
   {
     "_id": 5102,
-    "id": "evt-5102",
+    "id": "evt-2013-5102",
     "name": "Red Kite — Masters Men Criterium NCNCA Championship Event",
     "status": "",
     "type": "Criterium",
@@ -5439,7 +5439,7 @@
   },
   {
     "_id": 5104,
-    "id": "evt-5104",
+    "id": "evt-2013-5104",
     "name": "Humboldt State Univ. — Road Race",
     "status": "",
     "type": "Road Race",
@@ -5469,7 +5469,7 @@
   },
   {
     "_id": 5105,
-    "id": "evt-5105",
+    "id": "evt-2013-5105",
     "name": "Humboldt State Univ. — Criterium",
     "status": "",
     "type": "Criterium",
@@ -5499,7 +5499,7 @@
   },
   {
     "_id": 5106,
-    "id": "evt-5106",
+    "id": "evt-2013-5106",
     "name": "Humboldt State Univ. — Time Trial",
     "status": "",
     "type": "Time Trial",
@@ -5529,7 +5529,7 @@
   },
   {
     "_id": 5107,
-    "id": "evt-5107",
+    "id": "evt-2013-5107",
     "name": "Hellyer Velodrome Challenge (June 28 & 29)",
     "status": "",
     "type": "Track",
@@ -5559,7 +5559,7 @@
   },
   {
     "_id": 5115,
-    "id": "evt-5115",
+    "id": "evt-2013-5115",
     "name": "Ride2Recovery Honor Ride",
     "status": "",
     "type": "Road Race",
@@ -5589,7 +5589,7 @@
   },
   {
     "_id": 5120,
-    "id": "evt-5120",
+    "id": "evt-2013-5120",
     "name": "Nevada City Dirt Classic (XC) Series #1",
     "status": "",
     "type": "MTB",
@@ -5619,7 +5619,7 @@
   },
   {
     "_id": 5126,
-    "id": "evt-5126",
+    "id": "evt-2013-5126",
     "name": "Salinas Downtown Criterium",
     "status": "",
     "type": "Criterium",
@@ -5649,7 +5649,7 @@
   },
   {
     "_id": 5161,
-    "id": "evt-5161",
+    "id": "evt-2013-5161",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -5674,7 +5674,7 @@
   },
   {
     "_id": 5163,
-    "id": "evt-5163",
+    "id": "evt-2013-5163",
     "name": "Boggs Enduro",
     "status": "",
     "type": "MTB",
@@ -5699,7 +5699,7 @@
   },
   {
     "_id": 5165,
-    "id": "evt-5165",
+    "id": "evt-2013-5165",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -5724,7 +5724,7 @@
   },
   {
     "_id": 5166,
-    "id": "evt-5166",
+    "id": "evt-2013-5166",
     "name": "Summit Shorty",
     "status": "",
     "type": "MTB",
@@ -5749,7 +5749,7 @@
   },
   {
     "_id": 5167,
-    "id": "evt-5167",
+    "id": "evt-2013-5167",
     "name": "Summit Shorty",
     "status": "",
     "type": "MTB",
@@ -5774,7 +5774,7 @@
   },
   {
     "_id": 5168,
-    "id": "evt-5168",
+    "id": "evt-2013-5168",
     "name": "Race Behind Bars (XC)",
     "status": "",
     "type": "MTB",
@@ -5799,7 +5799,7 @@
   },
   {
     "_id": 5169,
-    "id": "evt-5169",
+    "id": "evt-2013-5169",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -5824,7 +5824,7 @@
   },
   {
     "_id": 5170,
-    "id": "evt-5170",
+    "id": "evt-2013-5170",
     "name": "Summit Shorty",
     "status": "",
     "type": "MTB",
@@ -5849,7 +5849,7 @@
   },
   {
     "_id": 5171,
-    "id": "evt-5171",
+    "id": "evt-2013-5171",
     "name": "Hammerstein 8 & 24 Hour Endurance Race",
     "status": "",
     "type": "MTB",
@@ -5874,7 +5874,7 @@
   },
   {
     "_id": 5172,
-    "id": "evt-5172",
+    "id": "evt-2013-5172",
     "name": "Summit Shorty",
     "status": "",
     "type": "MTB",
@@ -5899,7 +5899,7 @@
   },
   {
     "_id": 5173,
-    "id": "evt-5173",
+    "id": "evt-2013-5173",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -5924,7 +5924,7 @@
   },
   {
     "_id": 5174,
-    "id": "evt-5174",
+    "id": "evt-2013-5174",
     "name": "Summit Shorty",
     "status": "",
     "type": "MTB",
@@ -5949,7 +5949,7 @@
   },
   {
     "_id": 5175,
-    "id": "evt-5175",
+    "id": "evt-2013-5175",
     "name": "SoNoMas (XC)",
     "status": "",
     "type": "MTB",
@@ -5974,7 +5974,7 @@
   },
   {
     "_id": 5176,
-    "id": "evt-5176",
+    "id": "evt-2013-5176",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -5999,7 +5999,7 @@
   },
   {
     "_id": 5177,
-    "id": "evt-5177",
+    "id": "evt-2013-5177",
     "name": "Tamarancho Dirt Classic",
     "status": "",
     "type": "MTB",
@@ -6024,7 +6024,7 @@
   },
   {
     "_id": 5178,
-    "id": "evt-5178",
+    "id": "evt-2013-5178",
     "name": "Raid on Sherwood Peak",
     "status": "",
     "type": "MTB",
@@ -6049,7 +6049,7 @@
   },
   {
     "_id": 5179,
-    "id": "evt-5179",
+    "id": "evt-2013-5179",
     "name": "Prairie City Race Series (XC)",
     "status": "",
     "type": "MTB",
@@ -6074,7 +6074,7 @@
   },
   {
     "_id": 5220,
-    "id": "evt-5220",
+    "id": "evt-2013-5220",
     "name": "China Peak Sierra 100k",
     "status": "",
     "type": "MTB",
@@ -6104,7 +6104,7 @@
   },
   {
     "_id": 5221,
-    "id": "evt-5221",
+    "id": "evt-2013-5221",
     "name": "KALI Spring Enduro",
     "status": "",
     "type": "MTB",
@@ -6129,7 +6129,7 @@
   },
   {
     "_id": 5222,
-    "id": "evt-5222",
+    "id": "evt-2013-5222",
     "name": "Lake Sonoma Series #1",
     "status": "",
     "type": "MTB",
@@ -6159,7 +6159,7 @@
   },
   {
     "_id": 5223,
-    "id": "evt-5223",
+    "id": "evt-2013-5223",
     "name": "Prairie City Race Series",
     "status": "",
     "type": "MTB",
@@ -6184,7 +6184,7 @@
   },
   {
     "_id": 5224,
-    "id": "evt-5224",
+    "id": "evt-2013-5224",
     "name": "Prairie City Race Series",
     "status": "",
     "type": "MTB",
@@ -6209,7 +6209,7 @@
   },
   {
     "_id": 5226,
-    "id": "evt-5226",
+    "id": "evt-2013-5226",
     "name": "Coolest 8 & 24 hour Race Against Cancer",
     "status": "",
     "type": "MTB",
@@ -6234,7 +6234,7 @@
   },
   {
     "_id": 5228,
-    "id": "evt-5228",
+    "id": "evt-2013-5228",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
     "type": "MTB",
@@ -6259,7 +6259,7 @@
   },
   {
     "_id": 5229,
-    "id": "evt-5229",
+    "id": "evt-2013-5229",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
     "type": "MTB",
@@ -6284,7 +6284,7 @@
   },
   {
     "_id": 5230,
-    "id": "evt-5230",
+    "id": "evt-2013-5230",
     "name": "Lake Sonoma Series No. 2",
     "status": "",
     "type": "MTB",
@@ -6314,7 +6314,7 @@
   },
   {
     "_id": 5232,
-    "id": "evt-5232",
+    "id": "evt-2013-5232",
     "name": "CCCX MTB XC SERIES",
     "status": "",
     "type": "MTB",
@@ -6344,7 +6344,7 @@
   },
   {
     "_id": 5233,
-    "id": "evt-5233",
+    "id": "evt-2013-5233",
     "name": "Lake Sonoma Series No. 3",
     "status": "",
     "type": "MTB",
@@ -6374,7 +6374,7 @@
   },
   {
     "_id": 5234,
-    "id": "evt-5234",
+    "id": "evt-2013-5234",
     "name": "Nevada City Dirt Classic XC Series",
     "status": "",
     "type": "MTB",
@@ -6399,7 +6399,7 @@
   },
   {
     "_id": 5235,
-    "id": "evt-5235",
+    "id": "evt-2013-5235",
     "name": "Downieville Classic",
     "status": "",
     "type": "MTB",
@@ -6424,7 +6424,7 @@
   },
   {
     "_id": 5236,
-    "id": "evt-5236",
+    "id": "evt-2013-5236",
     "name": "CCCX MTB XC SERIES",
     "status": "",
     "type": "MTB",
@@ -6454,7 +6454,7 @@
   },
   {
     "_id": 5237,
-    "id": "evt-5237",
+    "id": "evt-2013-5237",
     "name": "6/12 Hours of Humboldt",
     "status": "",
     "type": "MTB",
@@ -6479,7 +6479,7 @@
   },
   {
     "_id": 5238,
-    "id": "evt-5238",
+    "id": "evt-2013-5238",
     "name": "Annadel XC",
     "status": "",
     "type": "MTB",
@@ -6504,7 +6504,7 @@
   },
   {
     "_id": 5240,
-    "id": "evt-5240",
+    "id": "evt-2013-5240",
     "name": "Murphy Mack's Mendocino MTB Madness",
     "status": "",
     "type": "MTB",
@@ -6529,7 +6529,7 @@
   },
   {
     "_id": 5241,
-    "id": "evt-5241",
+    "id": "evt-2013-5241",
     "name": "CCCX MTB XC SERIES",
     "status": "",
     "type": "MTB",
@@ -6559,7 +6559,7 @@
   },
   {
     "_id": 5242,
-    "id": "evt-5242",
+    "id": "evt-2013-5242",
     "name": "Tahoe Sierra 100 & 59",
     "status": "",
     "type": "MTB",
@@ -6584,7 +6584,7 @@
   },
   {
     "_id": 5243,
-    "id": "evt-5243",
+    "id": "evt-2013-5243",
     "name": "24 hours of Whiskeytown / Whiskeytown 9-5",
     "status": "",
     "type": "MTB",
@@ -6609,7 +6609,7 @@
   },
   {
     "_id": 5244,
-    "id": "evt-5244",
+    "id": "evt-2013-5244",
     "name": "TBF MTB 50 Miler",
     "status": "",
     "type": "MTB",
@@ -6634,7 +6634,7 @@
   },
   {
     "_id": 5245,
-    "id": "evt-5245",
+    "id": "evt-2013-5245",
     "name": "TBF MTB 50 Miler",
     "status": "",
     "type": "MTB",
@@ -6659,7 +6659,7 @@
   },
   {
     "_id": 5246,
-    "id": "evt-5246",
+    "id": "evt-2013-5246",
     "name": "Burbank Memorial Omnium",
     "status": "",
     "type": "Track",
@@ -6689,7 +6689,7 @@
   },
   {
     "_id": 5247,
-    "id": "evt-5247",
+    "id": "evt-2013-5247",
     "name": "Wenzel Coaching — Bay Area Beginning MTB Clinic #2",
     "status": "",
     "type": "Clinics",
@@ -6719,7 +6719,7 @@
   },
   {
     "_id": 5249,
-    "id": "evt-5249",
+    "id": "evt-2013-5249",
     "name": "NCNCA Junior State Track Championship",
     "status": "",
     "type": "Track",
@@ -6749,7 +6749,7 @@
   },
   {
     "_id": 5254,
-    "id": "evt-5254",
+    "id": "evt-2013-5254",
     "name": "CCCX MTB SERIES — at FT. ORD",
     "status": "",
     "type": "MTB",
@@ -6779,7 +6779,7 @@
   },
   {
     "_id": 5295,
-    "id": "evt-5295",
+    "id": "evt-2013-5295",
     "name": "Central Coast Road Seires — Seaside Bay View Circuit Race",
     "status": "",
     "type": "Criterium",
@@ -6809,7 +6809,7 @@
   },
   {
     "_id": 5296,
-    "id": "evt-5296",
+    "id": "evt-2013-5296",
     "name": "Central Coast Road Seires — Seaside Bay View Circuit Race",
     "status": "Canceled",
     "type": "Criterium",
@@ -6839,7 +6839,7 @@
   },
   {
     "_id": 5297,
-    "id": "evt-5297",
+    "id": "evt-2013-5297",
     "name": "Everest Challenge",
     "status": "",
     "type": "Road Race",
@@ -6869,7 +6869,7 @@
   },
   {
     "_id": 5300,
-    "id": "evt-5300",
+    "id": "evt-2013-5300",
     "name": "Right Start Beinnger's Racing Clinic",
     "status": "",
     "type": "Clinics",
@@ -6899,7 +6899,7 @@
   },
   {
     "_id": 5306,
-    "id": "evt-5306",
+    "id": "evt-2013-5306",
     "name": "Howell Mountain Challenge (XC)",
     "status": "",
     "type": "MTB",
@@ -6924,7 +6924,7 @@
   },
   {
     "_id": 5307,
-    "id": "evt-5307",
+    "id": "evt-2013-5307",
     "name": "Tuesday Night Twilight #11",
     "status": "",
     "type": "Criterium",
@@ -6954,7 +6954,7 @@
   },
   {
     "_id": 5309,
-    "id": "evt-5309",
+    "id": "evt-2013-5309",
     "name": "Tuesday Night Twilight #12",
     "status": "",
     "type": "Criterium",
@@ -6984,7 +6984,7 @@
   },
   {
     "_id": 5310,
-    "id": "evt-5310",
+    "id": "evt-2013-5310",
     "name": "Tuesday Night Twilight #13",
     "status": "",
     "type": "Criterium",
@@ -7014,7 +7014,7 @@
   },
   {
     "_id": 5311,
-    "id": "evt-5311",
+    "id": "evt-2013-5311",
     "name": "Tuesday Night Twilight #14",
     "status": "",
     "type": "Criterium",
@@ -7044,7 +7044,7 @@
   },
   {
     "_id": 5312,
-    "id": "evt-5312",
+    "id": "evt-2013-5312",
     "name": "Tuesday Night Twilight #15",
     "status": "",
     "type": "Criterium",
@@ -7074,7 +7074,7 @@
   },
   {
     "_id": 5313,
-    "id": "evt-5313",
+    "id": "evt-2013-5313",
     "name": "Tuesday Night Twilight #16",
     "status": "",
     "type": "Criterium",
@@ -7104,7 +7104,7 @@
   },
   {
     "_id": 5329,
-    "id": "evt-5329",
+    "id": "evt-2013-5329",
     "name": "NCNCA Masters State Track District Championships p/b Team Specialized Racing",
     "status": "",
     "type": "Track",
@@ -7134,7 +7134,7 @@
   },
   {
     "_id": 5350,
-    "id": "evt-5350",
+    "id": "evt-2013-5350",
     "name": "McLaren Short Track Challenge — XC (SF MTB Festival)",
     "status": "",
     "type": "MTB",
@@ -7164,7 +7164,7 @@
   },
   {
     "_id": 5352,
-    "id": "evt-5352",
+    "id": "evt-2013-5352",
     "name": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Criterium",
@@ -7194,7 +7194,7 @@
   },
   {
     "_id": 5352,
-    "id": "evt-5352",
+    "id": "evt-2013-5352",
     "name": "Willow Creek Circuit Race (Stage 3 of Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Criterium",
@@ -7224,7 +7224,7 @@
   },
   {
     "_id": 5353,
-    "id": "evt-5353",
+    "id": "evt-2013-5353",
     "name": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Criterium",
@@ -7254,7 +7254,7 @@
   },
   {
     "_id": 5353,
-    "id": "evt-5353",
+    "id": "evt-2013-5353",
     "name": "Folsom Cyclebration Criterium (Stage 2 of Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Criterium",
@@ -7284,7 +7284,7 @@
   },
   {
     "_id": 5354,
-    "id": "evt-5354",
+    "id": "evt-2013-5354",
     "name": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Time Trial",
@@ -7314,7 +7314,7 @@
   },
   {
     "_id": 5354,
-    "id": "evt-5354",
+    "id": "evt-2013-5354",
     "name": "Folsom Cyclebration Time Trial (Stage 1 of the Folsom Cyclebration Omnium)",
     "status": "",
     "type": "Time Trial",
@@ -7344,7 +7344,7 @@
   },
   {
     "_id": 5361,
-    "id": "evt-5361",
+    "id": "evt-2013-5361",
     "name": "Folsom Cyclebration Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -7369,7 +7369,7 @@
   },
   {
     "_id": 5362,
-    "id": "evt-5362",
+    "id": "evt-2013-5362",
     "name": "Central Coast Cyclocross Series #1",
     "status": "",
     "type": "Cyclocross",
@@ -7399,7 +7399,7 @@
   },
   {
     "_id": 5363,
-    "id": "evt-5363",
+    "id": "evt-2013-5363",
     "name": "Central Coast Cyclocross Series #2",
     "status": "",
     "type": "Cyclocross",
@@ -7429,7 +7429,7 @@
   },
   {
     "_id": 5364,
-    "id": "evt-5364",
+    "id": "evt-2013-5364",
     "name": "Central Coast Cyclocross Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -7459,7 +7459,7 @@
   },
   {
     "_id": 5365,
-    "id": "evt-5365",
+    "id": "evt-2013-5365",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7489,7 +7489,7 @@
   },
   {
     "_id": 5366,
-    "id": "evt-5366",
+    "id": "evt-2013-5366",
     "name": "Central Coast Cyclocross Series #4",
     "status": "",
     "type": "Cyclocross",
@@ -7519,7 +7519,7 @@
   },
   {
     "_id": 5367,
-    "id": "evt-5367",
+    "id": "evt-2013-5367",
     "name": "Bay Area Super Prestige",
     "status": "",
     "type": "Cyclocross",
@@ -7549,7 +7549,7 @@
   },
   {
     "_id": 5368,
-    "id": "evt-5368",
+    "id": "evt-2013-5368",
     "name": "San Jose Cougar Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -7574,7 +7574,7 @@
   },
   {
     "_id": 5369,
-    "id": "evt-5369",
+    "id": "evt-2013-5369",
     "name": "Central Coast Cyclocross Series #5",
     "status": "",
     "type": "Cyclocross",
@@ -7604,7 +7604,7 @@
   },
   {
     "_id": 5370,
-    "id": "evt-5370",
+    "id": "evt-2013-5370",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7634,7 +7634,7 @@
   },
   {
     "_id": 5371,
-    "id": "evt-5371",
+    "id": "evt-2013-5371",
     "name": "Lion of Fairfax",
     "status": "",
     "type": "Cyclocross",
@@ -7659,7 +7659,7 @@
   },
   {
     "_id": 5372,
-    "id": "evt-5372",
+    "id": "evt-2013-5372",
     "name": "Surf City Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7689,7 +7689,7 @@
   },
   {
     "_id": 5374,
-    "id": "evt-5374",
+    "id": "evt-2013-5374",
     "name": "Bay Area Super Prestige",
     "status": "",
     "type": "Cyclocross",
@@ -7719,7 +7719,7 @@
   },
   {
     "_id": 5376,
-    "id": "evt-5376",
+    "id": "evt-2013-5376",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7744,7 +7744,7 @@
   },
   {
     "_id": 5377,
-    "id": "evt-5377",
+    "id": "evt-2013-5377",
     "name": "Surf City Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7774,7 +7774,7 @@
   },
   {
     "_id": 5378,
-    "id": "evt-5378",
+    "id": "evt-2013-5378",
     "name": "Bay Area Super Prestige",
     "status": "",
     "type": "Cyclocross",
@@ -7804,7 +7804,7 @@
   },
   {
     "_id": 5379,
-    "id": "evt-5379",
+    "id": "evt-2013-5379",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7834,7 +7834,7 @@
   },
   {
     "_id": 5381,
-    "id": "evt-5381",
+    "id": "evt-2013-5381",
     "name": "Stafford Lake Wildcat Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -7859,7 +7859,7 @@
   },
   {
     "_id": 5382,
-    "id": "evt-5382",
+    "id": "evt-2013-5382",
     "name": "Bay Area Super Prestige",
     "status": "",
     "type": "Cyclocross",
@@ -7889,7 +7889,7 @@
   },
   {
     "_id": 5383,
-    "id": "evt-5383",
+    "id": "evt-2013-5383",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7914,7 +7914,7 @@
   },
   {
     "_id": 5384,
-    "id": "evt-5384",
+    "id": "evt-2013-5384",
     "name": "Kitten of Vallejo Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -7939,7 +7939,7 @@
   },
   {
     "_id": 5385,
-    "id": "evt-5385",
+    "id": "evt-2013-5385",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7969,7 +7969,7 @@
   },
   {
     "_id": 5386,
-    "id": "evt-5386",
+    "id": "evt-2013-5386",
     "name": "Surf City Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -7999,7 +7999,7 @@
   },
   {
     "_id": 5387,
-    "id": "evt-5387",
+    "id": "evt-2013-5387",
     "name": "Surf City Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8029,7 +8029,7 @@
   },
   {
     "_id": 5388,
-    "id": "evt-5388",
+    "id": "evt-2013-5388",
     "name": "Homegrown Cyclocross Series | Fresno",
     "status": "",
     "type": "Cyclocross",
@@ -8054,7 +8054,7 @@
   },
   {
     "_id": 5389,
-    "id": "evt-5389",
+    "id": "evt-2013-5389",
     "name": "Sacramento Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8084,7 +8084,7 @@
   },
   {
     "_id": 5390,
-    "id": "evt-5390",
+    "id": "evt-2013-5390",
     "name": "Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8109,7 +8109,7 @@
   },
   {
     "_id": 5391,
-    "id": "evt-5391",
+    "id": "evt-2013-5391",
     "name": "Bay Area Super Prestige",
     "status": "",
     "type": "Cyclocross",
@@ -8139,7 +8139,7 @@
   },
   {
     "_id": 5392,
-    "id": "evt-5392",
+    "id": "evt-2013-5392",
     "name": "NCCX #5 — San Jose Supcat",
     "status": "",
     "type": "Cyclocross",
@@ -8164,7 +8164,7 @@
   },
   {
     "_id": 5392,
-    "id": "evt-5392",
+    "id": "evt-2013-5392",
     "name": "NCCX #5 — San Jose Supcat",
     "status": "",
     "type": "Cyclocross",
@@ -8189,7 +8189,7 @@
   },
   {
     "_id": 5394,
-    "id": "evt-5394",
+    "id": "evt-2013-5394",
     "name": "Central Coast Cyclocross Series #6",
     "status": "",
     "type": "Cyclocross",
@@ -8219,7 +8219,7 @@
   },
   {
     "_id": 5395,
-    "id": "evt-5395",
+    "id": "evt-2013-5395",
     "name": "Central Coast Cyclocross Series #7 — NCNCA/USA Cycling District Cyclocross Championships",
     "status": "",
     "type": "Cyclocross",
@@ -8249,7 +8249,7 @@
   },
   {
     "_id": 5396,
-    "id": "evt-5396",
+    "id": "evt-2013-5396",
     "name": "North/South Cyclocross Challenge — Bakersfield",
     "status": "",
     "type": "Cyclocross",
@@ -8274,7 +8274,7 @@
   },
   {
     "_id": 5400,
-    "id": "evt-5400",
+    "id": "evt-2013-5400",
     "name": "Santa Rosa Cup",
     "status": "",
     "type": "Cyclocross",
@@ -8304,7 +8304,7 @@
   },
   {
     "_id": 5401,
-    "id": "evt-5401",
+    "id": "evt-2013-5401",
     "name": "Santa Rosa Cup",
     "status": "",
     "type": "Cyclocross",
@@ -8334,7 +8334,7 @@
   },
   {
     "_id": 5403,
-    "id": "evt-5403",
+    "id": "evt-2013-5403",
     "name": "Savvy Bike Cyclocross Clinic — Bike Skills 103",
     "status": "",
     "type": "Cyclocross",
@@ -8359,7 +8359,7 @@
   },
   {
     "_id": 5407,
-    "id": "evt-5407",
+    "id": "evt-2013-5407",
     "name": "NCNCA Elite District Track Cycling Championships — DAY ONE: p/b NCVA and Hellyer Team Pursuit Program",
     "status": "",
     "type": "Track",
@@ -8389,7 +8389,7 @@
   },
   {
     "_id": 5411,
-    "id": "evt-5411",
+    "id": "evt-2013-5411",
     "name": "Sagebrush Cyclocross #1 — Hidden Valley Park",
     "status": "",
     "type": "Cyclocross",
@@ -8419,7 +8419,7 @@
   },
   {
     "_id": 5412,
-    "id": "evt-5412",
+    "id": "evt-2013-5412",
     "name": "Sagebrush Cyclocross #2 — Truckee Bike Park",
     "status": "",
     "type": "Cyclocross",
@@ -8449,7 +8449,7 @@
   },
   {
     "_id": 5413,
-    "id": "evt-5413",
+    "id": "evt-2013-5413",
     "name": "Sagebrush Cyclocross #3 — Archie Clayton Middle School",
     "status": "",
     "type": "Cyclocross",
@@ -8479,7 +8479,7 @@
   },
   {
     "_id": 5414,
-    "id": "evt-5414",
+    "id": "evt-2013-5414",
     "name": "Sagebrush Cyclocross #4 — Dorothy McAliden Park",
     "status": "",
     "type": "Cyclocross",
@@ -8509,7 +8509,7 @@
   },
   {
     "_id": 5415,
-    "id": "evt-5415",
+    "id": "evt-2013-5415",
     "name": "Sagebrush Cyclocross #5 — Davis Creek Park",
     "status": "",
     "type": "Cyclocross",
@@ -8539,7 +8539,7 @@
   },
   {
     "_id": 5416,
-    "id": "evt-5416",
+    "id": "evt-2013-5416",
     "name": "Folsom Cyclebration MTB",
     "status": "",
     "type": "MTB",
@@ -8564,7 +8564,7 @@
   },
   {
     "_id": 5417,
-    "id": "evt-5417",
+    "id": "evt-2013-5417",
     "name": "Sagebrush Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8589,7 +8589,7 @@
   },
   {
     "_id": 5419,
-    "id": "evt-5419",
+    "id": "evt-2013-5419",
     "name": "Sagebrush Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -8614,7 +8614,7 @@
   },
   {
     "_id": 5422,
-    "id": "evt-5422",
+    "id": "evt-2013-5422",
     "name": "NCNCA Elite District Track Cycling Championships — Sprint Qualifiers",
     "status": "",
     "type": "Track",
@@ -8644,7 +8644,7 @@
   },
   {
     "_id": 5423,
-    "id": "evt-5423",
+    "id": "evt-2013-5423",
     "name": "NCNCA Elite District Track Cycling Championships — DAY TWO: p/b NCVA and Hellyer Team Pursuit Program",
     "status": "",
     "type": "Track",
@@ -8674,7 +8674,7 @@
   },
   {
     "_id": 5440,
-    "id": "evt-5440",
+    "id": "evt-2013-5440",
     "name": "Stanford Cycling Mountain Bike Race",
     "status": "",
     "type": "MTB",
@@ -8699,7 +8699,7 @@
   },
   {
     "_id": 5442,
-    "id": "evt-5442",
+    "id": "evt-2013-5442",
     "name": "Fall Timed Event Series #1",
     "status": "",
     "type": "Track",
@@ -8729,7 +8729,7 @@
   },
   {
     "_id": 5443,
-    "id": "evt-5443",
+    "id": "evt-2013-5443",
     "name": "Fall Timed Event Series #2",
     "status": "",
     "type": "Track",
@@ -8759,7 +8759,7 @@
   },
   {
     "_id": 5444,
-    "id": "evt-5444",
+    "id": "evt-2013-5444",
     "name": "Fall Timed Event Series #3",
     "status": "",
     "type": "Track",
@@ -8789,7 +8789,7 @@
   },
   {
     "_id": 5445,
-    "id": "evt-5445",
+    "id": "evt-2013-5445",
     "name": "Fall Timed Event Series #4",
     "status": "",
     "type": "Track",
@@ -8819,7 +8819,7 @@
   },
   {
     "_id": 5448,
-    "id": "evt-5448",
+    "id": "evt-2013-5448",
     "name": "Cycle with Champions",
     "status": "",
     "type": "Road Race",
@@ -8849,7 +8849,7 @@
   },
   {
     "_id": 5452,
-    "id": "evt-5452",
+    "id": "evt-2013-5452",
     "name": "The \"Lou Fest\" Night Race — Homegrown Cyclocross Series",
     "status": "",
     "type": "Cyclocross",
@@ -8874,7 +8874,7 @@
   },
   {
     "_id": 5455,
-    "id": "evt-5455",
+    "id": "evt-2013-5455",
     "name": "Right Start Beginner's Racing Clinic p/b Wenzel Coaching",
     "status": "",
     "type": "Clinics",
@@ -8904,7 +8904,7 @@
   },
   {
     "_id": 5461,
-    "id": "evt-5461",
+    "id": "evt-2013-5461",
     "name": "The \"Lou Fest\" Night Cyclocross Race — Homegrown Series",
     "status": "",
     "type": "Cyclocross",
@@ -8929,7 +8929,7 @@
   },
   {
     "_id": 5468,
-    "id": "evt-5468",
+    "id": "evt-2013-5468",
     "name": "El Dorado Hills Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -8959,7 +8959,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Track",
@@ -8984,7 +8984,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Time Trial",
@@ -9009,7 +9009,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Road Race",
@@ -9034,7 +9034,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Criterium",
@@ -9059,7 +9059,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "MTB",
@@ -9084,7 +9084,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Cyclocross",
@@ -9109,7 +9109,7 @@
   },
   {
     "_id": 5626,
-    "id": "evt-5626",
+    "id": "evt-2013-5626",
     "name": "NCNCA Board Meeting",
     "status": "",
     "type": "Clinics",
