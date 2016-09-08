@@ -4873,8 +4873,8 @@
     "id": "evt-2015-23280",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "January 19 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -4903,8 +4903,8 @@
     "id": "evt-2015-23281",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "February 23 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -4933,8 +4933,8 @@
     "id": "evt-2015-23283",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "March 16 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -4963,8 +4963,8 @@
     "id": "evt-2015-23284",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "April 20 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -4993,8 +4993,8 @@
     "id": "evt-2015-23285",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "May 18 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5023,8 +5023,8 @@
     "id": "evt-2015-23286",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "June 15 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5053,8 +5053,8 @@
     "id": "evt-2015-23287",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "July 20 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5083,8 +5083,8 @@
     "id": "evt-2015-23288",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "August 17 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5113,8 +5113,8 @@
     "id": "evt-2015-23289",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "September 21 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5143,8 +5143,8 @@
     "id": "evt-2015-23290",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "October 19 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5173,8 +5173,8 @@
     "id": "evt-2015-23291",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "November 16 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5203,8 +5203,8 @@
     "id": "evt-2015-23292",
     "name": "NCNCA Board Meeting",
     "status": "",
-    "type": "NCNCA Meeting",
-    "discipline": "",
+    "type": "Meeting",
+    "discipline": "Other",
     "date": "December 21 2015",
     "location": {
       "name": "Courtyard Marriott",
@@ -5844,7 +5844,7 @@
     "name": "Ride2Recovery: Resilient Warrior Ride",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "April 06 2015",
     "location": {
       "name": "",
@@ -5974,7 +5974,7 @@
     "name": "Ride2Recovery: Women's Initiative Spring",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "May 04 2015",
     "location": {
       "name": "Zephyr Point Conference Center",
@@ -6248,7 +6248,7 @@
     "name": "Sierra Valley Gran Fondo",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "September 13 2015",
     "location": {
       "name": "",
@@ -6273,7 +6273,7 @@
     "name": "Salinas Community Bicycle Ride",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "May 30 2015",
     "location": {
       "name": "Race Location",
@@ -6843,7 +6843,7 @@
     "name": "Hellyer Park Velodrome — Fun Day at the Velodrome",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "May 16 2015",
     "location": {
       "name": "Race Location",
@@ -7173,7 +7173,7 @@
     "name": "JDRF Ride to Cure Diabetes — Death Valley",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 15 2015",
     "location": {
       "name": "Race Location",
@@ -7308,7 +7308,7 @@
     "name": "California Challenge",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 17 2015",
     "location": {
       "name": "Race Location",
@@ -7338,7 +7338,7 @@
     "name": "Crush Challenge p/b Amgen",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 10 2015",
     "location": {
       "name": "Napa Valley",
@@ -7363,7 +7363,7 @@
     "name": "C510 Super Cat II — Mixed Terrain Alleycat",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "September 13 2015",
     "location": {
       "name": "Race Location",
@@ -7668,7 +7668,7 @@
     "name": "Cycle with Champions p/b Team Swift",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 11 2015",
     "location": {
       "name": "Sonoma Country Day School",
@@ -8368,7 +8368,7 @@
     "name": "Ride2Recovery: Women's Initiative Fall",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "November 01 2015",
     "location": {
       "name": "Wonder Valley Ranch Resort & Conference Center",
@@ -8453,7 +8453,7 @@
     "name": "Dylan's 2015 Livestrong Ride",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 11 2015",
     "location": {
       "name": "Race Location",
@@ -8653,7 +8653,7 @@
     "name": "Pedal Merced",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "October 11 2015",
     "location": {
       "name": "Merced High School",
@@ -8913,7 +8913,7 @@
     "name": "2016 Coast Ride",
     "status": "",
     "type": "Non-competitive",
-    "discipline": "",
+    "discipline": "Non-Competitive",
     "date": "January 16 2015",
     "location": {
       "name": "Race Location",
