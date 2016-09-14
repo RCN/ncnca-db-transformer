@@ -1,7 +1,6 @@
 [
   {
-    "_id": 2591,
-    "id": "evt-2010-2591",
+    "id": "evt-2010-dec-11-2591-cx",
     "name": "Folsom Cyclocross",
     "status": "",
     "type": "Cyclocross",
@@ -16,17 +15,21 @@
       "lat": 38.649003,
       "long": -121.15577
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [],
     "promoterInfo": "Hosted by Team Bicycle Planet",
-    "flyerName": null,
+    "registrationUrl": "",
+    "flyer": {
+      "name": null,
+      "url": "",
+      "mimeType": null
+    },
     "flyerUrl": "",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": []
   },
   {
-    "_id": 2592,
-    "id": "evt-2010-2592",
+    "id": "evt-2010-dec-12-2592-cx",
     "name": "Surf City Cyclocross Series #3",
     "status": "",
     "type": "Cyclocross",
@@ -41,17 +44,27 @@
       "lat": 36.976882,
       "long": -121.862374
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [],
     "promoterInfo": null,
-    "flyerName": null,
+    "registrationUrl": "",
+    "flyer": {
+      "name": null,
+      "url": "",
+      "mimeType": null
+    },
     "flyerUrl": "",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": [
+      {
+        "id": "ser-4726",
+        "name": "Surf City Cyclocross 2010",
+        "url": ""
+      }
+    ]
   },
   {
-    "_id": 2593,
-    "id": "evt-2010-2593",
+    "id": "evt-2010-dec-12-2593-cx",
     "name": "Homegrown Series Race #4",
     "status": "",
     "type": "Cyclocross",
@@ -66,17 +79,21 @@
       "lat": 36.862317,
       "long": -119.790115
     },
-    "usacPermit": "2010-2611",
     "resultsUrl": null,
     "promoters": [],
     "promoterInfo": null,
-    "flyerName": "FL_2010-2611.pdf",
+    "registrationUrl": "https://www.sportsbaseonline.com/events/index.xhtml?categoryId=31884",
+    "flyer": {
+      "name": "FL_2010-2611.pdf",
+      "url": "http://www.ncnca.org/sites/default/files/Fri,%2012/10/2010%20-%2010:47/FL_2010-2611.pdf",
+      "mimeType": "application/pdf"
+    },
     "flyerUrl": "http://www.ncnca.org/sites/default/files/Fri,%2012/10/2010%20-%2010:47/FL_2010-2611.pdf",
-    "registrationUrl": "https://www.sportsbaseonline.com/events/index.xhtml?categoryId=31884"
+    "usacPermit": "2010-2611",
+    "series": []
   },
   {
-    "_id": 2601,
-    "id": "evt-2010-2601",
+    "id": "evt-2010-dec-18-2601-cx",
     "name": "Monkey Cross #4",
     "status": "",
     "type": "Cyclocross",
@@ -91,7 +108,6 @@
       "lat": 38.418292,
       "long": -122.660723
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [
       {
@@ -100,13 +116,24 @@
       }
     ],
     "promoterInfo": null,
-    "flyerName": null,
+    "registrationUrl": "",
+    "flyer": {
+      "name": null,
+      "url": "",
+      "mimeType": null
+    },
     "flyerUrl": "",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": [
+      {
+        "id": "ser-2605",
+        "name": "Monkey Cross",
+        "url": ""
+      }
+    ]
   },
   {
-    "_id": 2603,
-    "id": "evt-2010-2603",
+    "id": "evt-2010-dec-18-2603-cx",
     "name": "Sacramento Cyclocross #6",
     "status": "",
     "type": "Cyclocross",
@@ -121,7 +148,6 @@
       "lat": 38.204465,
       "long": -121.296701
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [
       {
@@ -130,13 +156,24 @@
       }
     ],
     "promoterInfo": "Course Map: http://www.bicyclingevents.com/SacCx/images/LangeTwins1_2010.jpg",
-    "flyerName": "LangTwinsFlyer-v2.pdf",
+    "registrationUrl": "",
+    "flyer": {
+      "name": "LangTwinsFlyer-v2.pdf",
+      "url": "http://www.ncnca.org/sites/default/files/Mon,%2012/13/2010%20-%2015:36/LangTwinsFlyer-v2.pdf",
+      "mimeType": "application/pdf"
+    },
     "flyerUrl": "http://www.ncnca.org/sites/default/files/Mon,%2012/13/2010%20-%2015:36/LangTwinsFlyer-v2.pdf",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": [
+      {
+        "id": "ser-2606",
+        "name": "Sacramento Cyclocross",
+        "url": ""
+      }
+    ]
   },
   {
-    "_id": 2610,
-    "id": "evt-2010-2610",
+    "id": "evt-2010-dec-19-2610-cx",
     "name": "Central Coast Cyclocross Series #7",
     "status": "",
     "type": "Cyclocross",
@@ -151,7 +188,6 @@
       "lat": 36.625413,
       "long": -121.782718
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [
       {
@@ -160,13 +196,29 @@
       }
     ],
     "promoterInfo": "Waiver - print and fill out ahead of time: http://www.cccxcycling.com/AB_WAIVER.pdf",
-    "flyerName": null,
+    "registrationUrl": "",
+    "flyer": {
+      "name": null,
+      "url": "",
+      "mimeType": null
+    },
     "flyerUrl": "",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": [
+      {
+        "id": "ser-3214",
+        "name": "USAC-Sanctioned Cyclocross Events",
+        "url": ""
+      },
+      {
+        "id": "ser-2607",
+        "name": "Central Coast Cyclocross 2010",
+        "url": ""
+      }
+    ]
   },
   {
-    "_id": 2612,
-    "id": "evt-2010-2612",
+    "id": "evt-2010-dec-19-2612-cx",
     "name": "Sagebrush Cyclocross Series #6",
     "status": "",
     "type": "Cyclocross",
@@ -181,12 +233,17 @@
       "lat": 39.47473,
       "long": -119.802346
     },
-    "usacPermit": "",
     "resultsUrl": null,
     "promoters": [],
     "promoterInfo": null,
-    "flyerName": null,
+    "registrationUrl": "",
+    "flyer": {
+      "name": null,
+      "url": "",
+      "mimeType": null
+    },
     "flyerUrl": "",
-    "registrationUrl": ""
+    "usacPermit": "",
+    "series": []
   }
 ]
